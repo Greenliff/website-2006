@@ -1,0 +1,563 @@
+html,
+body {
+   margin: 0;
+   padding: 0;
+   background-color: White;
+   color: #0C1B32;
+   text-align: center;
+   height: 100%;
+}
+
+div, p, li, h1, h2, h3, h4, h5, input, textarea, td, th {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 11px;
+}
+
+td {
+   vertical-align: top;
+}
+
+p {
+   line-height: 17px;
+   margin: 0 0 10px 0;
+}
+
+#content ul,
+#contentleer ul,
+#scrollcontent ul {   
+   margin-top: 0px;
+   margin-left: 0;
+   padding-left: 20px;
+   line-height: 17px;
+}
+
+#content ul ul,
+#contentleer ul ul,
+#scrollcontent ul ul {   
+   margin-top: 0px;
+   margin-left: 0;
+   padding-left: 20px;
+   line-height: 17px;   
+}
+
+#content ul ul li,
+#contentleer ul ul li,
+#scrollcontent ul ul li {
+   list-style-type: disc;
+}
+
+.news ul
+{
+   margin-top: 0;
+   padding-top: 10px;
+}
+
+.titel, h2, h3 {
+   color: #0C1B32;
+   font-weight: bold;
+   margin: 0;
+}
+
+h1 {
+   font-weight: bold;
+   font-size: 13px;
+   margin: 0;
+   margin-left: -1px;
+}
+
+.abstandOben {
+   margin-top: 17px;
+}
+
+img,
+img a,
+img a:hover,
+img a:visited, 
+img a:active {
+   border: none;
+}
+
+#abstand {
+	height: 50%; 
+	width: 100px;
+	margin-bottom: -282px;
+   float: left;
+}
+
+#container {
+   clear: left;
+   position: relative;
+   width: 970px;
+   height: 564px;
+   margin: auto auto;
+   padding: 0;
+   background-color: #EEEFF1;
+   overflow: visible;
+}
+
+#printhead {
+   display: none;
+}
+
+#left {
+   clear:left;
+   float: left;
+   width: 200px;
+   height: 520px;   
+   background-color: #0087CB;
+   border-right: 3px solid White;
+}
+
+#navcontainer {
+   float: left;
+   width: 200px;
+   height: 490px;
+   text-align: left;
+}
+
+#navcontainer ul, 
+#navcontainer ul ul {
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+   font-family: Arial, Helvetica, sans-serif;
+   white-space: nowrap;
+}
+
+#navcontainer ul {
+   margin-top: 30px;
+}
+
+#navcontainer li,
+#navcontainer ul ul li {
+   margin-top: 13px;
+   padding: 0;
+   width: 200px;
+}
+
+#navcontainer ul ul li {
+   margin: 0;
+}
+
+#navcontainer a, 
+#navcontainer ul ul a {
+   padding-left: 15px;
+   color: #0C1B32;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: 15px;
+   line-height: 20px;
+}
+
+#navcontainer ul ul a {
+   padding-left: 30px;
+   font-size: 12px;
+   line-height: 19px;
+}
+
+#impressum a {
+   float: left;
+   font-size: 11px;
+   font-weight: normal;
+   margin-left: 16px;
+   color: #0C1B32;
+   text-decoration: none;
+}
+
+#navcontainer a:hover, 
+#navcontainer a:active, 
+#navcontainer ul ul a:hover, 
+#navcontainer ul ul a:active,
+#impressum a:hover,
+#impressum a:active {
+   color: White;
+}
+
+div .doppelpfeil,
+div .einfachpfeil {   
+   background-image: url(/images/company_dpfeil.gif);
+   background-position: right;
+   background-repeat: no-repeat;
+   padding-right: 20px;
+}
+
+div .einfachpfeil {   
+   background-image: url(/images/company_pfeil.gif);
+}
+
+#middle {
+   float: left;
+   width: 107px;
+   height: 520px;
+   background-color: #78B4E1;
+   text-align: left;
+   border-right: 3px solid White;
+}
+
+#content,
+#contentleer,
+#scrollcontent {
+   float: right;
+   width: 607px;
+   height: 440px;
+   padding: 40px 20px 40px 0;
+   text-align: left;
+}
+
+#scrollcontent {
+   overflow: auto;
+   margin: 40px 0;
+   padding: 0 20px 0 0;
+}
+
+#scrollcontent .startspalte {
+   margin-right: 0;
+}
+
+.home,
+.homeBlank {
+   background-image: url(/images/hintergrundtext_klein.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.homeBlank {
+   background-image: url(/images/company_blanco.gif);
+}
+
+#scrollcontent {
+   background-image: none;   
+}
+
+#footer {
+   clear: both;
+   padding-top: 4px;
+   margin: 0;
+   background-color: White;
+   width: 970px;
+   height: 40px;
+   text-align: right;
+}
+
+.zitat {
+   font-family: "Courier New", Courier, monospace;
+   font-style: italic;
+   font-weight: bold;
+   line-height: 16px;
+   color: #0C1B32;
+   margin-top: 35px;
+}
+
+.spalte1,
+.spalte2,
+.spalte3,
+.news
+{
+   float: left;
+   width: 180px; 
+   margin: 0;
+   padding: 0;
+}
+
+.spalte1,
+.spalte2,
+.startspalte,
+.impressumspalte {
+   margin-right: 20px;
+}
+
+.einspaltig {
+   width: 440px;
+   overflow: visible;
+}
+
+.startspalte,
+.spalte2Breit {
+   float: left;
+   width: 383px;   
+}
+
+.spalte2Breit h2 {
+   color: Black;
+   background-color: #78B4E1;
+   font-weight: bold;
+   padding: 2px 4px;
+}
+
+.spalte2Breit h3 {
+   color: #0087CB;
+}
+
+.impressumspalte {
+   float: left;
+   width: 210px;
+}
+
+.spaltebreit {
+   width: 100%;
+}
+
+.marker {
+   color: #0064A9;
+   font-weight: bold;
+}
+
+#content ul,
+#contentleer,
+#scrollcontent {
+   margin-left: 0;
+   padding-left: 20px;
+   text-decoration: none;
+}
+
+#content a,
+#content a:visited,
+#content a:hover,
+#content a:active,
+#contentleer a,
+#contentleer a:visited,
+#contentleer a:hover,
+#contentleer a:active,
+#scrollcontent a,
+#scrollcontent a:visited,
+#scrollcontent a:hover,
+#scrollcontent a:active
+{
+   color: #0064A9;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover {
+   text-decoration: underline;
+}
+
+.news {
+   float: right;
+   /*width: 190px;*/
+   background-color: #F8F8F8;
+   margin-right: 22px;
+}
+
+.news h2,
+.news h3 {
+   width: 97%;
+   font-size: 12px;
+   font-weight: bold;
+   background-color: #78B4E1;
+   padding-top: 3px;
+   padding-bottom: 0;
+   padding-left: 3%;
+   padding-right: 0%;
+}
+
+.news h2 {
+   text-transform: uppercase;
+   font-style: italic;
+}
+
+.news img {
+   margin: 10px 0 0 0;
+}
+
+.news p,
+.news h1 {
+   padding: 10px 5px 3px 5px;
+   margin: 0;
+}
+
+.news ul {
+   color: #0087CB;
+}
+
+.news li {
+   text-align: left;
+}
+
+.anschrift {
+   float: left;
+   width: 95px;
+}
+
+.label,
+.formlabel {
+   float: left;
+   width: 95px;
+   height: 18px;
+   padding-top: 5px;
+   vertical-align: text-bottom;
+}
+
+.label {
+   padding-top: 0;
+}
+
+ .required {
+   font-weight: bold;    
+ }
+
+.formfeld,
+.formfeldkurz,
+.textarea {
+   width: 250px;
+   border: 1px solid #0087CB;
+   background-color: #EEEFF1;
+   padding: 1px 5px;
+}
+
+.formfeldkurz {
+   width: 60px;
+}
+
+.textarea {
+   height: 80px;
+}
+
+.formfeld:hover,
+.formfeld:active,
+.formfeldkurz:hover,
+.formfeldkurz:active,
+.textarea:hover,
+.textarea:active {
+   background-color: #78B4E1;
+}
+
+.submit {
+   margin: 0;
+   padding: 2px 5px;
+   width: 262px;
+   text-align: center;
+   font-weight: bold;
+   border: 1px solid #0087CB;
+   background-color: #78B4E1;
+}
+
+.submit:hover {
+   background-color: #0087CB;
+   color: White;
+}
+
+.div1 {
+   margin: 6px 0;
+   padding: 0;
+}
+
+.div2,
+.div3 {
+   margin: 5px 0 5px 95px;
+   padding: 0;
+}
+
+.div4 {
+   margin: 15px 0 6px 0;
+   padding: 0;
+}
+
+.div5 {
+   margin:5px 0;
+   padding:0;
+   float:left;
+   width: 90px;
+}
+
+.div1,
+.div2,
+.div4,
+.div5 {   
+   clear: left;
+}
+
+.center {
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+.copyright {
+   float:left;
+   color: #A1A1A1;
+   font-size: 10px;
+   margin: 10px 0 0 15px;
+   padding: 0;
+}
+
+
+table .collapse {
+   border-collapse: separate;
+}
+
+tr .collapse,
+table .collapse {
+   margin: 0;
+   padding: 0;
+}
+
+.tablehead {
+   font-weight: bold;
+   background-color: #78B4E1;
+}
+
+.tdSpalte {
+   padding: 2px 8px 2px 4px;
+   margin: 0;
+   width: auto;
+   border-bottom: 1px solid #A1A1A1;
+}
+
+.tdZweispaltig {
+   width: 368px;
+}
+
+td .zweispaltig1 {
+   width: 276px;
+}
+
+td .zweispaltig2 {
+   width: 116px;
+}
+
+.tdLeerspalte {   
+   width: 10px;
+   border: none;
+   background-color: transparent;
+}
+
+.tdRechts {   
+   width: auto;
+   padding-right: 30px;
+}
+
+.noBorder,
+.tablehead {
+   border: none;
+}
+
+.bildlinks {
+   float: left;
+   margin: 0 5px 5px 0;
+}
+
+.bildrechts {
+   float: right;
+   margin: 0 0 5px 5px;
+}
+
+/* Styles Company-Seiten */
+
+.anfahrtsskizze {
+   background-image: url(/images/Greenliff_Anfahrtskizze_neu.gif);
+   background-position: left top;
+   background-repeat: no-repeat;
+}
+
+.pdficon {
+   float: left;
+   width: 41px;
+}
+
+.event {
+   clear:left;
+   padding-top:20px;
+}

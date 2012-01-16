@@ -1,0 +1,32 @@
+body,html { 
+   scrollbar-face-color: #DDDDDD; 
+   scrollbar-shadow-color: #AAAAAA;
+   scrollbar-highlight-color: White;
+   scrollbar-3dlight-color: White;
+   scrollbar-darkshadow-color: #0C1B32;
+   scrollbar-track-color: #EEEFF1;
+   scrollbar-arrow-color: #0C1B32;
+}
+
+.div2 {
+   margin-left: 98px;
+}
+
+#content ul,
+#contentleer u,
+#scrollcontent u {
+   margin-left: 3px;
+   padding-left: 20px;
+}
+
+.copyright {
+   margin-left: 7px;
+}
+
+.ie6korrektur {
+   margin-left: -3px;
+}
+
+.event {
+   padding-top: 10px;
+}

@@ -1,0 +1,77 @@
+#middle {
+  background-color: #d1d6e0;
+}
+
+#left {
+   background-color: #a4aec1;
+}
+
+#navcontainer .doppelpfeil {
+   background-image: url(/images/contact_dpfeil.gif);
+}
+
+#navcontainer .einfachpfeil {   
+   background-image: url(/images/contact_pfeil.gif);
+}
+
+.contact,
+.contactBlank {
+   background-image: url(/images/contact_back.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.contactBlank {
+   background-image: url(/images/contact_blanco.gif);
+}
+
+.anfahrtsskizze {
+   background-image: url(/images/Greenliff_Anfahrtskizze_neu.gif);
+   background-position: left top;
+   background-repeat: no-repeat;
+}
+
+.pdficon {
+   float: left;
+   width: 41px;
+}
+
+.marker,
+.news ul,
+#content a,
+#contentleer a,
+#scrollcontent a,
+#content a:visited,
+#contentleer a:visited,
+#scrollcontent a:visited,
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover,
+#content a:active,
+#contentleer a:active,
+#scrollcontent a:active 
+{
+   color: #8896A6;
+}
+
+.news h2,
+.news h3 {
+   background-color: #D1D6E0;
+}
+
+.formfeld,
+.formfeldkurz,
+.textarea,
+.submit {
+   border-color: #A4AEC1;
+}
+
+.formfeld:hover,
+.formfeld:active,
+.formfeldkurz:hover,
+.formfeldkurz:active,
+.textarea:hover,
+.textarea:active,
+.submit {
+   background-color: #D1D6E0;
+}

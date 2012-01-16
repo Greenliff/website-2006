@@ -1,0 +1,28 @@
+.div2 {
+   margin-left: 98px;
+}
+
+.submit {
+   width: 250px;
+}
+
+#content,
+#contentleer,
+#scrollcontent {
+   height: 520px; 
+}
+
+#content ul,
+#contentleer ul,
+#scrollcontent ul {
+   margin-left: 0;
+   padding-left: 20px;
+}
+
+.copyright {
+   margin-left: 7px;
+}
+
+.news {
+   margin-right: 11px;
+}

@@ -1,0 +1,65 @@
+#middle,
+.news h2,
+.news h3 {
+  background-color: #FFE9AD;
+}
+
+#left,
+.formfeld:hover,
+.formfeld:active,
+.formfeldkurz:hover,
+.formfeldkurz:active,
+.textarea:hover,
+.textarea:active,
+.submit {
+   background-color: #FFD35C;
+}
+
+#navcontainer .doppelpfeil {
+   background-image: url(/images/partner_dpfeil.gif);
+}
+
+#navcontainer .einfachpfeil {   
+   background-image: url(/images/partner_pfeil.gif);
+}
+
+.partners,
+.partnersBlank {
+   background-image: url(/images/partner_back.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.partnersBlank {
+   background-image: url(/images/partner_blanco.gif);
+}
+
+.marker,
+.news ul,
+#content a,
+#contentleer a,
+#scrollcontent a,
+#content a:visited,
+#contentleer a:visited,
+#scrollcontent a:visited,
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover,
+#content a:active,
+#contentleer a:active,
+#scrollcontent a:active 
+{
+   color: #FFBC09;
+}
+
+.formfeld,
+.formfeldkurz,
+.textarea,
+.submit {
+   border-color: #FFD35C;
+}
+
+.partnerlogo  {
+   width: auto;
+   margin: 20px 0;   
+}

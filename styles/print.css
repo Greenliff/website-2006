@@ -1,0 +1,346 @@
+html,
+body {
+   margin: 0;
+   padding: 0;
+   background-color: White;
+   color: Black;
+   width: auto;
+   text-align: center;
+   page-break-inside: auto;
+}
+
+div, p, li, h1, h2, h3, h4, h5, input, textarea, td, th {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12pt;
+}
+
+p {
+   line-height: 17pt;
+   margin: 0 0 5mm 0;
+}
+
+li {
+  line-height: 17pt;
+}
+
+h1 {
+   font-size: x-large;
+   margin: 0 0 1cm 0;
+}
+
+.titel, h2, h3 {
+   font-weight: bold;
+   margin: 0;
+}
+
+h2 {
+   font-size: large;
+   margin-bottom: 0.5cm
+}
+
+#container {
+   margin: 0;
+   padding: 0;
+   width: 100%;
+   height: auto;
+   background-color: White;
+   page-break-inside: auto;
+}
+
+#printhead {
+   display: block;
+   width: 100%;
+   height: auto;
+   background-color: White;
+   color: Black;
+   margin-bottom: 5mm;
+   padding-bottom: 5mm;
+   border-bottom: 1pt solid Black;
+}
+
+#printhead img {
+   float: left;
+}
+#printhead p {
+   font-size: 10pt;
+   font-weight: bold;
+   margin: 0 0 0 6cm;
+}
+
+#abstand,
+#left,
+#navcontainer,
+#impressum,
+#middle,
+#footer  {
+   display: none;
+}
+
+#content,
+#contentleer,
+#scrollcontent {
+   float: none;
+   width: auto;
+   height: auto;
+   padding: 0;
+   text-align: left;
+   page-break-inside: auto;
+}
+
+.home,
+.contact,
+.customers,
+.partners,
+.portfolio,
+.products {
+   background-image: none;
+}
+
+#footer {
+   clear: both;
+   padding-top: 4px;
+   margin: 0;
+   background-color: White;
+   width: auto;
+   height: auto;
+   text-align: left;
+}
+
+.zitat {
+   font-family: "Courier New", Courier, monospace;
+   font-style: italic;
+   font-weight: bold;
+   line-height: 16pt;
+   margin-top: 35pt;
+}
+
+.spalte1,
+.spalte2,
+.spalte3
+{
+   float: left;
+   width: 30%;
+}
+
+.spalte1,
+.spalte2,
+.startspalte {
+   margin-right: 3%;
+}
+
+#scrollcontent .spalte1,
+#scrollcontent .spalte2,
+#scrollcontent .spalte3,
+#scrollcontent .news,
+#scrollcontent .startspalte
+{
+   clear: both;
+   float: left;
+   width: auto; 
+   margin-right: 1cm;
+   page-break-inside: auto;
+}
+
+
+
+.einspaltig {
+   width: auto;
+   overflow: visible;
+}
+
+.startspalte {
+   float: left;
+   width: 60%;
+}
+
+.marker {
+   color: Black;
+   font-weight: bold;
+}
+
+#content a,
+#content a:visited,
+#content a:hover,
+#content a:active
+{
+   color: Black;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+img a,
+img a:visited,
+img a:hover,
+img a:active
+{
+   text-decoration: none;
+   border: none;
+}
+
+.news {
+   float: right;
+   width: 30%;
+   background-color: White;
+   border: 1px solid black;
+}
+
+.news h2,
+.news h3 {
+   width: 97%;
+   font-size: 12pt;
+   font-weight: bold;
+   background-color: transparent;
+   padding-top: 2mm;
+   padding-bottom: 0;
+   padding-left: 3%;
+   padding-right: 0%;
+}
+
+.news h2 {
+   text-transform: uppercase;
+   font-style: italic;
+}
+
+.news img {
+   margin: 5mm 0 0 0;
+}
+
+.news p,
+.news h1 {
+   padding: 5mm 3mm 3mm 3mm;
+}
+
+.news ul,
+#content ul {
+   color: Black;
+   text-align: left;
+   padding-left: 20px;
+   margin-left: 20px;
+}
+
+.anschrift {
+   float: left;
+   width: 3cm;
+}
+
+.formlabel {
+   float: left;
+   width: 5cm;
+   height: 18pt;
+   padding-top: 5mm;
+   vertical-align: text-bottom;
+}
+
+ .required {
+   font-weight: bold;    
+ }
+
+.formfeld,
+.formfeld:hover,
+.formfeld:active {
+   width: 7cm;
+   border: 1px solid Black;
+   background-color: White;
+   padding: 1mm 5mm;
+}
+
+.submit,
+.submit:hover {
+   margin: 0;
+   padding: 2px 5px;
+   width: 7cm;
+   text-align: center;
+   font-weight: bold;
+   border: 1px solid Black;
+   background-color: #D3D3D3;
+}
+
+a,
+a:visited,
+a:hover,
+a:active
+{
+   color: Black;
+   font-weight: normal;
+   text-decoration: underline;
+}
+
+.div1 {
+   margin: 6mm 0;
+   padding: 0;
+}
+
+.div2,
+.div3 {
+   margin: 5mm 0 5mm 5cm;
+   padding: 0;
+}
+
+.div4 {
+   margin: 15mm 0 6mm 0;
+   padding: 0;
+}
+
+.div5 {
+   margin:5mm 0;
+   padding:0;
+   float:left;
+   width: 5cm;
+}
+
+.div1,
+.div2,
+.div4,
+.div5 {   
+   clear: left;
+}
+
+.center {
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+
+.collapse table {
+   border-collapse: separate;
+}
+
+.collapse tr,
+.collapse table {
+   margin: 0;
+   padding: 0;
+}
+
+.tablehead {
+   font-weight: bold;
+   background-color: #EEE;
+   border-bottom: 1px solid #A1A1A1;
+}
+
+.tdZweispaltig {
+   width: 11cm;
+}
+
+.tdSpalte {
+   padding: 1mm 2mm;
+   margin: 0;
+   width: auto;
+   border-bottom: 1px solid #A1A1A1;
+}
+
+.tdLeerspalte {   
+   width: 3mm;
+   border: none;
+   background-color: transparent;
+}
+
+.tdRechts {   
+   width: auto;
+   padding-right: 5mm;
+}
+
+.noBorder,
+.tablehead {
+   border: none;
+}

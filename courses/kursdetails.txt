@@ -1,0 +1,121 @@
+<?php
+$kurse = array();
+
+// Pro Kurs eine Nummer vergeben und die Daten erfassen (id muss mit dem 
+// Array-Schluessel uebereinstimmen!)
+// ® = &#174; (muss ersetzt werden fuer eine standardkonforme Anzeige)
+// $kurse[Nr]["published"] = true oder false
+//                           true: Kurs wird bei den upcoming courses
+//                           (upcoming_courses.php) aufgeführt
+// $kurse[Nr]["until"] = Datum, bis zu dem der Kurs publiziert werden soll. Nach diesem Datum
+//                       wird er nicht mehr angezeigt und eine Anmeldung ist nicht mehr moeglich
+// Weitere variable Groessen koennen beliebig dem Array hinzugefuegt werden (z.B. Anzahl Kurstage)
+
+$id = 124;
+$kurse[$id]["id"] = "$id";
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[$id]["date"] = "06.12. - 09.12.2010";
+$kurse[$id]["location"] = "München";
+$kurse[$id]["fee"] = "2600";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-12-09";
+
+$id = 125;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[$id]["date"] = "25.05. - 28.05.2010";
+$kurse[$id]["location"] = "Zürich";
+$kurse[$id]["fee"] = "2600";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = false;
+$kurse[$id]["until"] = "2010-05-28";
+
+$id = 126;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level (intensive course)
+(CT-FL-I)";
+$kurse[$id]["date"] = "02.11. - 04.11.2010";
+$kurse[$id]["location"] = "Zürich";
+$kurse[$id]["fee"] = "2150";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-11-04";
+
+$id = 127;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level (intensive course)
+(CT-FL-I)";
+$kurse[$id]["date"] = "31.05. - 02.06.2010";
+$kurse[$id]["location"] = "Stuttgart";
+$kurse[$id]["fee"] = "2150";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = false;
+$kurse[$id]["until"] = "2010-06-02";
+
+$id = 128;
+$kurse[$id]["id"] = "$id";
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[$id]["date"] = "11.10. - 14.10.2010";
+$kurse[$id]["location"] = "Stuttgart";
+$kurse[$id]["fee"] = "2600";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-10-14";
+
+$id = 301;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "Test Manager - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[$id]["date"] = "";
+$kurse[$id]["location"] = "Zurich";
+$kurse[$id]["fee"] = "2950";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = false;
+$kurse[$id]["until"] = "";
+
+$id = 302;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "Test Manager - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[$id]["date"] = "19.07. - 24.07.2010";
+$kurse[$id]["location"] = "Möhrendorf / Nürnberg";
+$kurse[$id]["fee"] = "3440";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-07-24";
+
+
+$id = 400;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "Functional Tester - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[$id]["date"] = "";
+$kurse[$id]["location"] = "Zurich";
+$kurse[$id]["fee"] = "2500";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = false;
+$kurse[$id]["until"] = "";
+
+
+
+$id = 500;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "Technical Tester - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[$id]["date"] = "";
+$kurse[$id]["location"] = "Zurich";
+$kurse[$id]["fee"] = "2500";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = false;
+$kurse[$id]["until"] = "";
+
+?>

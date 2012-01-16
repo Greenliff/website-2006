@@ -1,0 +1,92 @@
+#middle {
+  background-color: #ecb19c;
+}
+
+#left {
+   background-color: #d55b40;
+}
+
+#navcontainer .doppelpfeil {
+   background-image: url(/images/customers_dpfeil.gif);
+}
+
+#navcontainer .einfachpfeil {   
+   background-image: url(/images/customers_pfeil.gif);
+}
+
+.customers,
+.customersBlank {
+   background-image: url(/images/customers_back.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.customersBlank {
+   background-image: url(/images/customers_blanco.gif);
+}
+
+.customerlogo  {
+   clear: left;
+   float: left;
+   width: auto;
+   margin: 20px 0;   
+}
+
+.marker,
+.news ul,
+#content a,
+#contentleer a,
+#scrollcontent a,
+#content a:visited,
+#contentleer a:visited,
+#scrollcontent a:visited,
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover,
+#content a:active,
+#contentleer a:active,
+#scrollcontent a:active 
+{
+   color: #D55B40;
+}
+
+.spalte1 h2,
+.spalte2 h2,
+.spalte3 h2
+ {
+   width: 97%;
+   font-size: 12px;
+   font-weight: bold;
+   background-color: #ECB19C;
+   padding: 3px 0;
+   padding-left: 3%;
+}
+
+.news h2,
+.news h3 {
+   background-color: #ECB19C;
+}
+
+.formfeld,
+.formfeldkurz,
+.textarea,
+.submit {
+   border-color: #D55B40;
+}
+
+.formfeld:hover,
+.formfeld:active,
+.formfeldkurz:hover,
+.formfeldkurz:active,
+.textarea:hover,
+.textarea:active,
+.submit {
+   background-color: #ECB19C;
+}
+
+.remark {
+   position: absolute;
+   top: 465px;
+   left: 343px;
+   width: 500px;
+}

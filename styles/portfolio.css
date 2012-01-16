@@ -1,0 +1,61 @@
+#middle,
+.news h2,
+.news h3,
+.formfeld:hover,
+.formfeld:active,
+.formfeldkurz:hover,
+.formfeldkurz:active,
+.textarea:hover,
+.textarea:active,
+.submit {
+  background-color: #FDCFA2;
+}
+
+#left,
+.submit:hover {
+   background-color: #FA9246;
+}
+
+#navcontainer .doppelpfeil {
+   background-image: url(/images/portfolio_dpfeil.gif);
+}
+
+#navcontainer .einfachpfeil {   
+   background-image: url(/images/portfolio_pfeil.gif);
+}
+
+.portfolio,
+.portfolioBlank {
+   background-image: url(/images/portfolio_back.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.portfolioBlank {
+   background-image: url(/images/portfolio_blanco.gif);
+}
+
+.marker,
+.news ul,
+#content a,
+#contentleer a,
+#scrollcontent a,
+#content a:visited,
+#contentleer a:visited,
+#scrollcontent a:visited,
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover,
+#content a:active,
+#contentleer a:active,
+#scrollcontent a:active 
+{
+   color: #FA6F07;
+}
+
+.formfeld,
+.formfeldkurz,
+.textarea,
+.submit {
+   border-color: #FA9246;
+}

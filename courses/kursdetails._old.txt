@@ -1,0 +1,148 @@
+<?php
+$kurse = array();
+
+// Pro Kurs eine Nummer vergeben und die Daten erfassen (id muss mit dem 
+// Array-Schluessel uebereinstimmen!)
+// ® = &#174; (muss ersetzt werden fuer eine standardkonforme Anzeige)
+// $kurse[Nr]["published"] = true oder false
+//                           true: Kurs wird bei den upcoming courses
+//                           (upcoming_courses.php) aufgeführt
+// $kurse[Nr]["until"] = Datum, bis zu dem der Kurs publiziert werden soll. Nach diesem Datum
+//                       wird er nicht mehr angezeigt und eine Anmeldung ist nicht mehr moeglich
+// Weitere variable Groessen koennen beliebig dem Array hinzugefuegt werden (z.B. Anzahl Kurstage)
+
+$kurse[200]["id"] = "105";
+$kurse[200]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+- 3 day intensive";
+$kurse[200]["date"] = "";
+$kurse[200]["location"] = "Zurich";
+$kurse[200]["fee"] = "2500";
+$kurse[200]["language"] = "German";
+$kurse[200]["shortlanguage"] = "de";
+$kurse[200]["published"] = false;
+$kurse[200]["until"] = "";
+
+$kurse[120]["id"] = "120";
+$kurse[120]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FLe)";
+$kurse[120]["date"] = "02.03. - 05.03.2009";
+$kurse[120]["location"] = "Zurich";
+$kurse[120]["fee"] = "2950";
+$kurse[120]["language"] = "English";
+$kurse[120]["shortlanguage"] = "en";
+$kurse[120]["published"] = true;
+$kurse[120]["until"] = "2009-03-05";
+
+$kurse[121]["id"] = "121";
+$kurse[121]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[121]["date"] = "27.04. - 30.04.2009";
+$kurse[121]["location"] = "Zurich";
+$kurse[121]["fee"] = "2950";
+$kurse[121]["language"] = "German";
+$kurse[121]["shortlanguage"] = "de";
+$kurse[121]["published"] = true;
+$kurse[121]["until"] = "2009-04-30";
+
+$kurse[122]["id"] = "122";
+$kurse[122]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FLe)";
+$kurse[122]["date"] = "29.09. - 02.10.2009";
+$kurse[122]["location"] = "Zurich";
+$kurse[122]["fee"] = "2950";
+$kurse[122]["language"] = "English";
+$kurse[122]["shortlanguage"] = "en";
+$kurse[122]["published"] = true;
+$kurse[122]["until"] = "2009-10-02";
+
+$kurse[123]["id"] = "123";
+$kurse[123]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[123]["date"] = "23.11. - 26.11.2009";
+$kurse[123]["location"] = "Zurich";
+$kurse[123]["fee"] = "2950";
+$kurse[123]["language"] = "German";
+$kurse[123]["shortlanguage"] = "de";
+$kurse[123]["published"] = true;
+$kurse[123]["until"] = "2009-11-26";
+
+$id = 124;
+$kurse[$id]["id"] = "$id";
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[$id]["date"] = "06.12. - 09.12.2010";
+$kurse[$id]["location"] = "München";
+$kurse[$id]["fee"] = "2600";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-12-09";
+
+$id = 125;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level
+(CT-FL)";
+$kurse[$id]["date"] = "25.05. - 28.05.2010";
+$kurse[$id]["location"] = "Zürich";
+$kurse[$id]["fee"] = "2600";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-05-28";
+
+$id = 126;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level (intensive course)
+(CT-FL-I)";
+$kurse[$id]["date"] = "02.11. - 04.11.2010";
+$kurse[$id]["location"] = "Zürich";
+$kurse[$id]["fee"] = "2150";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-11-04";
+
+$id = 127;
+$kurse[$id]["id"] = $id;
+$kurse[$id]["training"] = "ISTQB&#174; Certified Tester Foundation Level (intensive course)
+(CT-FL-I)";
+$kurse[$id]["date"] = "31.05. - 02.06.2010";
+$kurse[$id]["location"] = "Stuttgart";
+$kurse[$id]["fee"] = "2150";
+$kurse[$id]["language"] = "German";
+$kurse[$id]["shortlanguage"] = "de";
+$kurse[$id]["published"] = true;
+$kurse[$id]["until"] = "2010-06-02";
+
+
+$kurse[301]["id"] = "301";
+$kurse[301]["training"] = "Test Manager - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[301]["date"] = "";
+$kurse[301]["location"] = "Zurich";
+$kurse[301]["fee"] = "2950";
+$kurse[301]["language"] = "German";
+$kurse[301]["shortlanguage"] = "de";
+$kurse[301]["published"] = false;
+$kurse[301]["until"] = "";
+
+$kurse[400]["id"] = "400";
+$kurse[400]["training"] = "Functional Tester - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[400]["date"] = "";
+$kurse[400]["location"] = "Zurich";
+$kurse[400]["fee"] = "2500";
+$kurse[400]["language"] = "German";
+$kurse[400]["shortlanguage"] = "de";
+$kurse[400]["published"] = false;
+$kurse[400]["until"] = "";
+
+$kurse[500]["id"] = "500";
+$kurse[500]["training"] = "Technical Tester - ISTQB&#174; Certified Tester Advanced Level";
+$kurse[500]["date"] = "";
+$kurse[500]["location"] = "Zurich";
+$kurse[500]["fee"] = "2500";
+$kurse[500]["language"] = "German";
+$kurse[500]["shortlanguage"] = "de";
+$kurse[500]["published"] = false;
+$kurse[500]["until"] = "";
+
+?>

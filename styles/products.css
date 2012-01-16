@@ -1,0 +1,66 @@
+#middle {
+  background-color: #aed9f2;
+}
+
+#left {
+   background-color: #5eb4e6;
+}
+
+#navcontainer .doppelpfeil {
+   background-image: url(/images/products_dpfeil.gif);
+}
+
+#navcontainer .einfachpfeil {   
+   background-image: url(/images/products_pfeil.gif);
+}
+
+.products,
+.productsBlank {
+   background-image: url(/images/products_back.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.productsBlank {
+   background-image: url(/images/products_blanco.gif);
+}
+
+.marker,
+.news ul,
+#content a,
+#contentleer a,
+#scrollcontent a,
+#content a:visited,
+#contentleer a:visited,
+#scrollcontent a:visited,
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover,
+#content a:active,
+#contentleer a:active,
+#scrollcontent a:active 
+{
+   color: #1A92D6;
+}
+
+.news h2,
+.news h3,
+.formfeld:hover,
+.formfeld:active,
+.textarea:hover,
+.textarea:active,
+.submit {
+   background-color: #AED9F2;
+}
+
+.formfeld,
+.formfeldkurz,
+.textarea,
+.submit {
+   border-color: #5EB4E6;
+}
+
+.submit:hover {
+   background-color: #5EB4E6;
+   border-color: #AED9F2;
+}

@@ -1,0 +1,73 @@
+#middle {
+  background-color: #BEE1A0;
+}
+
+#left {
+   background-color: #78BE5A;
+}
+
+#navcontainer .doppelpfeil {
+   background-image: url(/images/courses_dpfeil.gif);
+}
+
+#navcontainer .einfachpfeil {   
+   background-image: url(/images/courses_pfeil.gif);
+}
+
+.courses,
+.coursesBlank {
+   background-image: url(/images/courses_back.gif);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+}
+
+.coursesBlank {
+   background-image: url(/images/courses_blanco.gif);
+}
+
+.marker,
+.news ul,
+#content a,
+#contentleer a,
+#scrollcontent a,
+#content a:visited,
+#contentleer a:visited,
+#scrollcontent a:visited,
+#content a:hover,
+#contentleer a:hover,
+#scrollcontent a:hover,
+#content a:active,
+#contentleer a:active,
+#scrollcontent a:active 
+{
+   color: #589A3D;
+}
+
+.news h2,
+.news h3,
+.formfeld:hover,
+.formfeld:active,
+.formfeldkurz:hover,
+.formfeldkurz:active,
+.textarea:hover,
+.textarea:active,
+.submit {
+   background-color: #BEE1A0;
+}
+
+.formfeld,
+.formfeldkurz,
+.textarea,
+.submit {
+   border-color: #78BE5A;
+}
+
+.submit:hover {
+   background-color: #78BE5A;
+   border-color: #BEE1A0;
+}
+
+
+.tablehead {
+   background-color: #78BE5A;
+}

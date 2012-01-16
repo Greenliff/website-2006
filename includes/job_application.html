@@ -1,0 +1,32 @@
+ <div class="news">
+    <h3>Application</h3>
+    <p>If you feel that your profile matches this description please send
+       your curriculum vitae by post to: <br />
+       Greenliff AG, Peter Wlodarczak, Technoparkstrasse 1, 8005
+       Z&uuml;rich, Switzerland, or by email to: <br />
+       <a href="mailto:&#106;&#111;&#98;&#115;&#64;&#103;&#114;&#101;&#101;&#110;&#108;&#105;&#102;&#102;&#46;&#99;&#111;&#109;">&#106;&#111;&#98;&#115;&#64;&#103;&#114;&#101;&#101;&#110;&#108;&#105;&#102;&#102;&#46;&#99;&#111;&#109;</a>
+     </p>
+     <p style="font-weight:bold;margin-bottom:0px;">Other current openings</p>
+     <ul>
+<?php
+if($job != "Manual Tester")
+{
+?>
+      <li><a href="/company/jobs/manual_tester.php">Manual Tester</a></li>
+<?php
+}
+if($job != "Test Engineer")
+{
+?>
+      <li><a href="/company/jobs/test_engineer.php">Test Engineer</a></li>
+<?php
+}
+if($job != "Test Manager")
+{
+?>
+      <li><a href="/company/jobs/test_manager.php">Test Manager</a></li>
+<?php
+}
+?>
+     </ul>
+</div>

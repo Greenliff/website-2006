@@ -1,0 +1,4 @@
+IndexIgnore *
+DirectoryIndex index.php
+
+Deny From 67.43.144.0/20
