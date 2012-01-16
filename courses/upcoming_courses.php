@@ -53,7 +53,7 @@ array_multisort($orderby, SORT_ASC, SORT_STRING, $kurse);
       <div id="scrollcontent">
         <div class="spalte1" style="width: 170px;">
           <h1>Upcoming Courses</h1>
-          <p>Find all currently scheduled open trainings in the table below. Open trainings take place at the <href="/contact/location.php">Technopark</a> in Zurich. It is possible to take the exam directly at the end of the seminar.</p>
+          <p>Find all currently scheduled open trainings in the table below. Open trainings take place at the <a href="/contact/location.php">Technopark</a> in Zurich. It is possible to take the exam directly at the end of the seminar.</p>
           <p>We also offer all our trainings as inhouse-trainings at your company site. Please contact us about information on classes in English and on schedules tailored to your specific need.</p>
         </div>
         <div class="spalte2" style="width: 170px;">
@@ -74,6 +74,7 @@ array_multisort($orderby, SORT_ASC, SORT_STRING, $kurse);
         <div style="clear:both;padding-top:25px;">
                 
     			<table class="collapse">
+    			<tr>
             <th class="tdSpalte tablehead">Training</th>
             <th class="tdSpalte tablehead" style="width:100px;">Next Dates</th>
             <th class="tdLeerspalte">&nbsp;</th>
@@ -81,7 +82,7 @@ array_multisort($orderby, SORT_ASC, SORT_STRING, $kurse);
             <th class="tdSpalte tablehead" style="width:50px;">CHF</th>
             <th class="tdSpalte tablehead">Language</th>
             <th></th>
-            <tbody>
+            </tr>
 <?php
 foreach($kurse as $kurs)
 {
@@ -101,7 +102,6 @@ foreach($kurse as $kurs)
   }
 }
 ?>
-            </tbody>
           </table>
 				</div>
       </div>

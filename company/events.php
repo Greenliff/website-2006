@@ -43,7 +43,7 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
-            <a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank" target="_blank"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
+            <a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
           </div>
 
           <div class="spalte2Breit">

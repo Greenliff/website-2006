@@ -4,7 +4,6 @@ $pfad = $array[1];
 $datei = $array[2];
 $array = explode('.', $datei);
 $datei = $array[0];
-echo $datei;
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -98,8 +97,7 @@ echo $datei;
                 </td>
                 <td class="tdLeerspalte">&nbsp;</td>
                 <td class="tdSpalte tdRechts">6 days<br />5 days</td>
-                <td class="tdSpalte tdRechts">CT-ATT<br />CT-ATT-I<br />(intensive course)</a>
-                </td>
+                <td class="tdSpalte tdRechts">CT-ATT<br />CT-ATT-I<br />(intensive course)</td>
               </tr>
               <tr> 
                 <td class="tdSpalte tdZweispaltig"><a href="http://www.imbus.de/akademie/akademie-leistungen/kursuebersicht/" target="_blank">Testmanager - ISTQB&#174; Certified Tester Advanced Level</a><br />

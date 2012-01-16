@@ -54,7 +54,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Markus Pilz from Greenliff had a talk on "<a href="http://internet-briefing.ch/index.cfm?page=101498&anlass_id=271" target="_blank">Testen von Mobilen Applikationen</a>".</p>
+              <p>Markus Pilz from Greenliff had a talk on "<a href="http://internet-briefing.ch/index.cfm?page=101498&amp;anlass_id=271" target="_blank">Testen von Mobilen Applikationen</a>".</p>
             </div>
           </div>
         </div>
@@ -173,7 +173,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff was Software & Systems Quality Conference 2008 sponsor. We were present with a booth and with a talk on <a href="http://www.greenliff.com/products/index.php">Fast!</a>.</p>
+              <p>Greenliff was Software &amp; Systems Quality Conference 2008 sponsor. We were present with a booth and with a talk on <a href="http://www.greenliff.com/products/index.php">Fast!</a>.</p>
             </div>
           </div>
         </div>
@@ -190,7 +190,7 @@ $datei = $array[0];
               <p>The international conference on Java technology</p>
             </div>
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff was present at the Jazoon 08 with 2 talks on Java technology for the mobile world. Peter Wlodarczak talked about the all new <a href="http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&detail=3661" target="_blank">Google phone and Android</a> and Carol Hamer talked about the <a href="http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&detail=2640" target="_blank">customization of mobile applications for different handsets</a></p>
+              <p>Greenliff was present at the Jazoon 08 with 2 talks on Java technology for the mobile world. Peter Wlodarczak talked about the all new <a href="http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&amp;detail=3661" target="_blank">Google phone and Android</a> and Carol Hamer talked about the <a href="http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&amp;detail=2640" target="_blank">customization of mobile applications for different handsets</a></p>
               <p>Size does not matter! Beeing a small company, Greenliff is very proud that two of its submissions have been accepted at such an important Java conference!</p>
             </div>
           </div>
@@ -272,11 +272,11 @@ $datei = $array[0];
           <div class="spalte2Breit">
             <h2>Zurich, 25. + 26. September 2007</h2>
             <div class="spalte2" style="padding-top: 10px;">
-              <h3>Software & Systems Quality Conference 2007</h3>
+              <h3>Software &amp; Systems Quality Conference 2007</h3>
             </div>
 
             <div class="spalte3" style="padding-top: 10px;">
-              <p>Greenliff is Software & Systems Quality Conference 2007 sponsor. And we showed the latest Fast! features: RSS feed support and the integration of static code analyzes tools.</p>
+              <p>Greenliff is Software &amp; Systems Quality Conference 2007 sponsor. And we showed the latest Fast! features: RSS feed support and the integration of static code analyzes tools.</p>
             </div>
           </div>
         </div>
@@ -360,11 +360,11 @@ $datei = $array[0];
           <div class="spalte2Breit">
             <h2>Zurich, 5. + 6. September 2006</h2>
             <div class="spalte2" style="padding-top: 11px;">
-              <h3>Software & Systems Quality Conference 2006</h3>
+              <h3>Software &amp; Systems Quality Conference 2006</h3>
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff is Software & Systems Quality Conference sponsor.<br />
+              <p>Greenliff is Software &amp; Systems Quality Conference sponsor.<br />
               Greenliff demonstrates the latest features with <a href="/products/index.php">Fast!</a>, its automated test execution environment.</p>
             </div>
           </div>

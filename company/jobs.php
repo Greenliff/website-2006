@@ -73,7 +73,6 @@ require_once("../includes/funktionen.inc.php");
           <p>If you are interested in working with us or if you have any job related questions do not hesitate to contact us. <a href="<?php echo htmlencode("mailto:jobs@greenliff.com"); ?>">Markus Pilz</a> is pleased to answer all questions you have.</p>
           <p style="padding:3px 5px;">We only consider candidates with a valid Swiss work permit or EU citizens. No agencies.</p>
           <p style="padding:3px 5px;">Please send your curriculum vitae preferably by email to <a href="<?php echo htmlencode("mailto:jobs@greenliff.com"); ?>"><?php echo htmlencode("jobs@greenliff.com"); ?></a></p>
-          </p>
          </div>
       </div>
 <?php include_once("../includes/footer.html"); ?>
