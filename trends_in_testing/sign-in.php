@@ -194,7 +194,7 @@ if(isset($_POST['send']))
               <span class="formlabel required<?php if($fehler && $city == "") echo " marker"; ?>">Ort</span><input type="text" name="city"<?php echo $readonly; ?> class="formfeld" value="<?php echo $city; ?>" />
             </div>
             <div class="div1" style="margin-top: 30px;">
-              <span class="formlabel">Bemerkung</span><textarea name="comment"<?php echo $readonly; ?> class="textarea" style="height:60px;"><?php echo $comment; ?></textarea>
+              <span class="formlabel">Bemerkung</span><textarea name="comment"<?php echo $readonly; ?> class="textarea" style="height:60px;" rows="5" cols="40"><?php echo $comment; ?></textarea>
             </div>
 <?php
 if(!$success)

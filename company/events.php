@@ -66,7 +66,7 @@ $datei = $array[0];
           <div class="spalte2Breit">
             <h2>Zürich, 03. April 2012</h2>
               <div class="bildlinks" style="padding-top: 11px;">
-                <img src="../images/events/test_nonstop.png" width="100" height="99" />
+                <img src="../images/events/test_nonstop.png" width="100" height="99" alt="Test nonstop" />
               </div>
               <h3 style="padding-top: 11px;"><a href="../trends_in_testing/">Trends in Testing 2012</a></h3>
               <p>Trends in Testing 2012 zeigt Ihnen, wie Sie Test nonstop in Ihrem Projekt implementieren, auch wenn Sie nicht agil entwickeln.</p>
