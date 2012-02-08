@@ -40,7 +40,7 @@ $datei = "index";
         <div class="startspalte">
           <p>Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance.</p>
 
-          <p>Software testing is a "technical audit discipline" to assure function and quality. It is in no way intuitive, but a highly specialized and extremely demanding discipline of IT. Although the importance of software testing is widely accepted, the required skills and effort is often underestimated. Not so at Greenliff: our consultants bring needed expertise in both quality standards and software engineering best practises.</p>
+          <p>Software testing is a <i>technical audit discipline</i> to assure function and quality. It is in no way intuitive, but a highly specialized and extremely demanding discipline of IT. Although the importance of software testing is widely accepted, the required skills and effort is often underestimated. Not so at Greenliff: our consultants bring needed expertise in both quality standards and software engineering best practices.</p>
 
           <p>As an independent and neutral 3th party, we are ready to manage, design, implement and execute all your tests.</p>
         </div>
@@ -48,14 +48,18 @@ $datei = "index";
         <div class="news">
           <h2>News</h2>
           <div class="bildlinks" style="padding:5px 5px 0 5px;">
-            <a href="/company/events.php" title="Zum Event"><img src="images/events/trends_in_testing.gif" alt="Logo Trens in Testing" width="150" height="75" /></a>
+            <a href="/company/events.php" title="Zum Event"><img src="images/events/trends_in_testing.png" alt="Logo Trens in Testing" width="150" height="74" /></a>
           </div>
-          <p style="clear:left">Lohnt sich Testautomatisierung in der Praxis? Antworten auf diese und weitere Fragen gibt es an der kostenlosen Veranstaltung &laquo;Trends in Testing&raquo; am 27.09.2011 im Technopark Zürich. <a href="docs/110927_TrendsinTestingZuerich.pdf" target="_blank">Jetzt anmelden!</a></p>
-        </div>
+          <p style="clear:left"><strong>Trends in Testing</strong> 2012 zeigt Ihnen, wie Sie Test nonstop in Ihrem Projekt implementieren, auch wenn Sie nicht agil entwickeln.<br />
+          Termin: 3. April 2012<br />
+          World Trade Center Zürich, Leutschenbachstrasse 95, 8050 Zürich</p>
+          <p style="clear:left"> <a href="/company/events.php"> Zu den Eventdetails und Anmeldeunterlagen</a>.</p>
+				</div>
 
       </div>
 <?php include_once("includes/footer.html"); ?>
     </div>
   </body>
 </html>
+
 

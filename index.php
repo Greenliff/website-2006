@@ -48,10 +48,12 @@ $datei = "index";
         <div class="news">
           <h2>News</h2>
           <div class="bildlinks" style="padding:5px 5px 0 5px;">
-            <a href="/company/events.php" title="Zum Event"><img src="images/events/trends_in_testing.png" alt="Logo Trens in Testing" width="150" height="74" /></a>
+            <a href="/trends_in_testing/" title="Zum Event"><img src="images/events/trends_in_testing.png" alt="Logo Trens in Testing" width="110" /></a>
           </div>
-          <p style="clear:left">Lohnt sich Testautomatisierung in der Praxis? Antworten auf diese und weitere Fragen gibt es an der kostenlosen Veranstaltung <b>Trends in Testing</b> am <b>27.9.2011</b> im Technopark Zürich. </p>
-          <p style="clear:left"> <a href="/company/events.php"> Zu den Eventdetails und Anmeldeunterlagen</a>.</p>
+          <p style="clear:left"><strong>Trends in Testing 2012</strong> zeigt Ihnen, wie Sie Test nonstop in Ihrem Projekt implementieren, auch wenn Sie nicht agil entwickeln.<br />
+          Termin: <strong>3. April 2012</strong><br />
+          World Trade Center Zürich<br />
+          <a href="/trends_in_testing/">Zu den Eventdetails</a>.</p>
 				</div>
 
       </div>
@@ -59,4 +61,5 @@ $datei = "index";
     </div>
   </body>
 </html>
+
 

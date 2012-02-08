@@ -41,23 +41,35 @@ $datei = $array[0];
       <div id="scrollcontent" class="home">
         <h1>Visit us at the following events</h1>
 
-        <div class="event" style="margin-top:10px;">
+        <div class="event">
           <div class="spalte1">
-            <a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
+            <a href="http://www.swisstestingday.ch/" target="_blank"><img src="../images/events/logo_swisstestingday.gif" width="161" height="77" alt="Swiss Testing Day" /></a>
+          </div>
+
+          <div class="spalte2Breit" style="margin-top:10px;">
+            <h2>Zurich, 03. March 2012</h2>
+            <div class="spalte2" style="padding-top: 11px;">
+              <h3>Swiss Testing Day</h3>
+            </div>
+
+            <div class="spalte3" style="padding-top: 11px;">
+              <p>Greenliff is Goldsponsor of the Swiss Testing Day 2012.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">
+            <a href="../trends_in_testing/"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
           </div>
 
           <div class="spalte2Breit">
-            <h2>Zürich, 27. September 2011</h2>
-              <h3 style="padding-top: 11px;"><a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank">Testautomatisierung out-of-the-box!</a></h3>
-              <p>Lohnt sich Testautomatisierung in der Praxis? - Nicht in jedem Fall.<br />
-              Aber wir können Ihnen zeigen, wie man schnell und erfolgreich zu einer wirtschaftlichen Testautomatisierung kommt!</p>
-              <p>&quot;Trends in Testing&quot; ist das Forum, um sich kompakt und umfassend über die neuesten Entwicklungen im Bereich Software Qualitätssicherung und -Test zu informieren.<br />
-              Gemeinsam mit der <a href="http://www.imbus.de/veranstaltungen/trends-in-testing-schweiz/" target="_blank">imbus AG</a> starten wir das Pilotprojekt Trends in Testing Schweiz, um in diesem Jahr aufzuzeigen, welchen Mehrwert und welche Einsatzmöglichkeiten Ihnen Testautomatisierung heute bietet &ndash; &laquo;out of the box&raquo;!</p>
-              <p>Im Rahmen der Veranstaltung stehen Ihnen unsere Experten und Referenten natürlich auch für Ihre individuellen Fragen gerne zur Verfügung.</p>
-              <p><strong>Termin</strong>:<br />
-              <strong>27. September 2011</strong>, Technopark Zürich, Technoparkstrasse 1, 8005 Zürich</p>
-              <p>Die Veranstaltung ist kostenfrei und beginnt um 13:00 Uhr.</p>
-              <p>Die ausführliche <b>Programmbeschreibung und Ihr Anmeldeformular</b> finden Sie im <a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank">Veranstaltungsflyer</a>.</p>
+            <h2>Zürich, 03. April 2012</h2>
+              <div class="bildlinks" style="padding-top: 11px;">
+                <img src="../images/events/test_nonstop.png" width="100" height="99" />
+              </div>
+              <h3 style="padding-top: 11px;"><a href="../trends_in_testing/">Trends in Testing 2012</a></h3>
+              <p>Trends in Testing 2012 zeigt Ihnen, wie Sie Test nonstop in Ihrem Projekt implementieren, auch wenn Sie nicht agil entwickeln.</p>
           </div>
         </div>
 

@@ -44,6 +44,23 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
+            <a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
+          </div>
+
+          <div class="spalte2Breit">
+            <h2>Zurich, 27. September 2011</h2>
+            <div class="spalte2" style="padding-top: 11px;">
+              <h3>Testautomatisierung out-of-the-box!</h3>
+            </div>
+
+            <div class="spalte3" style="padding-top: 11px;">
+              <p>Greenliff and Imbus had a talk about Test automation.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">
             <a href="http://internet-briefing.ch" target="_blank"><img src="../images/events/internet-briefing.gif" alt="Logo Internet Briefing" width="160" height="10" /></a>
           </div>
 
