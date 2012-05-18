@@ -47,14 +47,13 @@ $datei = "index";
 
         <div class="news">
           <h2>News</h2>
-          <div class="bildlinks" style="padding:5px 5px 0 5px;">
-            <a href="/trends_in_testing/" title="Zum Event"><img src="images/events/trends_in_testing.png" alt="Logo Trens in Testing" width="110" /></a>
+          <div class="bildlinks" style="padding:5px;">
+            <a href="/company/jobs.php"><img src="images/greenliff_hiring.gif" alt="road sign: men at work" width="167" height="53" /></a>
           </div>
-          <p style="clear:left"><strong>Trends in Testing 2012</strong> zeigt Ihnen, wie Sie Test nonstop in Ihrem Projekt implementieren, auch wenn Sie nicht agil entwickeln.<br />
-          Termin: <strong>3. April 2012</strong><br />
-          World Trade Center Zürich<br />
-          <a href="/trends_in_testing/">Zu den Eventdetails</a>.</p>
-				</div>
+          <p style="clear:left"><strong>Greenliff is hiring</strong><br />
+          We are currently seeking a Manual Tester (m/w) at our Zurich Technopark office. Apply now.<br />
+          For more information click <a href="docs/20110503_EN_ManualTester_TestAnalyst.pdf">here</a>.</p>
+        </div>
 
       </div>
 <?php include_once("includes/footer.html"); ?>

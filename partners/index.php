@@ -9,9 +9,9 @@ $datei = $array[0];
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>    
+  <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Greenliff: Partners</title> 
+    <title>Greenliff: Partners</title>
 		<meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
 		<meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
     <meta name="language" content="en" />
@@ -21,16 +21,16 @@ $datei = $array[0];
     <link rel="stylesheet" type="text/css" href="/styles/print.css" media="print" />
     <!--[if IE 5]>
     <link href="/styles/ie5.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]--> 
+    <![endif]-->
     <!--[if IE 6]>
     <link href="/styles/ie6.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]--> 
+    <![endif]-->
     <!--[if IE 7]>
     <link href="/styles/ie7.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
     <link rel="shortcut icon" href="/favicon.ico" />
   </head>
-  
+
   <body>
     <div id="abstand"></div>
     <div id="container">
@@ -41,16 +41,20 @@ $datei = $array[0];
       <div id="middle">
       </div>
       <div id="content" class="partners">
-         
+
         <div class="spalte1">
-          <div class="center" style="width: 150px;height:92px;">
-            <a href="http://www.imbus.de" target="_blank" class="partnerlogo"><img src="../images/partners/Imbus-partner.gif" alt="imbus AG" width="182" height="92" /></a>
+          <div class="center" style="width: 150px;height:110px;">
+            <a href="http://www.imbus.de" target="_blank" class="partnerlogo"><img src="../images/partners/Imbus-partner.gif" alt="imbus AG" width="150" /></a>
           </div>
-          <p style="margin-top:20px;">imbus AG is one of Germany's leading specialists for software quality assurance and test. With more than 110 personnel at four locations, imbus supports companies and IT-users in verifying and validating complex and demanding software systems, as well as in the optimization of their software development processes.</p>
+          <p>imbus AG is one of Germany's leading specialists for software quality assurance and test. With more than 110 personnel at four locations, imbus supports companies and IT-users in verifying and validating complex and demanding software systems, as well as in the optimization of their software development processes.</p>
         </div>
 
         <div class="spalte2">
-        </div> 
+          <div class="center" style="width: 150px;height:110px;">
+            <a href="http://www.testmachine.ch/" target="_blank"><img src="../images/partners/logo_testmachine.png" width="130" alt="TestMachine" /></a>
+          </div>
+          <p>Sukha IT is the company behind the TestMachine, an end-to-end test automation framework for iPhone and iPad Apps. No jailbreaking needed! TestMachine enables you to write automated tests in Java and supports unattended nightly test runs and full configuration management out-of-the-box. </p>
+        </div>
         <div class="spalte3">
         </div>
       </div>

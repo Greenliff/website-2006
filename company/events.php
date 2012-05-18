@@ -38,40 +38,10 @@ $datei = $array[0];
       </div>
       <div id="middle">
       </div>
-      <div id="scrollcontent" class="home">
-        <h1>Visit us at the following events</h1>
+      <div id="content" class="home">
+        <h1>Following events</h1>
 
-        <div class="event">
-          <div class="spalte1">
-            <a href="http://www.swisstestingday.ch/" target="_blank"><img src="../images/events/logo_swisstestingday.gif" width="161" height="77" alt="Swiss Testing Day" /></a>
-          </div>
-
-          <div class="spalte2Breit" style="margin-top:10px;">
-            <h2>Zurich, 03. March 2012</h2>
-            <div class="spalte2" style="padding-top: 11px;">
-              <h3>Swiss Testing Day</h3>
-            </div>
-
-            <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff is Goldsponsor of the Swiss Testing Day 2012.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="event">
-          <div class="spalte1">
-            <a href="../trends_in_testing/"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
-          </div>
-
-          <div class="spalte2Breit">
-            <h2>Zürich, 03. April 2012</h2>
-              <div class="bildlinks" style="padding-top: 11px;">
-                <img src="../images/events/test_nonstop.png" width="100" height="99" alt="Test nonstop" />
-              </div>
-              <h3 style="padding-top: 11px;"><a href="../trends_in_testing/">Trends in Testing 2012</a></h3>
-              <p>Trends in Testing 2012 zeigt Ihnen, wie Sie Test nonstop in Ihrem Projekt implementieren, auch wenn Sie nicht agil entwickeln.</p>
-          </div>
-        </div>
+<p>No events at the moment.</p>
 
       </div>
 <?php include_once("../includes/footer.html"); ?>

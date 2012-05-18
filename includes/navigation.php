@@ -30,22 +30,6 @@ if($pfad == "company" || ($pfad == "" && $datei != "impressum"))
 }
 ?>
           </li>
-          <li><a href="/trends_in_testing/index.php"<?php if ($pfad == "trends" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "trends_in_testing") { echo ' class="einfachpfeil"'; } ?>>Trends in Testing 2012</a>
-<?php
-if($pfad == "trends_in_testing")
-{
-?>          <ul>
-              <li><a href="/trends_in_testing/agenda.php"<?php if($datei == "agenda") { echo ' class="doppelpfeil"'; } ?>>Agenda</a></li>
-              <li><a href="/trends_in_testing/speaker.php"<?php if($datei == "speaker") { echo ' class="doppelpfeil"'; } ?>>Speakers</a></li>
-              <li><a href="/trends_in_testing/experts.php"<?php if($datei == "experts") { echo ' class="doppelpfeil"'; } ?>>Meet the Experts</a></li>
-              <li><a href="/trends_in_testing/sign-in.php"<?php if($datei == "sign-in") { echo ' class="doppelpfeil"'; } ?>>Registration</a></li>
-              <li><a href="/trends_in_testing/schedule.php"<?php if($datei == "schedule") { echo ' class="doppelpfeil"'; } ?>>Location</a></li>
-              <li><a href="/trends_in_testing/partner.php"<?php if($datei == "partner") { echo ' class="doppelpfeil"'; } ?>>Partners</a></li>
-            </ul>
-<?php
-}
-?>
-          </li>
           <li><a href="/portfolio/index.php"<?php if ($pfad == "portfolio" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "portfolio") { echo ' class="einfachpfeil"'; } ?>>Service Portfolio</a>
 <?php
 if($pfad == "portfolio")
@@ -64,7 +48,17 @@ if($pfad == "portfolio")
 ?>
           </li>
 
-          <li><a href="/products/index.php"<?php if ($pfad == "products" && $datei == "more_information") { echo ' class="doppelpfeil"'; } else if ($pfad == "products") { echo ' class="einfachpfeil"'; } ?>>Products</a></li>
+          <li><a href="/products/index.php"<?php if ($pfad == "products" && $datei == "more_information") { echo ' class="doppelpfeil"'; } else if ($pfad == "products") { echo ' class="einfachpfeil"'; } ?>>Products</a>
+<?php
+if($pfad == "products")
+{
+?>          <ul>
+              <li><a href="/products/"<?php if($datei == "index") { echo ' class="doppelpfeil"'; } ?>>Fast!</a></li>
+              <li><a href="http://www.testmachine.ch/" target="_blank">TestMachine</a></li>
+            </ul>
+<?php
+}
+?></li>
 
           <li><a href="/courses/upcoming_courses.php"<?php if ($pfad == "courses") { echo ' class="einfachpfeil"'; } ?>>Certified Tester</a>
 <?php

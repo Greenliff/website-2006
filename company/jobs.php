@@ -58,8 +58,6 @@ require_once("../includes/funktionen.inc.php");
           <!--<p>Currently no open positions.</p>-->
           <h2>Zurich</h2>
           <ul>
-            <li><a href="../docs/20120131_GE_SoftwareEngineerVM.pdf" target="_blank">Software Engineer for Test Robots (m/w)
-</a></li>
             <li><a href="../docs/20110503_EN_ManualTester_TestAnalyst.pdf" target="_blank">Manual Tester / Test Analyst</a></li>
           </ul>
           <!--<h2>Bern/Lausanne</h2>

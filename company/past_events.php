@@ -44,6 +44,44 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
+            <a href="../docs/Greenliff_STD2012-Flyer.pdf" target="_blank"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
+          </div>
+
+          <div class="spalte2Breit">
+            <h2>Zürich, 03. April 2012</h2>
+            <div class="spalte2" style="padding-top: 11px;">
+              <h3 style="padding-top: 11px;">Trends in Testing 2012</h3>
+              <div class="bildlinks" style="padding-top: 11px;">
+                <img src="../images/events/test_nonstop.png" width="100" height="99" />
+              </div>
+            </div>
+
+            <div class="spalte3" style="padding-top: 11px;">
+              <p>Have you ever wondered what it would take to implemented continuous integration and test nonstop in your projects? We did! Together with imbus, we made it possible that over 40 Testers shared their ideas and swapped experiences on the subject.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">
+            <a href="http://www.swisstestingday.ch/" target="_blank"><img src="../images/events/logo_swisstestingday.gif" width="161" height="77" alt="Swiss Testing Day" /></a>
+          </div>
+
+          <div class="spalte2Breit" style="margin-top:10px;">
+            <h2>Zurich, 14. March 2012</h2>
+            <div class="spalte2" style="padding-top: 11px;">
+              <h3>Swiss Testing Day</h3>
+            </div>
+
+            <div class="spalte3" style="padding-top: 11px;">
+              <p>It was a great pleasure to be partner of the <a href="http://www.swisstestingday.ch/" target="_blank">Swiss Testing Day 2012</a>.</p>
+              <p>Greenliff showed cutting edge solutions for Test Management and Test Automation. Especially our demonstration of automated App testing for iPhones and iPads did draw the attention of many visitors.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">
             <a href="../docs/110927_TrendsinTestingZuerich.pdf" target="_blank"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
           </div>
 
