@@ -139,6 +139,7 @@ request you as soon as possible.";
     <link href="/styles/ie7.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
     <link rel="shortcut icon" href="/favicon.ico" />
+    <?php include_once("../includes/google-analytics.html"); ?>
   </head>
   
   <body>

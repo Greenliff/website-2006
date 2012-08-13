@@ -166,7 +166,8 @@ if(isset($_POST["send"]))
     <link href="/styles/ie7.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
     <link rel="shortcut icon" href="/favicon.ico" />
-  </head>
+     <?php include_once("../includes/google-analytics.html"); ?>
+ </head>
   
   <body>
     <div id="abstand"></div>
