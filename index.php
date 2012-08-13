@@ -51,8 +51,8 @@ $datei = "index";
             <a href="/company/jobs.php"><img src="images/greenliff_hiring.gif" alt="road sign: men at work" width="167" height="53" /></a>
           </div>
           <p style="clear:left"><strong>Greenliff is hiring</strong><br />
-          We are currently seeking a Manual Tester (m/w) at our Zurich Technopark office. Apply now.<br />
-          For more information click <a href="docs/20110503_EN_ManualTester_TestAnalyst.pdf">here</a>.</p>
+          We are currently seeking a Software Engineer C# (m/w) at our Zurich Technopark office. Apply now.<br />
+          For more information click <a href="docs/20120713_GE_SoftwareEngineer.pdf">here</a>.</p>
         </div>
 
       </div>
