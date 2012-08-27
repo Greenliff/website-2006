@@ -40,7 +40,7 @@ $datei = $array[0];
       <div id="middle">
       </div>
       <div id="content" class="home">
-        <h1>Following events</h1>
+        <h1>Upcoming events</h1>
 
 <p>No events at the moment.</p>
 
