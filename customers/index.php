@@ -56,7 +56,7 @@ $datei = $array[0];
           </div>
           
           <div class="center" style="width: 160px;">
-            <a href="http://www.swx.ch" target="_blank" class="customerlogo" style="margin-top:5px;"><img src="../images/customers/swx_logo.gif" alt="SWX Swiss Exchange" width="110" height="72" /></a>
+            <a href="http://www.six-swiss-exchange.com/" target="_blank" class="customerlogo" style="margin-top:5px;"><img src="../images/customers/swx_logo.gif" alt="SWX Swiss Exchange" width="110" height="72" /></a>
           </div>
         </div>
 
