@@ -49,7 +49,7 @@ require_once("../includes/funktionen.inc.php");
 
       	  <p>If you are a Software Test Engineer, a Software Test Manager or a Software Test Consultant with a passion for your work then Greenliff is the perfect place for you.</p>
 
-      		<p>At Greenliff you will receive more than just a competitive salary. Additional benefits include off shore and onsite engagements, exposure to cutting edge technology, continuous education programs to extend and update your skills, and a very dynamic workplace with a highly motivated team.</p>
+      		<p>At Greenliff you will receive more than just a competitive salary. Additional benefits include offshore and on-site engagements, exposure to cutting edge technology, continuous education programs to extend and update your skills, and a very dynamic workplace with a highly motivated team.</p>
         </div>
 
          <div class="spalte2">
