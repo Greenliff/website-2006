@@ -39,11 +39,11 @@ $datei = "index";
 
       <div id="content" class="home">
         <div class="startspalte">
-          <p>Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance.</p>
+          <p>Greenliff is an independent engineering and service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical, and the financial sectors, we specialize in test consultancy, test automation, and the development of test solutions covering the entire software life cycle from specification to maintenance.</p>
 
-          <p>Software testing is a <i>technical audit discipline</i> to assure function and quality. It is in no way intuitive, but a highly specialized and extremely demanding discipline of IT. Although the importance of software testing is widely accepted, the required skills and effort is often underestimated. Not so at Greenliff: our consultants bring needed expertise in both quality standards and software engineering best practices.</p>
+          <p>Software testing is a <i>technical audit discipline</i> to assure function and quality. It is in no way an intuitive, but a highly specialized and extremely demanding discipline of IT. Although the importance of software testing is widely accepted, the required skills and effort is often underestimated. Not so at Greenliff: our consultants bring the needed expertise in both quality standards and software engineering best practices.</p>
 
-          <p>As an independent and neutral 3th party, we are ready to manage, design, implement and execute all your tests.</p>
+          <p>As an independent and neutral 3rd party, we are ready to manage, design, implement, and execute all your tests.</p>
         </div>
 
         <div class="news">
