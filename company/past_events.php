@@ -229,7 +229,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff was Software &amp; Systems Quality Conference 2008 sponsor. We were present with a booth and with a talk on <a href="http://www.greenliff.com/products/index.php">Fast!</a>.</p>
+              <p>Greenliff was Software &amp; Systems Quality Conference 2008 sponsor. We were present with a booth and with a talk on <a href="../products/index.php">Fast!</a>.</p>
             </div>
           </div>
         </div>
