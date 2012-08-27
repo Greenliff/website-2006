@@ -81,4 +81,4 @@ if($pfad == "courses")
           </li>
         </ul>
       </div>
-      <div id="impressum"><a href="/impressum.php"<?php if ($datei == "impressum") { echo ' class="doppelpfeil"'; } ?>>Impressum</a></div>
+      <div id="impressum"><a href="/impressum.php"<?php if ($datei == "impressum") { echo ' class="doppelpfeil"'; } ?>>Imprint</a></div>

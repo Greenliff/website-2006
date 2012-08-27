@@ -35,7 +35,7 @@ $datei = "impressum";
       
       <div id="content" class="home">
         <div class="impressumspalte">
-          <h1>Impressum</h1>
+          <h1>Imprint</h1>
           <p>Greenliff AG<br />
           Technoparkstrasse 1<br />
           8005 Zürich<br />
