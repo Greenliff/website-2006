@@ -46,7 +46,7 @@ $datei = $array[0];
           
 
           <h1>Anmeldung zur Schulung</h1>
-          <p>Aktuelle Informationen zu Veranstaltungsorten und -terminen finden Sie im Internet unter <a href="http://www.greenliff.com/" target="_blank">www.greenliff.com</a></p>
+          <p>Aktuelle Informationen zu Veranstaltungsorten und -terminen finden Sie im Internet unter <a href="http://www.greenliff.ch/" target="_blank">www.greenliff.ch</a></p>
 
           <h2>Anmeldefristen</h2>
           <p>Wenn nicht ausdrücklich anderes vermerkt sind Anmeldungen zu öffentlich ausgeschriebenen Schulungen jederzeit möglich.</p>
