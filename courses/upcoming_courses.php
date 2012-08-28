@@ -59,7 +59,7 @@ array_multisort($orderby, SORT_ASC, SORT_STRING, $kurse);
         </div>
         <div class="spalte2" style="width: 170px;">
           <p class="marker abstandOben">Sign in earlier than six weeks prior to the training and save 10 percent Early Bird Discount on the regular fee!</p>
-          <p>All fees are given in CHF excluding legal VAT. When taking an exam, additional examination fees will be charged by the independent certification center <a href="http://www.saq.ch/" target="_blank">Swiss Association for Quality (SAQ)</a>. Please contact us for current information on the fees or examine the <a href="http://www.saq.ch/de/zertifikate/software_tester_lehrgaenge_zertifikate.php" target="_blank">web-site of the SAQ</a>.</p>
+          <p>All fees are given in CHF excluding legal VAT. When taking an exam, additional examination fees will be charged by the independent certification center <a href="http://www.saq.ch/" target="_blank">Swiss Association for Quality (SAQ)</a>. Please contact us for current information on the fees or examine the <a href="http://www.personenzertifizierung.ch/de/zertifikate/certified-tester/" target="_blank">web-site of the SAQ</a>.</p>
         </div>
                 
         <div class="news">        
