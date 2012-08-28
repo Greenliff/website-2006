@@ -264,7 +264,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Markus Pilz and Peter Wlodarczak talked about the <a href="http://www.jugs.ch/html/events/2008/android.html" target="_blank">Google phone and the Android GUI Framework</a>. Download the <a href="http://www.jugs.ch/html/events/slides/080529_The_Android_platform_v2.0_Handouts.pdf" target="_blank">slides here</a>.</p>
+              <p>Markus Pilz and Peter Wlodarczak talked about the <a href="http://www.jugs.ch/html/events/2008/android.html" target="_blank">Google phone and the Android GUI Framework</a>. Download the <a href="http://www.jug.ch/events/slides/080529_The_Android_platform_v2.0_Handouts.pdf" target="_blank">slides here</a>.</p>
             </div>
           </div>
         </div>
