@@ -202,7 +202,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1">
-            <a href="http://www.jugs.ch/html/events/2008/android_experience.html" target="_blank"><img src="../images/events/android.gif" alt="Android Experience Day at Java User Group Switzerland" width="160" height="35" /></a>
+            <a href="http://www.jug.ch/eventdetail.php?year=2008&event=android_experience" target="_blank"><img src="../images/events/android.gif" alt="Android Experience Day at Java User Group Switzerland" width="160" height="35" /></a>
           </div>
 
           <div class="spalte2Breit">
@@ -212,7 +212,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Markus Pilz and Peter Wlodarczak had a talk at the Android Experience Day. Read more about it <a href="http://www.jugs.ch/html/events/2008/android_experience.html" target="_blank">here</a>.</p>
+              <p>Markus Pilz and Peter Wlodarczak had a talk at the Android Experience Day. Read more about it <a href="http://www.jug.ch/eventdetail.php?year=2008&event=android_experience" target="_blank">here</a>.</p>
             </div>
           </div>
         </div>
@@ -236,7 +236,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1">
-            <a href="http://jazoon.com/" target="_blank"><img src="../images/events/jazoon08.gif" width="160" height="24" alt="Jazoon'08" /></a>
+            <a href="http://jazoon.com/portals/0/Content/ArchivWebsite/jazoon.com/jazoon08/en.html" target="_blank"><img src="../images/events/jazoon08.gif" width="160" height="24" alt="Jazoon'08" /></a>
           </div>
 
           <div class="spalte2Breit">
@@ -254,7 +254,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1">
-            <a href="http://www.jugs.ch/" target="_blank"><img src="../images/events/jugs-logo-20.gif" width="164" height="59" alt="Swiss Testing Day" /></a>
+            <a href="http://www.jug.ch/" target="_blank"><img src="../images/events/jugs-logo-20.gif" width="164" height="59" alt="Swiss Testing Day" /></a>
           </div>
 
           <div class="spalte2Breit">
@@ -264,7 +264,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Markus Pilz and Peter Wlodarczak talked about the <a href="http://www.jugs.ch/html/events/2008/android.html" target="_blank">Google phone and the Android GUI Framework</a>. Download the <a href="http://www.jug.ch/events/slides/080529_The_Android_platform_v2.0_Handouts.pdf" target="_blank">slides here</a>.</p>
+              <p>Markus Pilz and Peter Wlodarczak talked about the <a href="http://www.jug.ch/eventdetail.php?year=2008&event=android" target="_blank">Google phone and the Android GUI Framework</a>. Download the <a href="http://www.jug.ch/events/slides/080529_The_Android_platform_v2.0_Handouts.pdf" target="_blank">slides here</a>.</p>
             </div>
           </div>
         </div>
@@ -322,7 +322,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1">
-            <a href="http://www.iqnite-conferences.com/index.htm" target="_blank"><img src="../images/events/sqs-conferences_07.gif" width="182" height="52" alt="SOFTWARE &amp; SYSTEMS QUALITY CONFERENCES" /></a>
+            <a href="http://www.iqnite-conferences.com/" target="_blank"><img src="../images/events/sqs-conferences_07.gif" width="182" height="52" alt="SOFTWARE &amp; SYSTEMS QUALITY CONFERENCES" /></a>
           </div>
 
           <div class="spalte2Breit">
@@ -339,7 +339,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1">
-            <a href="http://jazoon.com/" target="_blank"><img src="../images/events/logo_jazoon.gif" width="165" height="25" alt="Jazoon'07" /></a>
+            <a href="http://jazoon.com/portals/0/Content/ArchivWebsite/jazoon.com/jazoon07/en.html" target="_blank"><img src="../images/events/logo_jazoon.gif" width="165" height="25" alt="Jazoon'07" /></a>
           </div>
 
           <div class="spalte2Breit">
@@ -410,7 +410,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1">
-            <a href="http://www.iqnite-conferences.com/index.htm" target="_blank"><img src="../images/events/sqs-conferences_06.gif" width="182" height="52" alt="SOFTWARE &amp; SYSTEMS QUALITY CONFERENCES" /></a>
+            <a href="http://www.iqnite-conferences.com/" target="_blank"><img src="../images/events/sqs-conferences_06.gif" width="182" height="52" alt="SOFTWARE &amp; SYSTEMS QUALITY CONFERENCES" /></a>
           </div>
 
           <div class="spalte2Breit">
