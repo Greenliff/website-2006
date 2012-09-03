@@ -2,8 +2,6 @@ company/request.php:    Greenliff: Online request
 company/contact.php:    Greenliff: Contact 
 company/jobs.php:    Greenliff: Jobs
 company/past_events.php:    Greenliff: Events
-company/events_neu2.php:    Greenliff: Events
-company/events_neu.php:    Greenliff: Events
 company/jobs/webapp.php:    Greenliff: Web Application Engineer 
 company/jobs/test_manager.php:    Greenliff: Test Manager
 company/jobs/finance.php:    Greenliff: Finance Test Consultant 
@@ -31,14 +29,11 @@ courses/more_information.php:    Greenliff: Please send me more information
 courses/foundation_level.php:    Greenliff: ISTQB&#174;-Certified Tester Foundation Level 
 courses/sign_in.php:    Greenliff: Certified Tester - Registration 
 courses/conditions.php:    Greenliff: AGBs Certified Tester 
-customers/index_neu.php:    Greenliff: Customers 
 customers/index.php:    Greenliff: Customers 
-customers/index2.php:    Greenliff: Customers 
 impressum.php:    Greenliff: Software testing is our core competence
 index.php:    Greenliff: Software testing is our core competence
 partners/index.php:    Greenliff: Partners
 partners/consulting.php:    Greenliff: Partners 
-portfolio/index_neu.php:    Greenliff: Service Portfolio
 portfolio/financial_application_testing.php:    Greenliff: Financial Application Testing
 portfolio/test_engineering.php:    Greenliff: Test Engineering
 portfolio/index.php:    Greenliff: Service Portfolio
@@ -58,7 +53,6 @@ template/template.php:    Greenliff:
 trends_in_testing/agenda.php:    Greenliff: Trends in Testing 2012 - Referenten
 trends_in_testing/partner.php:    Greenliff: Trends in Testing 2012 - Partner
 trends_in_testing/index.php:    Greenliff: Agile Testing, Test nonstop, Softwaretest
-trends_in_testing/speaker_neu.php:    Greenliff: Trends in Testing 2012 - Partner
 trends_in_testing/speaker.php:    Greenliff: Trends in Testing 2012 - Partner
 trends_in_testing/sign-in.php:    Greenliff: Trends in Testing 2012 - Anmeldung
 trends_in_testing/schedule.php:    Greenliff: Trends in Testing 2012 - Referenten
