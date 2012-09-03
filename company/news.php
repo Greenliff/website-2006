@@ -52,7 +52,7 @@ $datei = $array[0];
         <div class="spalte3">
           <h2>Greenliff to offer ISTQB&#174; Certified Tester trainings in collaboration with imbus.</h2>
           <p>Greenliff organizes both Foundation Level and Advanced Level courses, open courses and company courses, in English and in German. All seminars are run by <a href="http://www.imbus.de/engl/" target="_blank">imbus</a>, an ISTQB&#174; accredited training provider.<br />
-          <a href="../courses/index.php">Read more...</a></p>
+          <a href="../courses/">Read more...</a></p>
         </div>        
         
         <div style="clear:left">

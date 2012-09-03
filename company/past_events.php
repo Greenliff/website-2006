@@ -229,7 +229,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff was Software &amp; Systems Quality Conference 2008 sponsor. We were present with a booth and with a talk on <a href="../products/index.php">Fast!</a>.</p>
+              <p>Greenliff was Software &amp; Systems Quality Conference 2008 sponsor. We were present with a booth and with a talk on <a href="../products/">Fast!</a>.</p>
             </div>
           </div>
         </div>
@@ -366,7 +366,7 @@ $datei = $array[0];
             </div>
 
             <div class="spalte3" style="padding-top: 11px;">
-              <p>Greenliff shows both its <a href="/products/index.php">Fast!</a> test execution environment and automated JUnit generation with <a href="/products/agitarone.php">AgitarOne</a>.</p>
+              <p>Greenliff shows both its <a href="/products/">Fast!</a> test execution environment and automated JUnit generation with <a href="/products/agitarone.php">AgitarOne</a>.</p>
             </div>
           </div>
         </div>
@@ -421,7 +421,7 @@ $datei = $array[0];
 
             <div class="spalte3" style="padding-top: 11px;">
               <p>Greenliff is Software &amp; Systems Quality Conference sponsor.<br />
-              Greenliff demonstrates the latest features with <a href="/products/index.php">Fast!</a>, its automated test execution environment.</p>
+              Greenliff demonstrates the latest features with <a href="/products/">Fast!</a>, its automated test execution environment.</p>
             </div>
           </div>
         </div>
