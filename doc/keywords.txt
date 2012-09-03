@@ -1,0 +1,12 @@
+Keywords
+========
+
+software testing
+quality control
+reliability
+performance
+
+functional tests
+integration tests
+
+exploratory testing
