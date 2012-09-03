@@ -9,7 +9,7 @@ if(!isset($pfad))
 
         <ul>
           <li><a href="/"<?php if ($pfad == "company" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "company") { echo ' class="einfachpfeil"'; } ?>>Company</a><?php
-if($pfad == "company" || ($pfad == "" && $datei != "impressum"))
+if($pfad == "company" || ($pfad == "" && $datei != "imprint"))
 {
 ?>
             <ul>
@@ -81,4 +81,4 @@ if($pfad == "courses")
           </li>
         </ul>
       </div>
-      <div id="impressum"><a href="/impressum.php"<?php if ($datei == "impressum") { echo ' class="doppelpfeil"'; } ?>>Imprint</a></div>
+      <div id="impressum"><a href="/imprint.php"<?php if ($datei == "imprint") { echo ' class="doppelpfeil"'; } ?>>Imprint</a></div>

@@ -1,3 +1,5 @@
+index.php:    Greenliff: Software testing is our core competence
+
 company/request.php:    Greenliff: Online request 
 company/contact.php:    Greenliff: Contact 
 company/jobs.php:    Greenliff: Jobs
@@ -14,9 +16,11 @@ company/jobs/automation.php:    Greenliff: Test Automation Engineer
 company/news.php:    Greenliff: Jobs 
 company/events.php:    Greenliff: Events
 company/location.php:    Greenliff: Contact
+
 contact/request.php:    Greenliff: Online request 
 contact/index.php:    Greenliff: Contact 
 contact/location.php:    Greenliff: Contact
+
 courses/upcoming_courses.php:    Greenliff: Certified Tester - Upcoming Courses 
 courses/course_structure.php:    Greenliff: Certified Tester - Course Structure 
 courses/index.php:    Greenliff: Certified Tester 
@@ -30,10 +34,10 @@ courses/foundation_level.php:    Greenliff: ISTQB&#174;-Certified Tester Foundat
 courses/sign_in.php:    Greenliff: Certified Tester - Registration 
 courses/conditions.php:    Greenliff: AGBs Certified Tester 
 customers/index.php:    Greenliff: Customers 
-impressum.php:    Greenliff: Software testing is our core competence
-index.php:    Greenliff: Software testing is our core competence
+
 partners/index.php:    Greenliff: Partners
 partners/consulting.php:    Greenliff: Partners 
+
 portfolio/financial_application_testing.php:    Greenliff: Financial Application Testing
 portfolio/test_engineering.php:    Greenliff: Test Engineering
 portfolio/index.php:    Greenliff: Service Portfolio
@@ -45,11 +49,14 @@ portfolio/performance_testing.php:    Greenliff: Performance Testing
 portfolio/more_information.php:    Greenliff: Please send me more information
 portfolio/mobile_application_testing.php:    Greenliff: Mobile Application Testing
 portfolio/software_test_outsourcing.php:    Greenliff: Software Test Outsourcing 
+
 products/index.php:    Greenliff: Products &#38; Solutions 
 products/sotograph.php:    Greenliff: Software Health Check 
 products/more_information.php:    Greenliff: Please send me more information 
 products/agitarone.php:    Greenliff: Products &#38; Solutions 
+
 template/template.php:    Greenliff:  
+
 trends_in_testing/agenda.php:    Greenliff: Trends in Testing 2012 - Referenten
 trends_in_testing/partner.php:    Greenliff: Trends in Testing 2012 - Partner
 trends_in_testing/index.php:    Greenliff: Agile Testing, Test nonstop, Softwaretest
@@ -57,3 +64,5 @@ trends_in_testing/speaker.php:    Greenliff: Trends in Testing 2012 - Partner
 trends_in_testing/sign-in.php:    Greenliff: Trends in Testing 2012 - Anmeldung
 trends_in_testing/schedule.php:    Greenliff: Trends in Testing 2012 - Referenten
 trends_in_testing/experts.php:    Greenliff: Trends in Testing 2012 - Meet the experts
+
+impressum.php:    Greenliff: Software testing is our core competence
