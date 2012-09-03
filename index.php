@@ -6,9 +6,9 @@ $datei = "index";
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Greenliff: Software testing is our core competence</title>
-		<meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
-		<meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
+    <title>Software testing: quality control, consultancy, engineering, automation</title>
+    <meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
+    <meta name="description" content="We are an independent engineering and service company focused on software testing and quality control. We offer test consultancy, engineering and automation." />
     <meta name="language" content="en" />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/print.css" media="print" />
@@ -27,6 +27,8 @@ $datei = "index";
       <div id="middle">&nbsp;</div>
 
       <div id="content" class="home">
+        <h1>Software Testing is our core competence</h1>
+        <br />
         <div class="startspalte">
           <p>Greenliff is an independent engineering and service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical, and the financial sectors, we specialize in test consultancy, test automation, and the development of test solutions covering the entire software life cycle from specification to maintenance.</p>
 
