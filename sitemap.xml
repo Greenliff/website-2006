@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/css" href="css/sitemap.css"?>-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>http://www.greenliff.ch/</loc>
+		<priority>0.6</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+
+	<!-- Company -->
+	<url>
+		<loc>http://www.greenliff.ch/company/events.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/company/past_events.php</loc>
+		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/company/jobs.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/company/contact.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/company/location.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/company/request.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+
+	<!-- Portfolio -->
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/test_consultancy.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/test_engineering.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/test_automation.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/performance_testing.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/financial_application_testing.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/mobile_application_testing.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/portfolio/managed_testing_services.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+
+	<!-- Products -->
+	<url>
+		<loc>http://www.greenliff.ch/products/</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+
+	<!-- Courses -->
+	<url>
+		<loc>http://www.greenliff.ch/courses/upcoming_courses.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/courses/background_information.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://www.greenliff.ch/courses/course_structure.php</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+
+	<!-- Partners -->
+	<url>
+		<loc>http://www.greenliff.ch/partners/</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+
+	<!-- Customers -->
+	<url>
+		<loc>http://www.greenliff.ch/customers/</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+
+	<!-- Imprint -->
+	<url>
+		<loc>http://www.greenliff.ch/impressum.php</loc>
+		<priority>0.5</priority>
+		<changefreq>yearly</changefreq>
+	</url>
+</urlset>
