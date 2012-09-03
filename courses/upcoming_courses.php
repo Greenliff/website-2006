@@ -19,9 +19,9 @@ array_multisort($orderby, SORT_ASC, SORT_STRING, $kurse);
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>    
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Greenliff: Certified Tester - Upcoming Courses</title> 
+    <title>ISTQB Certified Tester, Courses, Trainings, Seminars, Exams, Technopark</title> 
     <meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
-    <meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
+    <meta name="description" content="We offer trainings at the Technopark as well as inhouse-trainings at your company site. Our trainings include the ISTQB certificate." />
     <meta name="language" content="en" />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/courses.css" media="screen" />
