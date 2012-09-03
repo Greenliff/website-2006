@@ -30,7 +30,7 @@ if($pfad == "company" || ($pfad == "" && $datei != "impressum"))
 }
 ?>
           </li>
-          <li><a href="/portfolio/index.php"<?php if ($pfad == "portfolio" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "portfolio") { echo ' class="einfachpfeil"'; } ?>>Service Portfolio</a>
+          <li><a href="/portfolio/"<?php if ($pfad == "portfolio" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "portfolio") { echo ' class="einfachpfeil"'; } ?>>Service Portfolio</a>
 <?php
 if($pfad == "portfolio")
 {
@@ -48,7 +48,7 @@ if($pfad == "portfolio")
 ?>
           </li>
 
-          <li><a href="/products/index.php"<?php if ($pfad == "products" && $datei == "more_information") { echo ' class="doppelpfeil"'; } else if ($pfad == "products") { echo ' class="einfachpfeil"'; } ?>>Products</a>
+          <li><a href="/products/"<?php if ($pfad == "products" && $datei == "more_information") { echo ' class="doppelpfeil"'; } else if ($pfad == "products") { echo ' class="einfachpfeil"'; } ?>>Products</a>
 <?php
 if($pfad == "products")
 {
@@ -65,7 +65,7 @@ if($pfad == "products")
 if($pfad == "courses")
 {
 ?>          <ul>
-              <li><a href="/courses/index.php"<?php if($datei == "index") { echo ' class="doppelpfeil"'; } ?>>Training Courses</a></li>
+              <li><a href="/courses/"<?php if($datei == "index") { echo ' class="doppelpfeil"'; } ?>>Training Courses</a></li>
               <li><a href="/courses/background_information.php"<?php if($datei == "background_information") { echo ' class="doppelpfeil"'; } ?>>ISTQB&#174; Certified</a></li>
               <li><a href="/courses/course_structure.php"<?php if($datei == "course_structure" || $datei == "functional_tester" || $datei == "technical_tester" || $datei == "test_manager" || $datei == "foundation_level") { echo ' class="doppelpfeil"'; } ?>>Course Structure</a></li>
               <li><a href="/courses/upcoming_courses.php"<?php if($datei == "upcoming_courses" || $datei == "conditions") { echo ' class="doppelpfeil"'; } ?>>Upcoming Courses</a></li>
