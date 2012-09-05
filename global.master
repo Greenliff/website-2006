@@ -24,23 +24,22 @@
 
 	<body>
 		<div id="NavArea">
-			<ul id="Navigation">
-				<asp:Repeater id="" runat="server">
+			<nav>
+				<asp:Repeater id="Nav" onItemDataBound="BindNavItem" runat="server">
 					<ItemTemplate>
-						<li>
-							<a id="Link" runat="server" />
-							<asp:Repeater id="Items" runat="server">
-								<HeaderTemplate><ul></HeaderTemplate>
-								<FooterTemplate></ul></FooterTemplate>
-								<ItemTemplate>
-									<li><a id="Link" runat="server" /></li>
+						<a id="Link" runat="server" />
+						<asp:Repeater id="Items" runat="server">
+							<HeaderTemplate><nav></HeaderTemplate>
+							<FooterTemplate></nav></FooterTemplate>
+							<ItemTemplate>
+								<a id="Link" runat="server" />
 								</ItemTemplate>
-							</asp:Repeater>
-						</li>
+						</asp:Repeater>
 					</ItemTemplate>
 				</asp:Repeater>
-			</ul>
-			<a id="ImprintLink" runat="server" />
+
+				<a id="ImprintLink" runat="server" />
+			</nav>
 		</div>
 
 		<div id="MiddleArea">&nbsp;</div>
