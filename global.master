@@ -40,17 +40,15 @@
 					</ItemTemplate>
 				</asp:Repeater>
 			</ul>
-			<div id="impressum">
-				<a href="/imprint.php">Imprint</a>
-			</div>
+			<a id="ImprintLink" runat="server" />
 		</div>
 
-		<div id="middle">&nbsp;</div>
+		<div id="MiddleArea">&nbsp;</div>
 
-		<div id="content" class="home">
+		<div id="ContentArea">
 			<div class="startspalte">
-			<h1>Software Testing is our core competence</h1>
-			<br />
+				<h1>Software Testing is our core competence</h1>
+				<br />
 				<p>
 					Greenliff is an independent engineering and service company focused on software testing and quality control.
 					Serving customers in the telecom, the industrial, the medical, and the financial sectors, we specialize in 
@@ -73,12 +71,16 @@
 
 			<div class="news">
 				<h2>News</h2>
-				<div class="bildlinks" style="padding:5px;">
+
+				<div class="bildlinks">
 					<a href="/company/jobs.php"><img src="images/greenliff_hiring.gif" alt="road sign: men at work" width="167" height="53" /></a>
 				</div>
-				<p style="clear:left"><strong>Greenliff is hiring</strong><br />
-				We are currently seeking a Software Engineer C# (m/w) at our Zurich Technopark office. Apply now.<br />
-				For more information click <a href="docs/20120713_GE_SoftwareEngineer.pdf">here</a>.</p>
+
+				<p>
+					<strong>Greenliff is hiring</strong><br />
+					We are currently seeking a Software Engineer C# (m/w) at our Zurich Technopark office. Apply now.<br />
+					For more information click <a href="docs/20120713_GE_SoftwareEngineer.pdf">here</a>.
+				</p>
 			</div>
 
 		</div>
