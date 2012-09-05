@@ -37,7 +37,6 @@
 						</asp:Repeater>
 					</ItemTemplate>
 				</asp:Repeater>
-
 				<a id="ImprintLink" runat="server" />
 			</nav>
 		</div>
