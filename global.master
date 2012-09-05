@@ -25,48 +25,20 @@
 	<body>
 		<div id="NavArea">
 			<ul id="Navigation">
-				<li>
-					<a href="/">Company</a>
-					<ul>
-						<li><a href="/company/events.php">Upcoming events</a></li>
-						<li><a href="/company/past_events.php">Past events</a></li>
-						<li><a href="/company/jobs.php">Jobs</a></li>
-						<li><a href="/company/contact.php">Offices</a></li>
-						<li><a href="/company/location.php">How to find us</a></li>
-						<li><a href="/company/request.php">Contact us</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="/portfolio/">Service Portfolio</a>
-					<ul>
-						<li><a href="/portfolio/test_consultancy.php">Test Consultancy</a></li>
-						<li><a href="/portfolio/test_engineering.php">Test Engineering</a></li>
-						<li><a href="/portfolio/test_automation.php">Test Automation</a></li>
-						<li><a href="/portfolio/performance_testing.php">Performance Testing</a></li>
-						<li><a href="/portfolio/financial_application_testing.php">Financial Applications</a></li>
-						<li><a href="/portfolio/mobile_application_testing.php">Mobile Application</a></li>
-						<li><a href="/portfolio/managed_testing_services.php">Testing Services</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="/products/">Products</a>
-					<ul>
-						<li><a href="/products/">Fast!</a></li>
-						<li><a href="http://www.testmachine.ch/" target="_blank">TestMachine</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="/courses/upcoming_courses.php">Certified Tester</a>
-					<ul>
-						<li><a href="/courses/">Training Courses</a></li>
-						<li><a href="/courses/background_information.php">ISTQB&#174; Certified</a></li>
-						<li><a href="/courses/course_structure.php">Course Structure</a></li>
-						<li><a href="/courses/upcoming_courses.php">Upcoming Courses</a></li>
-					</ul>
-				</li>
-
-				<li><a href="/partners/">Partners</a></li>
-				<li><a href="/customers/">Customers</a></li>
+				<asp:Repeater id="" runat="server">
+					<ItemTemplate>
+						<li>
+							<a id="Link" runat="server" />
+							<asp:Repeater id="Items" runat="server">
+								<HeaderTemplate><ul></HeaderTemplate>
+								<FooterTemplate></ul></FooterTemplate>
+								<ItemTemplate>
+									<li><a id="Link" runat="server" /></li>
+								</ItemTemplate>
+							</asp:Repeater>
+						</li>
+					</ItemTemplate>
+				</asp:Repeater>
 			</ul>
 			<div id="impressum">
 				<a href="/imprint.php">Imprint</a>
