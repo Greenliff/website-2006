@@ -1,5 +1,0 @@
-IndexIgnore *
-DirectoryIndex index.php
-Deny From 67.43.144.0/20
-Action application/x-pair-sphp5 /cgi-sys/php-cgiwrap/greenlif/php5.cgi
-AddType application/x-pair-sphp5 .php
