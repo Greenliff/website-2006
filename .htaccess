@@ -3,6 +3,8 @@ DirectoryIndex index.php
 
 Deny From 67.43.144.0/20
 
+Redirect permanent /jbed http://www.greenliff.ch
+
 RewriteEngine On
 RewriteOptions Inherit
 RewriteCond %{HTTP_HOST} !^www\.greenliff\.ch$ [NC]
