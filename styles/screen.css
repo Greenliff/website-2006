@@ -166,7 +166,8 @@ img a:active {
 }
 
 #navcontainer a:hover, 
-#navcontainer a:active, 
+#navcontainer a:active,
+#navcontainer a.doppelpfeil, 
 #navcontainer ul ul a:hover, 
 #navcontainer ul ul a:active,
 #impressum a:hover,
