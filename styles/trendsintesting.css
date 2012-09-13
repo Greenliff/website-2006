@@ -6,14 +6,6 @@
    background-color: #B1376A;
 }
 
-#navcontainer .doppelpfeil {
-   background-image: url(/images/trendsintesting_dpfeil.gif);
-}
-
-#navcontainer .einfachpfeil {
-   background-image: url(/images/trendsintesting_pfeil.gif);
-}
-
 .courses,
 .coursesBlank {
    background-image: url(/images/trendsintesting_back.gif);

@@ -6,14 +6,6 @@
    background-color: #5eb4e6;
 }
 
-#navcontainer .doppelpfeil {
-   background-image: url(/images/products_dpfeil.gif);
-}
-
-#navcontainer .einfachpfeil {   
-   background-image: url(/images/products_pfeil.gif);
-}
-
 .products,
 .productsBlank {
    background-image: url(/images/products_back.gif);
