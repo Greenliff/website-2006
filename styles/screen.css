@@ -113,8 +113,7 @@ img a:active {
 }
 
 #navcontainer > ul {
-   margin-top: 38px;
-   margin-left: 30px;
+	margin: 38px 30px 30px 30px;
 }
 
 #navcontainer ul ul {
@@ -127,7 +126,6 @@ img a:active {
 
 #navcontainer li {
    margin-top: 2px;
-   width: 160px;
 }
 
 #navcontainer ul ul li {
