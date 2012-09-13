@@ -9,9 +9,9 @@ $datei = $array[0];
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Greenliff: Events</title>
+    <title>Upcoming Events</title>
     <meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
-    <meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
+    <meta name="description" content="" />
     <meta name="language" content="en" />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/print.css" media="print" />
