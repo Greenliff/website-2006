@@ -39,9 +39,7 @@ p {
    list-style-type: disc;
 }
 
-.news ul
-{
-   margin-top: 0;
+.news ul {
    padding-top: 10px;
 }
 
@@ -55,7 +53,7 @@ h1 {
    font-weight: bold;
    font-size: 13px;
    margin: 0;
-   margin-left: -1px;
+   margin-bottom: 7px;
 }
 
 .abstandOben {
@@ -113,15 +111,16 @@ img a:active {
 }
 
 #navcontainer > ul {
-	margin: 38px 30px 30px 30px;
+	margin: 37px 30px 30px 30px;
 }
 
 #navcontainer ul ul {
+	margin-top: 4px;
 	margin-left: 10px;
 }
 
 #navcontainer > ul > li {
-	margin-bottom: 6px;
+	margin-bottom: 5px;
 }
 
 #navcontainer li {
@@ -142,7 +141,7 @@ img a:active {
 
 #navcontainer ul ul a {
    font-size: 12px;
-   line-height: 19px;
+   line-height: 17px;
 }
 
 #impressum a {
