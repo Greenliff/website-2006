@@ -4,6 +4,7 @@ DirectoryIndex index.php
 Deny From 67.43.144.0/20
 
 Redirect permanent /jbed http://www.greenliff.ch
+Redirect permanent /impressum.php http://www.greenliff.ch/imprint.php
 
 RewriteEngine On
 RewriteOptions Inherit
