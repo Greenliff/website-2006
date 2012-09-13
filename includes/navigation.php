@@ -37,10 +37,8 @@ if($pfad == "portfolio")
 ?>          <ul>
               <li><a href="/portfolio/test_consultancy.php"<?php if($datei == "test_consultancy") { echo ' class="doppelpfeil"'; } ?>>Test Consultancy</a></li>
               <li><a href="/portfolio/test_engineering.php"<?php if($datei == "test_engineering") { echo ' class="doppelpfeil"'; } ?>>Test Engineering</a></li>
-              <li><a href="/portfolio/test_automation.php"<?php if($datei == "test_automation") { echo ' class="doppelpfeil"'; } ?>>Test Automation</a></li>
+              <li><a href="/portfolio/application_testing.php"<?php if($datei == "application_testing") { echo ' class="doppelpfeil"'; } ?>>Application Testing</a></li>
               <li><a href="/portfolio/performance_testing.php"<?php if($datei == "performance_testing") { echo ' class="doppelpfeil"'; } ?>>Performance Testing</a></li>
-              <li><a href="/portfolio/financial_application_testing.php"<?php if($datei == "financial_application_testing") { echo ' class="doppelpfeil"'; } ?>>Financial Applications</a></li>
-              <li><a href="/portfolio/mobile_application_testing.php"<?php if($datei == "mobile_application_testing") { echo ' class="doppelpfeil"'; } ?>>Mobile Application</a></li>
               <li><a href="/portfolio/managed_testing_services.php"<?php if($datei == "managed_testing_services") { echo ' class="doppelpfeil"'; } ?>>Testing Services</a></li>
             </ul>
 <?php

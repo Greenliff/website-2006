@@ -56,22 +56,12 @@
 		<changefreq>monthly</changefreq>
 	</url>
 	<url>
-		<loc>http://www.greenliff.ch/portfolio/test_automation.php</loc>
+		<loc>http://www.greenliff.ch/portfolio/application_testing.php</loc>
 		<priority>0.8</priority>
 		<changefreq>monthly</changefreq>
 	</url>
 	<url>
 		<loc>http://www.greenliff.ch/portfolio/performance_testing.php</loc>
-		<priority>0.8</priority>
-		<changefreq>monthly</changefreq>
-	</url>
-	<url>
-		<loc>http://www.greenliff.ch/portfolio/financial_application_testing.php</loc>
-		<priority>0.8</priority>
-		<changefreq>monthly</changefreq>
-	</url>
-	<url>
-		<loc>http://www.greenliff.ch/portfolio/mobile_application_testing.php</loc>
 		<priority>0.8</priority>
 		<changefreq>monthly</changefreq>
 	</url>
