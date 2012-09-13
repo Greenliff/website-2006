@@ -2,7 +2,7 @@ html,
 body {
    margin: 0;
    padding: 0;
-   background-color: White;
+   background-color: white;
    color: #0C1B32;
    text-align: center;
    height: 100%;
@@ -105,7 +105,7 @@ img a:active {
    width: 200px;
    height: 520px;   
    background-color: #0087CB;
-   border-right: 3px solid White;
+   border-right: 3px solid white;
 }
 
 #navcontainer {
@@ -175,7 +175,7 @@ img a:active {
 #navcontainer ul ul a:active,
 #impressum a:hover,
 #impressum a:active {
-   color: White;
+   color: white;
 }
 
 div .doppelpfeil,
@@ -196,7 +196,7 @@ div .einfachpfeil {
    height: 520px;
    background-color: #78B4E1;
    text-align: left;
-   border-right: 3px solid White;
+   border-right: 3px solid white;
 }
 
 #content,
@@ -234,7 +234,7 @@ div .einfachpfeil {
    clear: both;
    padding-top: 4px;
    margin: 0;
-   background-color: White;
+   background-color: white;
    width: 970px;
    height: 40px;
    text-align: right;
@@ -437,7 +437,7 @@ div .einfachpfeil {
 
 .submit:hover {
    background-color: #0087CB;
-   color: White;
+   color: white;
 }
 
 .div1 {
