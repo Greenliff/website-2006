@@ -1,5 +1,4 @@
-html,
-body {
+html, body {
    margin: 0;
    padding: 0;
    background-color: white;
@@ -11,6 +10,11 @@ body {
 * {
    font-family: Arial, Helvetica, sans-serif;
    font-size: 11px;
+}
+
+ul, li {
+   margin: 0;
+   padding: 0;
 }
 
 td {
@@ -25,19 +29,8 @@ p {
 #content ul,
 #contentleer ul,
 #scrollcontent ul {   
-   margin-top: 0px;
-   margin-left: 0;
    padding-left: 20px;
    line-height: 17px;
-}
-
-#content ul ul,
-#contentleer ul ul,
-#scrollcontent ul ul {   
-   margin-top: 0px;
-   margin-left: 0;
-   padding-left: 20px;
-   line-height: 17px;   
 }
 
 #content ul ul li,
@@ -90,7 +83,6 @@ img a:active {
    width: 970px;
    height: 564px;
    margin: auto auto;
-   padding: 0;
    background-color: #EEEFF1;
    overflow: visible;
 }
@@ -115,27 +107,26 @@ img a:active {
    text-align: left;
 }
 
-#navcontainer ul, 
-#navcontainer ul ul {
-   margin: 0;
-   padding: 0;
+#navcontainer ul {
    list-style-type: none;
    white-space: nowrap;
 }
 
-#navcontainer ul {
+#navcontainer > ul {
    margin-top: 38px;
-   margin-left: 14px;
+   margin-left: 30px;
+}
+
+#navcontainer ul ul {
+	margin-left: 10px;
 }
 
 #navcontainer > ul > li {
 	margin-bottom: 6px;
 }
 
-#navcontainer li,
-#navcontainer ul ul li {
+#navcontainer li {
    margin-top: 2px;
-   padding: 0;
    width: 160px;
 }
 
@@ -143,9 +134,7 @@ img a:active {
    margin: 0;
 }
 
-#navcontainer a, 
-#navcontainer ul ul a {
-   padding-left: 15px;
+#navcontainer a {
    color: #0C1B32;
    text-decoration: none;
    font-weight: bold;
@@ -154,7 +143,6 @@ img a:active {
 }
 
 #navcontainer ul ul a {
-   padding-left: 24px;
    font-size: 12px;
    line-height: 19px;
 }
