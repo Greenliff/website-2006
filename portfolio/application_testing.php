@@ -9,7 +9,7 @@ $datei = $array[0];
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Mobile Application Testing</title>
+    <title>Application Testing</title>
     <meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
     <meta name="description" content="" />
     <meta name="language" content="en" />
@@ -31,17 +31,18 @@ $datei = $array[0];
       </div>
       <div id="content" class="portfolio">
         <div class="spalte1">
-          <h1>Mobile Application Testing</h1>
-          <p>Mobile application development is far more complex than development for standardized PCs or servers. There are many vendor specific APIs, proprietary kernels and operating systems, different screen sizes and MMIs. Furthermore, many mobile applications are to be deployed on hundreds of different mobile phones or devices, increasingly over the air! We have an outstanding track record on testing mobile applications running on all kinds of mobile phones, PDAs, and other embedded devices.</p>
+          <h1>Financial Application Testing</h1>
+          <p>Effective testing of financial applications can only be performed by engineers who have specific industry knowledge and the right software testing skills. Our consultants bring these competencies in addition to their comprehensive experience and unique track record in the financial industry.</p>
         </div>
 
          <div class="spalte2">
-          <p class="abstandOben">&nbsp;</p>
+          <h1>Mobile Application Testing</h1>
+          <p>Mobile application development is far more complex than development for standardized PCs or servers. There are many vendor specific APIs, proprietary kernels and operating systems, different screen sizes and MMIs. Furthermore, many mobile applications are to be deployed on hundreds of different mobile phones or devices, increasingly over the air! We have an outstanding track record on testing mobile applications running on all kinds of mobile phones, PDAs, and other embedded devices.</p>
          </div>
 
         <div class="news">
           <h3>Information Request</h3>
-          <p>Please use our <a href="more_information.php?infos=MobileApplication">online request form</a> to submit your inquiry.</p>
+          <p>Please use our <a href="more_information.php?infos=FinancialApplications">online request form</a> to submit your inquiry.</p>
         </div>
       </div>
 <?php include_once("../includes/footer.html"); ?>

@@ -9,7 +9,7 @@ $datei = $array[0];
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Test Engineering</title>
+    <title>Test Engineering and test automation</title>
     <meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
     <meta name="description" content="" />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
@@ -35,7 +35,8 @@ $datei = $array[0];
         </div>
 
          <div class="spalte2">
-          <p class="abstandOben">&nbsp;</p>
+          <h1>Test Automation</h1>
+          <p>With the right technologies and methods, automated software testing is a cost efficient strategy. Furthermore, automated tests are the basis for efficient regression testing. An automated test framework can run thousands of tests every night and as part of a continuous integration strategy can provide a daily overview of product quality as well as up-to-the minute assessments of software development changes.</p>
          </div>
 
         <div class="news">

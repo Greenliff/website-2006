@@ -50,11 +50,9 @@ $datei = $array[0];
           <h2 style="margin-top:25px;">Our service portfolio</h2>
           <ul>
 	         <li><a href="test_consultancy.php">Test Consultancy </a></li>
-            <li><a href="test_engineering.php">Test Engineering</a></li>
-          	<li><a href="test_automation.php">Test Automation</a></li>
+            <li><a href="test_engineering.php">Test Engineering and Automation</a></li>
+          	<li><a href="application_testing.php">Application Testing</a></li>
           	<li><a href="performance_testing.php">Performance Testing</a></li>
-          	<li><a href="financial_application_testing.php">Financial Application Testing</a></li>
-          	<li><a href="mobile_application_testing.php">Mobile Application Testing</a></li>
           	<li><a href="managed_testing_services.php">Managed Testing Services</a></li>
           </ul>
         </div>
