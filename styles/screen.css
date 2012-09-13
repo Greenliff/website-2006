@@ -165,14 +165,14 @@ img a:active {
 
 div .doppelpfeil,
 div .einfachpfeil {   
-   background-image: url(/images/company_dpfeil.gif);
+   background-image: url(/images/dpfeil.png);
    background-position: right;
    background-repeat: no-repeat;
    padding-right: 20px;
 }
 
 div .einfachpfeil {   
-   background-image: url(/images/company_pfeil.gif);
+   background-image: url(/images/pfeil.png);
 }
 
 #middle {
