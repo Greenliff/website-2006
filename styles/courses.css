@@ -6,14 +6,6 @@
    background-color: #78BE5A;
 }
 
-#navcontainer .doppelpfeil {
-   background-image: url(/images/courses_dpfeil.gif);
-}
-
-#navcontainer .einfachpfeil {
-   background-image: url(/images/courses_pfeil.gif);
-}
-
 .courses,
 .coursesBlank {
    background-image: url(/images/courses_back.gif);

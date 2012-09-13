@@ -15,14 +15,6 @@
    background-color: #FFD35C;
 }
 
-#navcontainer .doppelpfeil {
-   background-image: url(/images/partner_dpfeil.gif);
-}
-
-#navcontainer .einfachpfeil {   
-   background-image: url(/images/partner_pfeil.gif);
-}
-
 .partners,
 .partnersBlank {
    background-image: url(/images/partner_back.gif);

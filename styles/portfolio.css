@@ -16,14 +16,6 @@
    background-color: #FA9246;
 }
 
-#navcontainer .doppelpfeil {
-   background-image: url(/images/portfolio_dpfeil.gif);
-}
-
-#navcontainer .einfachpfeil {   
-   background-image: url(/images/portfolio_pfeil.gif);
-}
-
 .portfolio,
 .portfolioBlank {
    background-image: url(/images/portfolio_back.gif);
