@@ -129,11 +129,15 @@ img a:active {
    margin-left: 14px;
 }
 
+#navcontainer > ul > li {
+	margin-bottom: 6px;
+}
+
 #navcontainer li,
 #navcontainer ul ul li {
-   margin-top: 13px;
+   margin-top: 2px;
    padding: 0;
-   width: 200px;
+   width: 160px;
 }
 
 #navcontainer ul ul li {
