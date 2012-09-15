@@ -10,4 +10,4 @@
 		<p><a href="/docs/Greenliff_how_to_get_here.pdf" target="_blank" title="How to find Greenliff">pdf-Download</a></p>
 	</div>
 </div>
- include_once("../includes/footer.inc.php"); ?>
+<? include_once("../includes/footer.inc.php"); ?>
