@@ -18,7 +18,5 @@
     </div>
     <p>Sukha IT is the company behind the TestMachine, an end-to-end test automation framework for iPhone and iPad Apps. No jailbreaking needed! TestMachine enables you to write automated tests in Java and supports unattended nightly test runs and full configuration management out-of-the-box. </p>
   </div>
-  <div class="spalte3">
-  </div>
 </div>
 <? include_once("../includes/footer.inc.php"); ?>
