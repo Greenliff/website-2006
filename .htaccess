@@ -5,7 +5,7 @@ Deny From 67.43.144.0/20
 
 Redirect permanent /jbed http://www.greenliff.ch
 Redirect permanent /impressum.php http://www.greenliff.ch/imprint.php
-Redirect permanent /portfolio/test-automation.php http://www.greenliff.ch/portfolio/test_engineering.php
+Redirect permanent /portfolio/test_automation.php http://www.greenliff.ch/portfolio/test_engineering.php
 Redirect permanent /portfolio/financial_application_testing.php http://www.greenliff.ch/portfolio/application_testing.php
 Redirect permanent /portfolio/mobile_application_testing.php http://www.greenliff.ch/portfolio/application_testing.php
 
