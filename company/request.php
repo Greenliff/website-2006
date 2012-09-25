@@ -84,7 +84,7 @@ if(isset($_POST["send"]))
     $information .= "\n";
     
     $extra = "MIME-Version: 1.0\nContent-Type: text/plain; charset=iso-8859-1\nContent-Transfer-Encoding: quoted-printable\n";
-    $betreff = "Request";
+    $betreff = "Request from website";
     $text = $information;
     $text .= "Name..........: ".$fullname."\n";
     if($company != "")
@@ -99,7 +99,7 @@ if(isset($_POST["send"]))
   	// E-Mail-Versand
     if(!$missbrauch)
     {
-    	if(@mail($empfaenger,$betreff,$text,$extra."From:".$e_mail."\nX-Mailer:PHP/".phpversion()))
+    	if(@mail($empfaenger,$betreff,$text,$extra."From: website@greenliff.com\nReply-To: ".$e_mail."\nX-Mailer: PHP/".phpversion()))
       {
         $meldung = "Thank you very much for your interest in our company. We handle your
 request you as soon as possible.";
