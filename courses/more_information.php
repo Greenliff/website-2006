@@ -108,7 +108,7 @@ if(isset($_POST["send"]))
   	// E-Mail-Versand
     if(!$missbrauch)
     {
-    	if(@mail($empfaenger,$betreff,$text,$extra."From:".$e_mail."\nX-Mailer:PHP/".phpversion()))
+    	if(@mail($empfaenger,$betreff,$text,$extra."From: website@greenliff.com\nReply-To: ".$e_mail."\nX-Mailer: PHP/".phpversion()))
       {
         $meldung = "Thank you very much for your interest in our products. We will contact you as soon as possible.";
         $success = true;
