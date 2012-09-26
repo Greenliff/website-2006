@@ -126,6 +126,13 @@ if(isset($_POST["send"]))
     {
       $text .= "\nComment:\n".$comment."\n";
   	}
+    $ip = $_SERVER['REMOTE_ADDR'];
+	 $text .= "\nIP............: ".$ip."\n";
+    $host = gethostbyaddr($ip);
+    if($host != "") {
+	 	$text .= "Hostname......: ".$host."\n";
+    }
+
   	// E-Mail-Versand
     if(!$missbrauch)
     {
