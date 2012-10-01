@@ -29,7 +29,7 @@ $datei = $array[0];
       <div id="middle">
       </div>
       <div id="scrollcontent">
-        <h1>News and Events</h1>
+        <h1>Past Events</h1>
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
