@@ -53,6 +53,7 @@ if($pfad == "products")
 ?>          <ul>
               <li><a href="/products/"<?php if($datei == "index") { echo ' class="doppelpfeil"'; } ?>>Fast!</a></li>
               <li><a href="http://www.testmachine.ch/" target="_blank">TestMachine</a></li>
+              <li><a href="http://www.imbus.de/produkte/imbus-testbench/" target="_blank">Test Bench</a></li>
             </ul>
 <?php
 }
