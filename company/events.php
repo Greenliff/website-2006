@@ -32,19 +32,22 @@ $datei = $array[0];
         <h1>Upcoming events</h1>
 
         <div class="event" style="margin-top:10px;">
-          <div class="spalte1">&nbsp;</div>
+          <div class="spalte1">
+            <img src="../images/events/logo_art-of-technology.png" alt="Art of Technology" /></a>
+          </div>
 
           <div class="spalte2Breit">
 				<h2>Zürich, 26. Oktober 2012</h2>
-				<h3 style="padding-top: 11px;">Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte</h3>
+				<h3 style="padding-top: 11px;">
+					[INSIGHT] Art of Technology AG<br />
+					Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte
+				</h3>
 				<p>
 					Ort: Technopark Zürich<br />
 					Referent: Alexander Houben (Greenliff AG) &amp; Phonak<br />
-					[INSIGHT] bei der Art of Technology AG (Technopark)
-
-				</p>
-					<a href="http://www.medical-cluster.ch/anmeldung_insight" target="_blank">Anmeldung</a>
+					<a href="http://www.medical-cluster.ch/anmeldung_insight" target="_blank">Anmeldung</a><br />
                <a href="../docs/insight.pdf" target="_blank">Weitere Informationen (PDF)</a>
+				</p>
           </div>
         </div>
 
@@ -68,7 +71,7 @@ $datei = $array[0];
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 28. November 2012</h2>
-            <h3>Crowd &amp; Cloud based Testing</h3>              
+            <h3 style="padding-top: 11px;">Crowd &amp; Cloud based Testing</h3>              
             <p>
                Ort: Primetower Zurich<br />
                Topics:
@@ -91,10 +94,9 @@ $datei = $array[0];
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 6./7. März 2013</h2>
-				<h3>Ranorex</h3>
+				<h3 style="padding-top: 11px;">Ranorex</h3>
 				<p>
 					Ort: Technopark Zürich<br />
-					Themen:
 				</p>
 				<ul>
 					<li>1. Tag: 3 - 4 Praxisvorträge von bereits bestehenden Ranorex Kunden in der Schweiz/Deutschland</li>
@@ -102,14 +104,34 @@ $datei = $array[0];
 				</ul>
           </div>
         </div>
-					
-<!--
-Swiss testing Day
-13. März 2013
 
-Trends in Testing 2013
-19.03.2013 (Dienstag) 
--->
+        <div class="event">
+          <div class="spalte1">
+            <img src="../images/events/logo_swisstestingday.gif" width="161" height="77" alt="Swiss Testing Day" />
+          </div>
+
+          <div class="spalte2Breit" style="margin-top:10px;">
+            <h2>Zurich, 13. March 2013</h2>
+            <div class="spalte2" style="padding-top: 11px;">
+              <h3>Swiss Testing Day</h3>
+            </div>
+          </div>
+        </div>
+
+        <div class="event" style="margin-top:10px;">
+          <div class="spalte1">
+            <img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" />
+          </div>
+
+          <div class="spalte2Breit">
+            <h2>Zurich, 13. April 2012</h2>
+            <div class="spalte2" style="padding-top: 11px;">
+              <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
+            </div>
+          </div>
+        </div>
+
+					
 
 
       </div>
