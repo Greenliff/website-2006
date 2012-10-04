@@ -38,7 +38,7 @@ $datei = $array[0];
 
           <div class="spalte2Breit">
 				<h2>Zürich, 26. Oktober 2012</h2>
-				<h3 style="padding-top: 11px;">
+				<h3 style="padding-top: 11px;padding-bottom: 5px;">
 					[INSIGHT] Art of Technology AG<br />
 					Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte
 				</h3>
@@ -52,14 +52,21 @@ $datei = $array[0];
         </div>
 
         <div class="event" style="margin-top:10px;">
-          <div class="spalte1">&nbsp;</div>
+          <div class="spalte1" style="padding-top: 11px">
+            <img src="../images/events/q-und-i_logo.png" alt="Qualität und Informatik" /></a>
+          </div>
 
           <div class="spalte2Breit">
             <h2>Zürich, 20. November 2012</h2>
-            <h3 style="padding-top: 11px;">Brauchen Agile Software-Projekte eine Prozessverbesserung?</h3>
-            <p>
-					Ort: Technopark Zürich<br />
-               Referenten: Dr. Ernest Wallmüller (Qualität & Informatik), Carl Worms (Credit Suisse), Martin Voss (Nixdorf)<br />
+            <h3 style="padding-top: 11px;padding-bottom: 5px;">Brauchen Agile Software-Projekte eine Prozessverbesserung?</h3>
+				Ort: Technopark Zürich<br /><br />
+            Referenten: <br />
+				<ul>
+					<li>Dr. Ernest Wallmüller (Qualität & Informatik)</li>
+					<li>Carl Worms (Credit Suisse)</li>
+					<li>Martin Voss (Nixdorf)</li>
+				</ul>
+				<p>
                <a href="121120_sign-in.php">Anmeldung</a><br />
                <a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Weitere Informationen (PDF)</a>
 				</p>
@@ -67,15 +74,15 @@ $datei = $array[0];
         </div>
 
         <div class="event">
-          <div class="spalte1">&nbsp;</div>
+          <div class="spalte1" style="padding-top: 11px">
+            <img src="../images/events/pass_logo.png" alt="Pass Group" /></a>
+          </div>
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 28. November 2012</h2>
-            <h3 style="padding-top: 11px;">Crowd &amp; Cloud based Testing</h3>              
-            <p>
-               Location: Primetower Zurich<br />
-               Topics:
-            </p>
+            <h3 style="padding-top: 11px;padding-bottom: 5px;">Crowd &amp; Cloud based Testing</h3>              
+            Location: Primetower Zurich<br /><br />
+            Topics:
             <ul>
               <li>The Crowd in the Cloud (Carl Esposti, Founder and CEO crowdsourcing.org)</li>  
               <li>eBay's Crowd Testing Strategy (Michael Palotas, Head Quality Engineering Europe, eBay International)</li> 
@@ -90,11 +97,13 @@ $datei = $array[0];
         </div>
 
         <div class="event">
-          <div class="spalte1">&nbsp;</div>
+          <div class="spalte1" style="padding-top: 11px">
+            <a href="http://www.ranorex.com/" target="_blank"><img src="../images/events/ranorex_logo.png" alt="Ranorex" /></a>
+          </div>
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zürich, 6./7. März 2013</h2>
-				<h3 style="padding-top: 11px;">Ranorex</h3>
+				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex</h3>
 				<p>
 					Ort: Technopark Zürich<br />
 				</p>
@@ -112,7 +121,7 @@ $datei = $array[0];
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 13. March 2013</h2>
-            <h3 style="padding-top: 11px;">Swiss Testing Day</h3>
+            <h3 style="padding-top: 11px;padding-bottom: 5px;">Swiss Testing Day</h3>
           </div>
         </div>
 
