@@ -33,14 +33,14 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
-            <img src="../images/events/logo_art-of-technology.png" alt="Art of Technology" />
+            <a href="http://www.medical-cluster.ch/index.php?section=calendar&cmd=detail&catid=0&key=4" target="_blank"><img src="../images/events/logo_art-of-technology.png" alt="Art of Technology" /></a>
           </div>
 
           <div class="spalte2Breit">
 				<h2>Zürich, 26. Oktober 2012</h2>
 				<h3 style="padding-top: 11px;padding-bottom: 5px;">
-					[INSIGHT] Art of Technology AG<br />
-					Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte
+					<a href="http://www.medical-cluster.ch/index.php?section=calendar&cmd=detail&catid=0&key=4" target="_blank">[INSIGHT] Art of Technology AG<br />
+					Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte</a>
 				</h3>
 				<p>
 					Ort: Technopark Zürich<br />
@@ -60,7 +60,9 @@ $datei = $array[0];
 
           <div class="spalte2Breit">
             <h2>Zürich, 20. November 2012</h2>
-            <h3 style="padding-top: 11px;padding-bottom: 5px;">Brauchen Agile Software-Projekte eine Prozessverbesserung?</h3>
+            <h3 style="padding-top: 11px;padding-bottom: 5px;">
+					<a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Brauchen Agile Software-Projekte eine Prozessverbesserung?</a>
+				</h3>
 				Organisiert zusammen mit <a href="http://www.itq.ch/" target="_blank">Qualiät &amp; Informatik</a><br />              
 				Ort: Technopark Zürich<br /><br />
             Referenten: <br />
@@ -84,7 +86,9 @@ $datei = $array[0];
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 28. November 2012</h2>
-            <h3 style="padding-top: 11px;padding-bottom: 5px;">Crowd &amp; Cloud based Testing</h3>
+            <h3 style="padding-top: 11px;padding-bottom: 5px;">
+					<a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">Crowd &amp; Cloud based Testing</a>
+				</h3>
 				Organised in cooperation with <a href="http://www.pass.ch/" target="_blank">PASS Technology AG</a><br />              
             Location: Clouds on top of Prime Tower Zurich<br /><br />
             Topics:

@@ -157,10 +157,10 @@ if(isset($_POST['send']))
       <div id="scrollcontent" class="events">
         <div class="startspalte">
           <h1>Anmeldung für die Veranstaltung</h1>
-          <h2>&laquo;Brauchen Agile Software-Projekte eine Prozessverbesserung?&raquo;</h2>
+          <h2>Brauchen Agile Software-Projekte eine Prozessverbesserung?</h2>
 
           <a name="Address"></a>
-          <form method="post" action="<?php echo $datei; ?>.php" style="margin-top: 30px;">
+          <form method="post" action="<?php echo $datei; ?>.php" style="margin-top: 15px;">
             <div class="div1">
               <span class="formlabel required<?php if($fehler && $title == "") echo " marker"; ?>"><!-- Title --></span><input type="radio" name="title" value="Herr" <?php if($title == "Herr") { echo ' checked="checked"'; } ?> /><span class="<?php if($fehler && $title == "") echo " marker"; ?>">Herr</span> <input type="radio" name="title" value="Frau" <?php if($title == "Frau") { echo ' checked="checked"'; } ?> style="margin-left:20px;" /><span class="<?php if($fehler && $title == "") echo " marker"; ?>">Frau</span>
             </div>
@@ -215,7 +215,7 @@ if(!isset($_POST["send"]))
 ?>
         <div class="news">
           <h3>20. November 2012</h3>
-          <p>Technopark Zürich, Technoparkstr. 1, 8005 Zürich</p>
+          <p>Technopark Zürich <br />Technoparkstrasse 1 <br/>8005 Zürich</p>
           <p>14:00 - 17:00 Uhr mit anschliessendem Apéro</p>
           <p>Referenten: Dr. Ernest Wallmüller, Carl Worms, Martin Voss</p>
           <p>Die Teilnahme ist kostenlos. Eine Buchungsbestätigung erfolgt in der Reihenfolge der Anmeldung. </p>

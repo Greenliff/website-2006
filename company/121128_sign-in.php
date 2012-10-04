@@ -132,10 +132,10 @@ if(isset($_POST['send']))
           <p>Crowdsourcing and Cloud Computing have opened new dimensions in Software Testing. New possibilities like crowd testing, web based community platforms, cloud based virtual test systems and cloud based testing tools help us to further improve software quality assurance processes and methods and to specifically increase testing efficiency and effectiveness. Join us at &laquo;Crowd &amp; Cloud based On-Demand Testing&raquo; to get inspired, learn more about using cloud platforms and tools to manage crowdsourced testing teams. Understand the basic crowd testing principles and processes, receive first-hand information on concrete cases, and meet with our speakers and other industry professionals. This event has been organized by PASS and Greenliff, renown specialists in crowd testing and cloud based testing. Our guest speakers listed in the agenda of this afternoon session are recognized leaders in their specific field. Don't miss this unique opportunity, register today to reserve your seat in the &laquo;Clouds&raquo; in Zurich Prime Tower! (Due to international speakers this event will be held in english language.)</p>
           <h3>Topics</h3>
           <ul>
-            <li>The Crowd in the Cloud (Carl Esposti, Founder and CEO <a href="http://www.crowdsourcing.org" target="_blank">crowdsourcing.org</a>)</li>    
+            <li>The Crowd in the Cloud (Carl Esposti, Founder and CEO crowdsourcing.org)</li>    
             <li>eBay's Crowd Testing Strategy (Michael Palotas, Head Quality Engineering Europe, eBay International)</li>     
             <li>How Crowd Testing works (Dieter Speidel, CEO PASS Group)</li>     
-            <li>Cloud Scale Testing (Joachim Büchse, Managing Director Greenliff)</li>           
+            <li>Cloud Scale Testing (Joachim Büchse, Managing Director Greenliff Bern)</li>           
           </ul>
 
           <a name="Registration"></a>
@@ -178,11 +178,11 @@ if(!$success)
         </div>
         <div class="news">
           <h3>28. November 2012</h3>
-          <p><a href="http://primetower.ch/en/eat-meet/konferenzen" target="_blank">Clouds</a> Conference Center, Prime Tower Zürich</p>
+          <p><a href="http://primetower.ch/en/eat-meet/konferenzen" target="_blank">Clouds Conference Center</a><br />Prime Tower Zürich<br />Maagplatz 5<br />8005 Zurich</p>
           <p>14:00 - 17:00h Apéro &amp; Networking &ndash; &laquo;Meet the Experts&raquo;</p>
           <p>Cost: CHF 190.-</p>
           <p>Audience: CIOs, R&D Managers, SW-Development Managers, Product Owners, Project Managers, Test Managers, Software Quality Managers</p>
-          <p><a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">more Information</a> (pdf)</p>
+          <p><a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">More information (PDF)</a></p>
           <p><a href="#Registration">Registration form</a></p>
 
         </div>

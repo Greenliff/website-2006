@@ -51,15 +51,18 @@ $datei = "index";
 					<div class="bildlinks" style="padding:5px;">
 						<a href="/company/events.php"><img src="images/greenliff_hiring.gif" alt="Afternoon Talk" width="167" height="53" /></a>
 					</div>
-					<p style="clear:left"><strong>Register now for upcoming events:</strong>
-						<ul style="padding-top: 0;padding-bottom: 5px;">
-							<li>A test robot for hearing aids</li>
-							<li>crowd &amp; cloud testing</li>
-							<li>improvement of agile development processes</li>
-							<li>... and much more.</li>
-						</ul>  
+					<p>
+						<strong>Register now for upcoming events:</strong>
+					</p>
+					<ul style="padding-top: 0;padding-bottom: 5px;">
+						<li>A test robot for hearing aids</li>
+						<li>crowd &amp; cloud testing</li>
+						<li>improvement of agile development processes</li>
+						<li>... and much more.</li>
+					</ul>  
 
-						<a style="padding-left: 5px;padding-top: 5px;" href="company/events.php">Register now, seats are limited.</a>
+					<p>
+						<a style="padding-left: 5px" href="company/events.php">Register now, seats are limited.</a>
 					</p>
 				</div>
 
