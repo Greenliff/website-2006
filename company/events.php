@@ -33,7 +33,7 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
-            <img src="../images/events/logo_art-of-technology.png" alt="Art of Technology" /></a>
+            <img src="../images/events/logo_art-of-technology.png" alt="Art of Technology" />
           </div>
 
           <div class="spalte2Breit">
@@ -53,7 +53,7 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1" style="padding-top: 11px">
-            <img src="../images/events/q-und-i_logo.png" alt="Qualität und Informatik" /></a>
+            <img src="../images/events/q-und-i_logo.png" alt="Qualität und Informatik" />
           </div>
 
           <div class="spalte2Breit">
@@ -62,7 +62,7 @@ $datei = $array[0];
 				Ort: Technopark Zürich<br /><br />
             Referenten: <br />
 				<ul>
-					<li>Dr. Ernest Wallmüller (Qualität & Informatik)</li>
+					<li>Dr. Ernest Wallmüller (Qualität &amp; Informatik)</li>
 					<li>Carl Worms (Credit Suisse)</li>
 					<li>Martin Voss (Nixdorf)</li>
 				</ul>
@@ -75,7 +75,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1" style="padding-top: 11px">
-            <img src="../images/events/pass_logo.png" alt="Pass Group" /></a>
+            <img src="../images/events/pass_logo.png" alt="Pass Group" />
           </div>
 
           <div class="spalte2Breit" style="margin-top:10px;">
