@@ -28,10 +28,89 @@ $datei = $array[0];
       </div>
       <div id="middle">
       </div>
-      <div id="content" class="home">
+      <div id="scrollcontent">
         <h1>Upcoming events</h1>
 
-<p>No events at the moment.</p>
+        <div class="event" style="margin-top:10px;">
+          <div class="spalte1">&nbsp;</div>
+
+          <div class="spalte2Breit">
+				<h2>Zürich, 26. Oktober 2012</h2>
+				<h3 style="padding-top: 11px;">Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte</h3>
+				<p>
+					Ort: Technopark Zürich<br />
+					Referent: Alexander Houben (Greenliff AG) &amp; Phonak<br />
+					[INSIGHT] bei der Art of Technology AG (Technopark)
+
+				</p>
+					<a href="http://www.medical-cluster.ch/anmeldung_insight" target="_blank">Anmeldung</a>
+               <a href="../docs/insight.pdf" target="_blank">Weitere Informationen (PDF)</a>
+          </div>
+        </div>
+
+        <div class="event" style="margin-top:10px;">
+          <div class="spalte1">&nbsp;</div>
+
+          <div class="spalte2Breit">
+            <h2>Zürich, 20. November 2012</h2>
+            <h3 style="padding-top: 11px;">Brauchen Agile Software-Projekte eine Prozessverbesserung?</h3>
+            <p>
+					Ort: Technopark Zürich<br />
+               Referenten: Dr. Ernest Wallmüller (Qualität & Informatik), Carl Worms (Credit Suisse), Martin Voss (Nixdorf)<br />
+               <a href="121120_sign-in.php">Anmeldung</a><br />
+               <a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Weitere Informationen (PDF)</a>
+				</p>
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">&nbsp;</div>
+
+          <div class="spalte2Breit" style="margin-top:10px;">
+            <h2>Zurich, 28. November 2012</h2>
+            <h3>Crowd &amp; Cloud based Testing</h3>              
+            <p>
+               Ort: Primetower Zurich<br />
+               Topics:
+            </p>
+            <ul>
+              <li>The Crowd in the Cloud (Carl Esposti, Founder and CEO crowdsourcing.org)</li>  
+              <li>eBay's Crowd Testing Strategy (Michael Palotas, Head Quality Engineering Europe, eBay International)</li> 
+              <li>How Crowd Testing works (Dieter Speidel, CEO PASS Group)</li> 
+              <li>Cloud Scale Testing (Joachim Büchse, Managing Director Greenliff)</li>             
+            </ul>
+            <p>
+              <a href="121128_sign-in.php">Registration</a><br />
+              <a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">More information (PDF)</a>
+            </p>
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">&nbsp;</div>
+
+          <div class="spalte2Breit" style="margin-top:10px;">
+            <h2>Zurich, 6./7. März 2013</h2>
+				<h3>Ranorex</h3>
+				<p>
+					Ort: Technopark Zürich<br />
+					Themen:
+				</p>
+				<ul>
+					<li>1. Tag: 3 - 4 Praxisvorträge von bereits bestehenden Ranorex Kunden in der Schweiz/Deutschland</li>
+					<li>2. Tag: Workshop</li>
+				</ul>
+          </div>
+        </div>
+					
+<!--
+Swiss testing Day
+13. März 2013
+
+Trends in Testing 2013
+19.03.2013 (Dienstag) 
+-->
+
 
       </div>
 <?php include_once("../includes/footer.html"); ?>
