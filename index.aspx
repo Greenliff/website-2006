@@ -1,1 +1,0 @@
-<%@ Page masterPageFile="~/global.master" %>
