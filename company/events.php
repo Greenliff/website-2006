@@ -53,12 +53,15 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1" style="padding-top: 11px">
-            <img src="../images/events/q-und-i_logo.png" alt="Qualität und Informatik" />
+            <img src="../images/greenliff_hiring.gif" /><br >
+				<br />
+				<h3>Greenliff Afternoon Talks</h3>
           </div>
 
           <div class="spalte2Breit">
             <h2>Zürich, 20. November 2012</h2>
             <h3 style="padding-top: 11px;padding-bottom: 5px;">Brauchen Agile Software-Projekte eine Prozessverbesserung?</h3>
+				Organisiert zusammen mit <a href="http://www.itq.ch/" target="_blank">Qualiät &amp; Informatik</a><br />              
 				Ort: Technopark Zürich<br /><br />
             Referenten: <br />
 				<ul>
@@ -75,12 +78,14 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1" style="padding-top: 11px">
-            <img src="../images/events/pass_logo.png" alt="Pass Group" />
+            <img src="../images/greenliff_hiring.gif" /><br ><br />
+				<h3>Greenliff Afternoon Talks</h3>
           </div>
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 28. November 2012</h2>
-            <h3 style="padding-top: 11px;padding-bottom: 5px;">Crowd &amp; Cloud based Testing</h3>              
+            <h3 style="padding-top: 11px;padding-bottom: 5px;">Crowd &amp; Cloud based Testing</h3>
+				Organised in cooperation with <a href="http://www.pass.ch/" target="_blank">PASS Technology AG</a><br />              
             Location: Primetower Zurich<br /><br />
             Topics:
             <ul>
