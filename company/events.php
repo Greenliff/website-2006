@@ -45,8 +45,8 @@ $datei = $array[0];
 				<p>
 					Ort: Technopark Zürich<br />
 					Referent: Alexander Houben (Greenliff AG) &amp; Phonak<br />
-					<a href="http://www.medical-cluster.ch/anmeldung_insight" target="_blank">Anmeldung</a><br />
-               <a href="../docs/insight.pdf" target="_blank">Weitere Informationen (PDF)</a>
+               <a href="../docs/insight.pdf" target="_blank">Weitere Informationen (PDF)</a><br />
+					<a href="http://www.medical-cluster.ch/anmeldung_insight" target="_blank">Anmeldung</a>
 				</p>
           </div>
         </div>
@@ -70,8 +70,8 @@ $datei = $array[0];
 					<li>Martin Voss (Nixdorf)</li>
 				</ul>
 				<p>
-               <a href="121120_sign-in.php">Anmeldung</a><br />
-               <a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Weitere Informationen (PDF)</a>
+               <a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Weitere Informationen (PDF)</a><br />
+               <a href="121120_sign-in.php">Anmeldung</a>
 				</p>
           </div>
         </div>
@@ -86,7 +86,7 @@ $datei = $array[0];
             <h2>Zurich, 28. November 2012</h2>
             <h3 style="padding-top: 11px;padding-bottom: 5px;">Crowd &amp; Cloud based Testing</h3>
 				Organised in cooperation with <a href="http://www.pass.ch/" target="_blank">PASS Technology AG</a><br />              
-            Location: Primetower Zurich<br /><br />
+            Location: Clouds on top of Prime Tower Zurich<br /><br />
             Topics:
             <ul>
               <li>The Crowd in the Cloud (Carl Esposti, Founder and CEO crowdsourcing.org)</li>  
@@ -95,8 +95,8 @@ $datei = $array[0];
               <li>Cloud Scale Testing (Joachim Büchse, Managing Director Greenliff)</li>             
             </ul>
             <p>
-              <a href="121128_sign-in.php">Registration</a><br />
-              <a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">More information (PDF)</a>
+              <a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">More information (PDF)</a><br />
+              <a href="121128_sign-in.php">Registration</a>
             </p>
           </div>
         </div>
