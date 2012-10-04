@@ -126,8 +126,8 @@ if(isset($_POST['send']))
       </div>
       <div id="scrollcontent" class="events">
         <div class="startspalte">
-          <h1>Registration to the event</h1>
-          <h2>&laquo;Crowd &amp; Cloud based Testing&raquo; - PASS & Greenliff Afternoon Talks</h2>
+          <h1>Event Registration</h1>
+          <h2>Crowd &amp; Cloud based Testing - PASS & Greenliff Afternoon Talks</h2>
           
           <p>Crowdsourcing and Cloud Computing have opened new dimensions in Software Testing. New possibilities like crowd testing, web based community platforms, cloud based virtual test systems and cloud based testing tools help us to further improve software quality assurance processes and methods and to specifically increase testing efficiency and effectiveness. Join us at &laquo;Crowd &amp; Cloud based On-Demand Testing&raquo; to get inspired, learn more about using cloud platforms and tools to manage crowdsourced testing teams. Understand the basic crowd testing principles and processes, receive first-hand information on concrete cases, and meet with our speakers and other industry professionals. This event has been organized by PASS and Greenliff, renown specialists in crowd testing and cloud based testing. Our guest speakers listed in the agenda of this afternoon session are recognized leaders in their specific field. Don't miss this unique opportunity, register today to reserve your seat in the &laquo;Clouds&raquo; in Zurich Prime Tower! (Due to international speakers this event will be held in english language.)</p>
           <h3>Topics</h3>
