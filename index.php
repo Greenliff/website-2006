@@ -49,11 +49,17 @@ $datei = "index";
 				<div class="news">
 					<h2>News</h2>
 					<div class="bildlinks" style="padding:5px;">
-						<a href="/company/jobs.php"><img src="images/greenliff_hiring.gif" alt="road sign: men at work" width="167" height="53" /></a>
+						<a href="/company/events.php"><img src="images/greenliff_hiring.gif" alt="Afternoon Talk" width="167" height="53" /></a>
 					</div>
-					<p style="clear:left"><strong>Greenliff is hiring</strong><br />
-						We are currently seeking a <a href="docs/20120713_GE_SoftwareEngineer.pdf">Software Engineer C# (m/w)</a> 
-						at our Zurich Technopark office. Apply now.
+					<p style="clear:left"><strong>Register now for upcoming events:</strong>
+						<ul style="padding-top: 0;padding-bottom: 5px;">
+							<li>A test robot for hearing aids</li>
+							<li>crowd &amp; cloud testing</li>
+							<li>improvement of agile development processes are</li>
+							<li>... and much more.</li>
+						</ul>  
+
+						<a style="padding-left: 5px;padding-top: 5px;" href="company/events.php">Register now, seats are limits.</a>
 					</p>
 				</div>
 
