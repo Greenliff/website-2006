@@ -55,11 +55,11 @@ $datei = "index";
 						<ul style="padding-top: 0;padding-bottom: 5px;">
 							<li>A test robot for hearing aids</li>
 							<li>crowd &amp; cloud testing</li>
-							<li>improvement of agile development processes are</li>
+							<li>improvement of agile development processes</li>
 							<li>... and much more.</li>
 						</ul>  
 
-						<a style="padding-left: 5px;padding-top: 5px;" href="company/events.php">Register now, seats are limits.</a>
+						<a style="padding-left: 5px;padding-top: 5px;" href="company/events.php">Register now, seats are limited.</a>
 					</p>
 				</div>
 
