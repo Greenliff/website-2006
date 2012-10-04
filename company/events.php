@@ -73,7 +73,7 @@ $datei = $array[0];
             <h2>Zurich, 28. November 2012</h2>
             <h3 style="padding-top: 11px;">Crowd &amp; Cloud based Testing</h3>              
             <p>
-               Ort: Primetower Zurich<br />
+               Location: Primetower Zurich<br />
                Topics:
             </p>
             <ul>
@@ -93,7 +93,7 @@ $datei = $array[0];
           <div class="spalte1">&nbsp;</div>
 
           <div class="spalte2Breit" style="margin-top:10px;">
-            <h2>Zurich, 6./7. März 2013</h2>
+            <h2>Zürich, 6./7. März 2013</h2>
 				<h3 style="padding-top: 11px;">Ranorex</h3>
 				<p>
 					Ort: Technopark Zürich<br />
@@ -112,9 +112,7 @@ $datei = $array[0];
 
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 13. March 2013</h2>
-            <div class="spalte2" style="padding-top: 11px;">
-              <h3>Swiss Testing Day</h3>
-            </div>
+            <h3 style="padding-top: 11px;">Swiss Testing Day</h3>
           </div>
         </div>
 
@@ -124,15 +122,10 @@ $datei = $array[0];
           </div>
 
           <div class="spalte2Breit">
-            <h2>Zurich, 13. April 2012</h2>
-            <div class="spalte2" style="padding-top: 11px;">
-              <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
-            </div>
+            <h2>Zurich, 13. April 2013</h2>
+            <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
           </div>
         </div>
-
-					
-
 
       </div>
 <?php include_once("../includes/footer.html"); ?>
