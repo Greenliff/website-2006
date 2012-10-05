@@ -65,12 +65,21 @@ $datei = $array[0];
 				</h3>
 				Organisiert zusammen mit <a href="http://www.itq.ch/" target="_blank">Qualiät &amp; Informatik</a><br />              
 				Ort: Technopark Zürich<br /><br />
-            Referenten: <br />
+            Talks: <br />
 				<ul>
-					<li>Dr. Ernest Wallmüller (Qualität &amp; Informatik)</li>
-					<li>Carl Worms (Credit Suisse)</li>
-					<li>Martin Voss (Nixdorf)</li>
+					<li>
+						Agilität in der Verbesserung von Software-Prozessen<br />
+						Dr. Ernest Wallmüller (Qualität &amp; Informatik)
+					</li>
+					<li>
+						Software-Prozessverbesserung in Grossunternehmen<br />
+						Carl Worms (Credit Suisse)</li>
+					<li>
+						Agiles Verbessern in kleinen Software-Organisationen<br />
+						Martin Voss (Nixdorf)
+					</li>
 				</ul>
+				<br />
 				<p>
                <a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Weitere Informationen (PDF)</a><br />
                <a href="121120_sign-in.php">Anmeldung</a>
@@ -93,10 +102,22 @@ $datei = $array[0];
             Location: Clouds on top of Prime Tower Zurich<br /><br />
             Topics:
             <ul>
-              <li>The Crowd in the Cloud (Carl Esposti, Founder and CEO crowdsourcing.org)</li>  
-              <li>eBay's Crowd Testing Strategy (Michael Palotas, Head Quality Engineering Europe, eBay International)</li> 
-              <li>How Crowd Testing works (Dieter Speidel, CEO PASS Group)</li> 
-              <li>Cloud Scale Testing (Joachim Büchse, Managing Director Greenliff)</li>             
+              <li>
+					The Crowd in the Cloud <br />
+					Carl Esposti (Founder and CEO crowdsourcing.org)
+				  </li>
+              <li>
+					eBay's Crowd Testing Strategy<br />
+					Michael Palotas (Head Quality Engineering Europe, eBay International)
+				  </li>
+              <li>
+					How Crowd Testing works <br />
+					Dieter Speidel (CEO PASS Group)
+				  </li>
+              <li>
+					Cloud Scale Testing <br />
+					Joachim Büchse (Managing Director Greenliff)
+				  </li>
             </ul>
             <p>
               <a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">More information (PDF)</a><br />
