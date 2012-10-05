@@ -29,9 +29,9 @@ $datei = $array[0];
       <div id="middle">
       </div>
       <div id="content" class="anfahrtsskizze">
-        <a href="/docs/Greenliff_how_to_get_here.pdf" target="_blank"><img src="../images/blind4x4.gif" width="580" height="415" alt="" /></a>
+        <a href="/docs/Greenliff_how_to_get_here.pdf?v=20121005" target="_blank"><img src="../images/blind4x4.gif" width="580" height="415" alt="" /></a>
         <div class="einspaltig" style="margin-top: 0; vertical-align:middle;">
-          <p><a href="/docs/Greenliff_how_to_get_here.pdf" target="_blank" title="How to find Greenliff">pdf-Download</a></p>
+          <p><a href="/docs/Greenliff_how_to_get_here.pdf?v=20121005" target="_blank" title="How to find Greenliff">PDF Download</a></p>
         </div>
       </div>
 <?php include_once("../includes/footer.html"); ?>
