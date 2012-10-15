@@ -53,7 +53,7 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1" style="padding-top: 11px">
-            <img src="../images/greenliff_hiring.gif" /><br >
+            <img src="../images/event.png" /><br >
 				<br />
 				<h3>Greenliff Afternoon Talks</h3>
           </div>
@@ -89,7 +89,7 @@ $datei = $array[0];
 
         <div class="event">
           <div class="spalte1" style="padding-top: 11px">
-            <img src="../images/greenliff_hiring.gif" /><br ><br />
+            <img src="../images/event.png" /><br ><br />
 				<h3>Greenliff Afternoon Talks</h3>
           </div>
 
