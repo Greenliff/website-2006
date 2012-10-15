@@ -519,13 +519,6 @@ td .zweispaltig2 {
 }
 
 /* Styles Company-Seiten */
-
-.anfahrtsskizze {
-   background-image: url(/images/Greenliff_Anfahrtskizze_neu.gif);
-   background-position: left top;
-   background-repeat: no-repeat;
-}
-
 .pdficon {
    float: left;
    width: 41px;

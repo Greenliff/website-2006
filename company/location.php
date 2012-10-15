@@ -28,10 +28,10 @@ $datei = $array[0];
       </div>
       <div id="middle">
       </div>
-      <div id="content" class="anfahrtsskizze">
-        <a href="/docs/Greenliff_how_to_get_here.pdf?v=20121005" target="_blank"><img src="../images/blind4x4.gif" width="580" height="415" alt="" /></a>
-        <div class="einspaltig" style="margin-top: 0; vertical-align:middle;">
-          <p><a href="/docs/Greenliff_how_to_get_here.pdf?v=20121005" target="_blank" title="How to find Greenliff">PDF Download</a></p>
+      <div id="content">
+        <a style="position: relative; top: -8px" href="/docs/Greenliff_how_to_get_here.pdf?v=20121015" target="_blank"><img src="../images/map.png" alt="" /></a>
+        <div class="einspaltig" style="position: relative; top: -30px">
+          <p><a href="/docs/Greenliff_how_to_get_here.pdf?v=20121015" target="_blank" title="How to find Greenliff">PDF Download</a></p>
         </div>
       </div>
 <?php include_once("../includes/footer.html"); ?>
