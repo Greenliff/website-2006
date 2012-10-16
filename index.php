@@ -49,7 +49,7 @@ $datei = "index";
 				<div class="news">
 					<h2>News</h2>
 					<div class="bildlinks" style="padding:5px;">
-						<a href="/company/events.php"><img src="images/greenliff_hiring.gif" alt="Afternoon Talk" width="167" height="53" /></a>
+						<a href="/company/events.php"><img src="images/event.png" alt="Afternoon Talk" width="167" height="53" /></a>
 					</div>
 					<p>
 						<strong>Register now for upcoming events:</strong>
