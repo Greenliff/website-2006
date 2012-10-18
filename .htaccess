@@ -2,6 +2,7 @@ IndexIgnore *
 DirectoryIndex index.php
 
 Deny From 67.43.144.0/20
+Deny From 188.143.232.84/32  # regular contact form spammer
 
 Redirect permanent /jbed http://www.greenliff.ch
 Redirect permanent /impressum.php http://www.greenliff.ch/imprint.php
@@ -15,4 +16,3 @@ RewriteEngine On
 RewriteOptions Inherit
 RewriteCond %{HTTP_HOST} !^www\.greenliff\.ch$ [NC]
 RewriteRule ^(.*)$ http://www.greenliff.ch/$1 [L,R=permanent]
-
