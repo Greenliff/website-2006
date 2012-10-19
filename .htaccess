@@ -12,6 +12,10 @@ Redirect permanent /portfolio/mobile_application_testing.php http://www.greenlif
 
 RedirectMatch permanent ^/trends_in_testing/ http://www.greenliff.ch/company/past_events.php
 
+# Convenience link "http://www.greenliff.ch/events"
+Redirect permanent /events http://www.greenliff.ch/company/events.php
+
+
 RewriteEngine On
 RewriteOptions Inherit
 RewriteCond %{HTTP_HOST} !^www\.greenliff\.ch$ [NC]
