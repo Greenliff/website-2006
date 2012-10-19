@@ -61,7 +61,7 @@ $datei = $array[0];
           <div class="spalte2Breit">
             <h2>Zürich, 20. November 2012</h2>
             <h3 style="padding-top: 11px;padding-bottom: 5px;">
-					<a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Brauchen Agile Software-Projekte eine Prozessverbesserung?</a>
+					<a href="121120_sign-in.php">Brauchen Agile Software-Projekte eine Prozessverbesserung?</a>
 				</h3>
 				Organisiert zusammen mit <a href="http://www.itq.ch/" target="_blank">Qualiät &amp; Informatik</a><br />              
 				Ort: Technopark Zürich<br /><br />
@@ -96,7 +96,7 @@ $datei = $array[0];
           <div class="spalte2Breit" style="margin-top:10px;">
             <h2>Zurich, 28. November 2012</h2>
             <h3 style="padding-top: 11px;padding-bottom: 5px;">
-					<a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">Crowd &amp; Cloud based Testing</a>
+					<a href="121128_sign-in.php">Crowd &amp; Cloud based Testing</a>
 				</h3>
 				Organised in cooperation with <a href="http://www.pass.ch/" target="_blank">PASS Technology AG</a><br />              
             Location: Clouds on top of Prime Tower Zurich<br /><br />
