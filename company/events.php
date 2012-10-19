@@ -63,6 +63,8 @@ $datei = $array[0];
             <h3 style="padding-top: 11px;padding-bottom: 5px;">
 					<a href="121120_sign-in.php">Brauchen Agile Software-Projekte eine Prozessverbesserung?</a>
 				</h3>
+				Kann Ihre Softwareentwicklung agiler werden ohne Ihre Prozesse, Arbeitsweise und die Firmenkultur grundlegend zu verändern?<br /><br />
+
 				Organisiert zusammen mit <a href="http://www.itq.ch/" target="_blank">Qualiät &amp; Informatik</a><br />              
 				Ort: Technopark Zürich<br /><br />
             Talks: <br />
@@ -98,6 +100,7 @@ $datei = $array[0];
             <h3 style="padding-top: 11px;padding-bottom: 5px;">
 					<a href="121128_sign-in.php">Crowd &amp; Cloud based Testing</a>
 				</h3>
+				How can you utilize millions of testers on the Internet to execute your test project in quick and cost-saving manner?<br /><br />
 				Organised in cooperation with <a href="http://www.pass.ch/" target="_blank">PASS Technology AG</a><br />              
             Location: Clouds on top of Prime Tower Zurich<br /><br />
             Topics:
