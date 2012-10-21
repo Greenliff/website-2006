@@ -2,7 +2,9 @@ IndexIgnore *
 DirectoryIndex index.php
 
 Deny From 67.43.144.0/20
-Deny From 188.143.232.84/32  # regular contact form spammer
+# regular contact form spammers:
+Deny From 188.143.232.84/32
+Deny From 37.59.49.210/32
 
 Redirect permanent /jbed http://www.greenliff.ch
 Redirect permanent /impressum.php http://www.greenliff.ch/imprint.php
