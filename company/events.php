@@ -147,17 +147,6 @@ $datei = $array[0];
           </div>
         </div>
 
-        <div class="event">
-          <div class="spalte1">
-            <img src="../images/events/logo_swisstestingday.gif" width="161" height="77" alt="Swiss Testing Day" />
-          </div>
-
-          <div class="spalte2Breit" style="margin-top:10px;">
-            <h2>Zurich, 13. March 2013</h2>
-            <h3 style="padding-top: 11px;padding-bottom: 5px;">Swiss Testing Day</h3>
-          </div>
-        </div>
-
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
             <img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" />
