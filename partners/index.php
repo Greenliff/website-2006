@@ -45,6 +45,15 @@ $datei = $array[0];
           <p>Sukha IT is the company behind the TestMachine, an end-to-end test automation framework for iPhone and iPad Apps. No jailbreaking needed! TestMachine enables you to write automated tests in Java and supports unattended nightly test runs and full configuration management out-of-the-box. </p>
         </div>
         <div class="spalte3">
+          <div class="center" style="width: 180px;height:110px;">
+            <a href="http://www.pass.ch/" target="_blank"><img style="margin-top: 30px" src="../images/partners/pass-logo-transparent.png" width="170" alt="Pass" /></a>
+          </div>
+          <p>
+				PASS Technologies AG is a leading provider of independent software and system verification &amp; validation services.
+				With more than 50 employees, PASS offers consulting, project management, managed quality assurance and testing services 
+				to different industries. PASS operates its own crowdsourcing marketplace passbrains.com for software testing services and 
+				expert knowledge.
+			</p>
         </div>
       </div>
 <?php include_once("../includes/footer.html"); ?>
