@@ -40,10 +40,10 @@ require_once("../includes/funktionen.inc.php");
 				The partnership enables both companies to focus their expertise from different domains and disciplines and thereby to 
 				broaden their customer base. While Greenliff benefits by having access to PASS' crowdtesting platform
 				<a href="http://www.passbrains.com" target="_blank">passbrains.com</a>,
-				PASS enlarges their portfolio through Greenliff's Know-how in automated testing of mobile apps and development of test software.
+				PASS enlarges their portfolio through Greenliff's Know-how in telecommunications, automated testing and development of test software.
 			<p>
 			<p> 
-				<a href="../docs/partnerschaft-pass-greenliff.pdf">Medienmittelung (PDF)</a><br />
+				<a href="../docs/partnerschaft-pass-greenliff.pdf" target="_blank">Medienmittelung (PDF)</a><br />
 				<a href="../partners/index.php">Partners</a><br />
 			</p> 
        </div>
@@ -54,8 +54,7 @@ require_once("../includes/funktionen.inc.php");
 				von Software-Qualität und das Testen von Software-Lösungen. Ziel der Partnerschaft ist es, die unterschiedliche Expertise hinsichtlich 
 				Branchen-Fokus und Dienstleistungsportfolio zu bündeln und einem breiteren Kundenkreis zugänglich zu machen. Während Greenliff durch 
 				die Partnerschaft Zugang zur Crowdtesting-Plattform <a href="http://www.passbrains.com" target="_blank">passbrains.com</a> erhält, 
-				kann PASS dank Greenliffs Know-how sein Angebot rund um das 
-				automatisierte Testen von mobilen Apps und der Entwicklung von Testsoftware ausbauen.			
+				kann PASS dank Greenliffs Know-how sein Angebot rund um die Telekommunikation, das automatisierte Testen und der Entwicklung von Testsoftware ausbauen.			
 			</p>
          </div>
 
