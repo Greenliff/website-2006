@@ -47,13 +47,8 @@ require_once("../includes/funktionen.inc.php");
           <!--<p>Currently no open positions.</p>-->
           <h2>Zurich</h2>
           <ul>
-            <li><a href="../docs/20110503_EN_ManualTester_TestAnalyst.pdf" target="_blank">Manual Tester / Test Analyst</a></li>
-            <li><a href="../docs/20120713_GE_SoftwareEngineer.pdf" target="_blank">Software Engineer C# (m/w)</a></li>
+            <li><a href="../docs/20121030_EN_SoftwareTesterWepApps.pdf" target="_blank">Software Tester Web Applications (m/f)</a></li>
           </ul>
-          <!--<h2>Bern/Lausanne</h2>
-          <ul>
-            <li><a href="../docs/20090407_Test_Engineer_Bern.pdf" target="_blank">Test Engineer</a></li>
-          </ul>-->
          </div>
 
          <div class="news">

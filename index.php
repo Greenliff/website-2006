@@ -49,20 +49,18 @@ $datei = "index";
 				<div class="news">
 					<h2>News</h2>
 					<div class="bildlinks" style="padding:5px;">
-						<a href="/company/events.php"><img src="images/event.png" alt="Afternoon Talk" width="167" height="53" /></a>
+						<a href="/company/news.php"><img src="images/partners/pass-logo-small.png" alt="Pass" /></a>
 					</div>
 					<p>
-						<strong>Register now for upcoming events:</strong>
+						<strong>Greenliff and PASS Join Forces</strong>
 					</p>
-					<ul style="padding-top: 0;padding-bottom: 5px;">
-						<li>A test robot for hearing aids</li>
-						<li>crowd &amp; cloud testing</li>
-						<li>improvement of agile development processes</li>
-						<li>... and much more.</li>
-					</ul>  
-
-					<p>
-						<a style="padding-left: 5px" href="company/events.php">Register now, seats are limited.</a>
+					<p style="padding-top:0">
+						Greenliff and PASS Technologies announce a strategic partnership in providing testing services. 
+						Their highly complementary service portfolio enables both companies to serve existing and future 
+						customers with broader and stronger testing services.
+					</p>
+					<p style="padding-top: 5px">
+						<a href="company/news.php">Read more...</a>
 					</p>
 				</div>
 

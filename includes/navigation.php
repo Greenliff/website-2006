@@ -19,6 +19,7 @@ if($pfad == "company" || ($pfad == "" && $datei != "imprint"))
               <li><a href="/company/believes.php"<?php if($datei == "believes") { echo ' class="doppelpfeil"'; } ?>>Our believes</a></li>
 */
 ?>
+              <li><a href="/company/news.php"<?php if($datei == "news") { echo ' class="doppelpfeil"'; } ?>>News</a></li>
               <li><a href="/company/events.php"<?php if($datei == "events") { echo ' class="doppelpfeil"'; } ?>>Upcoming events</a></li>
               <li><a href="/company/past_events.php"<?php if($datei == "past_events") { echo ' class="doppelpfeil"'; } ?>>Past events</a></li>
               <li><a href="/company/jobs.php"<?php if($datei == "jobs") { echo ' class="doppelpfeil"'; } ?>>Jobs</a></li>

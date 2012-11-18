@@ -153,7 +153,7 @@ $datei = $array[0];
           </div>
 
           <div class="spalte2Breit">
-            <h2>Zurich, 13. April 2013</h2>
+            <h2>Zürich, 19. März 2013</h2>
             <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
           </div>
         </div>
