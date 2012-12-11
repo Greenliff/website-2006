@@ -60,7 +60,7 @@ $datei = $array[0];
             <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
 				<br />
 				Ort: Holiday Inn, Zürich Oerlikon<br /><br />
-				Neue Norm fürs Testen: Testen wird einfacher!<br /><br />
+				<strong>Neue Norm fürs Testen: Testen wird einfacher!</strong><br /><br />
 				Diverse Themen über die neue TestNorm und was für Benefits daraus entstehen bei richtiger Anwendung/Umsetzung.
           </div>
         </div>
