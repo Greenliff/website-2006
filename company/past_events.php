@@ -43,25 +43,14 @@ $datei = $array[0];
             <h3 style="padding-top: 11px;padding-bottom: 5px;">
 					<a href="121120_sign-in.php">Brauchen Agile Software-Projekte eine Prozessverbesserung?</a>
 				</h3>
-				Kann Ihre Softwareentwicklung agiler werden ohne Ihre Prozesse, Arbeitsweise und die Firmenkultur grundlegend zu verändern?<br /><br />
+				Mit dieser Frage beschäftigten wir uns in einem unserer Greenliff Afternoon Talks. Drei Experten berichteten in diversen 
+				Bereichen darüber, welche Erfahrungen sie mit agilen Entwicklungsprojekten bereits gemacht haben. Wir danken Herrn 
+				Dr. Ernest Wallmüller, Herrn Carl Worms und Herrn Martin Voss für den gelungenen Event und ihre tolle Arbeit als Referenten.
+				<br />
+				<br />
 
 				Organisiert zusammen mit <a href="http://www.itq.ch/" target="_blank">Qualiät &amp; Informatik</a><br />              
 				Ort: Technopark Zürich<br /><br />
-            Talks: <br />
-				<ul>
-					<li>
-						Agilität in der Verbesserung von Software-Prozessen<br />
-						Dr. Ernest Wallmüller (Qualität &amp; Informatik)
-					</li>
-					<li>
-						Software-Prozessverbesserung in Grossunternehmen<br />
-						Carl Worms (Credit Suisse)</li>
-					<li>
-						Agiles Verbessern in kleinen Software-Organisationen<br />
-						Martin Voss (Nixdorf)
-					</li>
-				</ul>
-				<br />
 				<p>
                <a href="../docs/Agile_Software_Qualitaetsverbesserung_14092012.pdf" target="_blank">Weitere Informationen (PDF)</a><br />
 				</p>
