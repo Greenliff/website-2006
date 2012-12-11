@@ -31,52 +31,13 @@ $datei = $array[0];
       <div id="scrollcontent">
         <h1>Upcoming events</h1>
 
+
         <div class="event">
           <div class="spalte1">
-            <img src="../images/event.png" /><br ><br />
-				<h3>Greenliff Afternoon Talks</h3>
-          </div>
-
-          <div class="spalte2Breit">
-            <h2>Zurich, 28. November 2012</h2>
-            <h3 style="padding-top: 11px;padding-bottom: 5px;">
-					<a href="121128_sign-in.php">Crowd &amp; Cloud based Testing</a>
-				</h3>
-				How can you utilize millions of testers on the Internet to execute your test project in quick and cost-saving manner?<br /><br />
-				Organised in cooperation with <a href="http://www.pass.ch/" target="_blank">PASS Technology AG</a><br />              
-            Location: Clouds on top of Prime Tower Zurich<br /><br />
-            Topics:
-            <ul>
-              <li>
-					The Crowd in the Cloud <br />
-					Carl Esposti (Founder and CEO crowdsourcing.org)
-				  </li>
-              <li>
-					eBay's Crowd Testing Strategy<br />
-					Michael Palotas (Head Quality Engineering Europe, eBay International)
-				  </li>
-              <li>
-					How Crowd Testing works <br />
-					Dieter Speidel (CEO PASS Group)
-				  </li>
-              <li>
-					Cloud Scale Testing <br />
-					Joachim Büchse (Managing Director Greenliff)
-				  </li>
-            </ul>
-            <p>
-              <a href="../docs/Event_Agenda_Cloud_Crowd_based_On-Demand_Testing.pdf" target="_blank">More information (PDF)</a><br />
-              <a href="121128_sign-in.php">Registration</a>
-            </p>
-          </div>
-        </div>
-
-        <div class="event">
-          <div class="spalte1" style="padding-top: 11px">
             <a href="http://www.ranorex.com/" target="_blank"><img src="../images/events/ranorex_logo.png" alt="Ranorex" /></a>
           </div>
 
-          <div class="spalte2Breit" style="margin-top:10px;">
+          <div class="spalte2Breit" style="">
             <h2>Zürich, 6./7. März 2013</h2>
 				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex</h3>
 				<p>
