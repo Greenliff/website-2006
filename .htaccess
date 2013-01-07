@@ -11,6 +11,8 @@ Redirect permanent /impressum.php http://www.greenliff.ch/imprint.php
 Redirect permanent /portfolio/test_automation.php http://www.greenliff.ch/portfolio/test_engineering.php
 Redirect permanent /portfolio/financial_application_testing.php http://www.greenliff.ch/portfolio/application_testing.php
 Redirect permanent /portfolio/mobile_application_testing.php http://www.greenliff.ch/portfolio/application_testing.php
+Redirect permanent /docs/20120131_GE_SoftwareEngineerVM.pdf http://www.greenliff.ch/company/jobs.php
+Redirect permanent /company/121120_sign-in.php http://www.greenliff.ch/company/events.php
 
 RedirectMatch permanent ^/trends_in_testing/ http://www.greenliff.ch/company/past_events.php
 
