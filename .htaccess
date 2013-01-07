@@ -22,5 +22,5 @@ Redirect permanent /events http://www.greenliff.ch/company/events.php
 
 RewriteEngine On
 RewriteOptions Inherit
-RewriteCond %{HTTP_HOST} !^www\.greenliff\.ch$ [NC]
+RewriteCond %{HTTP_HOST} !^(www\.greenliff\.ch|.+\.hotfeet\.ch)$ [NC]
 RewriteRule ^(.*)$ http://www.greenliff.ch/$1 [L,R=permanent]
