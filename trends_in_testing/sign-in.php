@@ -119,29 +119,15 @@ if(isset($_POST['send']))
   }
 }
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
     <title>Greenliff: Trends in Testing 2012 - Anmeldung</title>
-		<meta name="keywords" content="Greenliff, Software Testing, Test Consultancy, Test Automation, Performance Testing, Test Case, Test Tool Development, Financial Application Testing, Mobile Application Testing, Test Oursourcing, Fast, Zurich, Zuerich, Zürich" />
 		<meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
-    <meta name="language" content="en" />
-		<meta name="robots" content="index,follow" />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/trendsintesting.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/print.css" media="print" />
-    <!--[if IE 5]>
-    <link href="/styles/ie5.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]-->
-    <!--[if IE 6]>
-    <link href="/styles/ie6.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]-->
-    <!--[if IE 7]>
-    <link href="/styles/ie7.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]-->
     <link rel="shortcut icon" href="/favicon.ico" />
     <?php include_once("../includes/google-analytics.html"); ?>
   </head>
@@ -157,7 +143,7 @@ if(isset($_POST['send']))
       </div>
       <div id="scrollcontent" class="courses">
         <div class="startspalte">
-          <h1>Anmeldung</h1>
+          <h1>Registration</h1>
 
           <a name="Address"></a>
           <form method="post" action="<?php echo $datei; ?>.php" style="margin-top: 30px;">
@@ -214,9 +200,9 @@ if(!isset($_POST["send"]))
 {
 ?>
         <div class="news">
-          <h3>03. April 2012</h3>
-          <p>World Trade Center Zürich, Leutschenbachstr. 95, 8050 Zürich</p>
-          <p>09:30 bis 16:30 Uhr mit anschliessendem Apéro</p>
+          <h3>19. März 2013</h3>
+          <p>Holiday Inn Oerlikon, Zürich Oerlikon</p>
+          <p>09:30 bis 16:45 Uhr mit anschliessendem Apéro</p>
           <p>Die Teilnahme ist kostenlos. Eine Buchungsbestätigung erfolgt in der Reihenfolge der Anmeldung. </p>
           <p>Bitte berücksichtigen Sie, dass die Anzahl der Plätze limitiert ist.</p>
 

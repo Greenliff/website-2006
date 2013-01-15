@@ -31,7 +31,7 @@ if($pfad == "company" || ($pfad == "" && $datei != "imprint"))
 }
 ?>
           </li>
-          <li><a href="/trends_in_testing/index.php"<?php if ($pfad == "trends" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "trends_in_testing") { echo ' class="einfachpfeil"'; } ?>>Trends in Testing 2012</a>
+          <li><a href="/trends_in_testing/index.php"<?php if ($pfad == "trends" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "trends_in_testing") { echo ' class="einfachpfeil"'; } ?>>Trends in Testing 2013</a>
 <?php
 if($pfad == "trends_in_testing")
 {
@@ -40,7 +40,7 @@ if($pfad == "trends_in_testing")
               <li><a href="/trends_in_testing/speaker.php"<?php if($datei == "speaker") { echo ' class="doppelpfeil"'; } ?>>Speakers</a></li>
               <li><a href="/trends_in_testing/experts.php"<?php if($datei == "experts") { echo ' class="doppelpfeil"'; } ?>>Meet the Experts</a></li>
               <li><a href="/trends_in_testing/sign-in.php"<?php if($datei == "sign-in") { echo ' class="doppelpfeil"'; } ?>>Registration</a></li>
-              <li><a href="/trends_in_testing/schedule.php"<?php if($datei == "schedule") { echo ' class="doppelpfeil"'; } ?>>Location</a></li>
+              <li><a href="/trends_in_testing/schedule.php"<?php if($datei == "schedule") { echo ' class="doppelpfeil"'; } ?>>Schedule</a></li>
               <li><a href="/trends_in_testing/partner.php"<?php if($datei == "partner") { echo ' class="doppelpfeil"'; } ?>>Partners</a></li>
             </ul>
 <?php

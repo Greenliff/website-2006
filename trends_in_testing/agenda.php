@@ -133,7 +133,7 @@ $datei = $array[0];
             </tr>
             <tr>
               <td>ab 16:45 Uhr</td>
-              <td>Closing mit anschließendem Get Together</td>
+              <td>Closing mit anschliessendem Get Together</td>
             </tr>
           </table>
 

@@ -31,9 +31,9 @@ $datei = $array[0];
       </div>
       <div id="content">
         <div class="spalte1">
-          <h1>Trends in Testing 2013</h1>
+          <h1>Testen wird einfacher! Neue Norm fürs Testen</h1>
           <p>
-				Qualität ist ein maßgeblicher Wettbewerbsfaktor für Softwareprodukte. Die steigenden Anforderungen an den IT-Markt sind untrennbar mit Qualitätssicherung und Test verbunden.
+				Qualität ist ein massgeblicher Wettbewerbsfaktor für Softwareprodukte. Die steigenden Anforderungen an den IT-Markt sind untrennbar mit Qualitätssicherung und Test verbunden.
           </p>
 
           <p>
@@ -60,8 +60,7 @@ $datei = $array[0];
           <h3>Über Trends in Testing</h3>
           <img src="../images/events/trends_in_testing.png" width="110" alt="Trends in testing" />
           <p>Die Veranstaltungsreihe &laquo;Trends in Testing&raquo; organisieren wir zusammen mit <a href="http://www.imbus.de/" target="_blank">imbus AG</a>, userem Partner in Deutschland. Bei Trends in Testing werden Sie über die neuesten Entwicklungen im Bereich Software Qualitäts-<br />sicherung  und -Test informiert.
-          Die Mischung aus Best Practices und Forschungsergebnissen in Kombination mit Beispielen zur konkreten Toolunterstützung macht die Veranstaltung in diesem Rahmen einzigartig.  In diesem Jahr geht der Ausblick in Richtung Test nonstop.</p>
-          <p><a href="../docs/120403_TrendsinTestingZuerich.pdf">Veranstaltungs-Flyer</a> (pdf)</p>
+          Die Mischung aus Best Practices und Forschungsergebnissen in Kombination mit Beispielen zur konkreten Toolunterstützung macht die Veranstaltung in diesem Rahmen einzigartig.</p>
         </div>
       </div>
 <?php include_once("../includes/footer.html"); ?>
