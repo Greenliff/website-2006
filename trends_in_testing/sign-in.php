@@ -201,7 +201,7 @@ if(!isset($_POST["send"]))
 ?>
         <div class="news">
           <h3>19. März 2013</h3>
-          <p>Holiday Inn Oerlikon, Zürich Oerlikon</p>
+          <p>Holiday Inn Oerlikon, Wallisellenstrasse 48, 8050 Zürich</p>
           <p>09:30 bis 16:45 Uhr mit anschliessendem Apéro</p>
           <p>Die Teilnahme ist kostenlos. Eine Buchungsbestätigung erfolgt in der Reihenfolge der Anmeldung. </p>
           <p>Bitte berücksichtigen Sie, dass die Anzahl der Plätze limitiert ist.</p>

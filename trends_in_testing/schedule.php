@@ -38,7 +38,7 @@ $datei = $array[0];
             <tr>
               <td></td>
               <td>
-                <p>Holiday Inn Oerlikon, Zürich Oerlikon<br />
+                <p>Holiday Inn Oerlikon, Wallisellenstrasse 48, 8050 Zürich<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Apéro<br />
                 <a href="sign-in.php">Zur Anmeldung</a></p>
               </td>
