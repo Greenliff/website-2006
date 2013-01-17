@@ -31,7 +31,7 @@ if($pfad == "company" || ($pfad == "" && $datei != "imprint"))
 }
 ?>
           </li>
-          <li><a href="/trends_in_testing/index.php"<?php if ($pfad == "trends" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "trends_in_testing") { echo ' class="einfachpfeil"'; } ?>>Trends in Testing 2013</a>
+          <li><a href="/trends_in_testing"<?php if ($pfad == "trends" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "trends_in_testing") { echo ' class="einfachpfeil"'; } ?>>Trends in Testing 2013</a>
 <?php
 if($pfad == "trends_in_testing")
 {
