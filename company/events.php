@@ -52,16 +52,15 @@ $datei = $array[0];
 
         <div class="event" style="margin-top:10px;">
           <div class="spalte1">
-            <img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" />
+            <a href="../trends_in_testing/"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
           </div>
 
           <div class="spalte2Breit">
             <h2>Zürich, 19. März 2013</h2>
-            <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
+            <a href="../trends_in_testing/"><h3 style="padding-top: 11px;">Trends in Testing 2013</h3></a>
 				<br />
 				Ort: Holiday Inn, Zürich Oerlikon<br /><br />
 				<strong>Neue Norm fürs Testen: Testen wird einfacher!</strong><br /><br />
-				Diverse Themen über die neue TestNorm und was für Benefits daraus entstehen bei richtiger Anwendung/Umsetzung.
           </div>
         </div>
 
