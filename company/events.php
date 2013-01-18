@@ -59,7 +59,7 @@ $datei = $array[0];
 				<p>
 					Ort: Technopark Zürich<br />
 				</p>
-				<a href="ranorex-workshop-more-info.php">Mehr Informationen</a><br />
+				<a href="ranorex-workshop-more-info.php">Ich habe Interesse, an diesem Workshop teilzunehmen</a><br />
 				<a href="http://www.ranorex.com/fileadmin/documents/Test-Automation-Workshop-Zurich.pdf" target="_blank">Flyer</a>
           </div>
         </div>

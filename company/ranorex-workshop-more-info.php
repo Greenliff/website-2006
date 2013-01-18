@@ -98,7 +98,7 @@ if(isset($_POST['send']))
 //echo nl2br($text);
     	if(@mail($e_mail,$betreff,$text,$headers))
       {
-        $meldung = "<p>Vielen Dank für Ihre Anmeldung.</p>\n<p>Sie erhalten eine Kopie Ihrer Anmeldung per Mail.</p>";
+        $meldung = "<p>Nachdem wir die Verfügbarkeit der noch freien Teilnehmerplätze überprüft haben, 	werden wir Sie innerhalb innerhalb eines Werktages darüber informieren.</p>";
         $success = true;
         $readonly = ' readonly="readonly"';
       }
@@ -134,7 +134,7 @@ if(isset($_POST['send']))
       </div>
       <div id="scrollcontent" class="courses">
         <div class="startspalte">
-          <h1>Mehr Informationen anfordern</h1>
+          <h1>Verfügbarkeit der freien Teilnehmerplätze anfragen</h1>
 
           <a name="Address"></a>
           <form method="post" action="<?php echo $datei; ?>.php" style="margin-top: 30px;">
@@ -212,7 +212,7 @@ else if($success)
 {
 ?>
         <div class="news">
-          <h3>Anmeldung erfolgreich!</h3>
+          <h3>Danke für Ihr Interesse am Workshop "Testautomatisierung in Theorie und Praxis".</h3>
           <?php echo $meldung; ?>
         </div>
 <?php
