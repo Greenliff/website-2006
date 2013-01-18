@@ -56,7 +56,7 @@ $datei = $array[0];
               <td>
                 <p>Gastwerk Hotel Hamburg, Beim Alten Gaswerk 3, 22761 Hamburg<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Get-Together<br />
-                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing/anmeldung/" target="_blank">Zur Anmeldung</a></p>
+                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing-2013/anmeldung/" target="_blank">Zur Anmeldung</a></p>
               </td>
             </tr>
 
@@ -69,7 +69,7 @@ $datei = $array[0];
               <td>
                 <p>Ofenwerk Nürnberg, Klingenhofstraße 72, 90411 Nürnberg<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Get-Together<br />
-                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing/anmeldung/" target="_blank">Zur Anmeldung</a></p>
+                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing-2013/anmeldung/" target="_blank">Zur Anmeldung</a></p>
               </td>
             </tr>
 
@@ -82,7 +82,7 @@ $datei = $array[0];
               <td>
                 <p>NH Hotel Stuttgart Airport, Bonländer Hauptstr. 145, 70794 Filderstadt<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Get-Together<br />
-                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing/anmeldung/" target="_blank">Zur Anmeldung</a></p>
+                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing-2013/anmeldung/" target="_blank">Zur Anmeldung</a></p>
               </td>
             </tr>
 
@@ -95,7 +95,7 @@ $datei = $array[0];
               <td>
                 <p>SkyLounge München, Dingolfinger Str. 7, 81673 München<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Get-Together<br />
-                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing/anmeldung/" target="_blank">Zur Anmeldung</a></p>
+                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing-2013/anmeldung/" target="_blank">Zur Anmeldung</a></p>
               </td>
             </tr>
 
@@ -108,7 +108,7 @@ $datei = $array[0];
               <td>
                 <p>Rheinisches LandesMuseum, Colmantstraße 14-16, 53115 Bonn<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Get-Together<br />
-                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing/anmeldung/" target="_blank">Zur Anmeldung</a></p>
+                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing-2013/anmeldung/" target="_blank">Zur Anmeldung</a></p>
               </td>
             </tr>
 
@@ -121,7 +121,7 @@ $datei = $array[0];
               <td>
                 <p>Stadthalle Hofheim, Chinonplatz4, 65719 Hofheim am Taunus<br />
                 09:30 bis 17:00 Uhr mit anschliessendem Get-Together<br />
-                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing/anmeldung/" target="_blank">Zur Anmeldung</a></p>
+                <a href="https://www.imbus.de/veranstaltungen/trends-in-testing-2013/anmeldung/" target="_blank">Zur Anmeldung</a></p>
               </td>
             </tr>
 	
