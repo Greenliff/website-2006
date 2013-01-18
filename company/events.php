@@ -38,13 +38,29 @@ $datei = $array[0];
           </div>
 
           <div class="spalte2Breit" style="">
-            <h2>Zürich, 6./7. März 2013</h2>
+            <h2>Zürich, 6. März 2013</h2>
 				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex - Best Practises in Test Automation</h3>
 				<p>
 					Ort: Technopark Zürich<br />
 				</p>
 				<a href="ranorex-sign-in.php">Anmeldung</a><br />
 				<a href="../docs/2013-03-Best-Practice-Day-Zurich.pdf" target="_blank">Flyer</a>
+          </div>
+        </div>
+
+        <div class="event" style="margin-top:10px;">
+          <div class="spalte1">
+            <a href="http://www.ranorex.com/" target="_blank"><img src="../images/events/ranorex_logo.png" alt="Ranorex" /></a>
+          </div>
+
+          <div class="spalte2Breit" style="">
+            <h2>Zürich, 7./8. März 2013</h2>
+				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex - Workshop: Testautomatisierung in Theorie und Praxis</h3>
+				<p>
+					Ort: Technopark Zürich<br />
+				</p>
+				<a href="ranorex-workshop-more-info.php">Mehr Informationen</a><br />
+				<a href="http://www.ranorex.com/fileadmin/documents/Test-Automation-Workshop-Zurich.pdf" target="_blank">Flyer</a>
           </div>
         </div>
 
