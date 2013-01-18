@@ -66,9 +66,9 @@ if(isset($_POST['send']))
   else
   {
     $extra = "MIME-Version: 1.0\nContent-Type: text/plain; charset=iso-8859-1\nContent-Transfer-Encoding: 8-bit\n";
-    $betreff = "Anmeldung 03. April 2012: Trends in Testing";
+    $betreff = "Anmeldung 19. März 2013: Trends in Testing";
     $text = "\n\n";
-    $text .= 'Anmeldung für den Anlass "Trends in Testing" vom 03. April 2012' . ":\n\n";
+    $text .= 'Anmeldung für den Anlass "Trends in Testing" vom 19. März 2013' . ":\n\n";
     $text .= "Anmeldedatum...: " . date("d.m.Y") . "\n";
     $text .= "Anrede.........: " . $title . "\n";
     $text .= "Name...........: " . $firstname . " " . $lastname . "\n";
