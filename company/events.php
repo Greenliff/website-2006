@@ -39,14 +39,15 @@ $datei = $array[0];
 
           <div class="spalte2Breit" style="">
             <h2>Zürich, 6./7. März 2013</h2>
-				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex</h3>
+				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex - Best Practises in Test Automation</h3>
 				<p>
 					Ort: Technopark Zürich<br />
 				</p>
-				<ul>
+				<ul style="margin-bottom: 8px;">
 					<li>1. Tag: 3 - 4 Praxisvorträge von bereits bestehenden Ranorex Kunden in der Schweiz/Deutschland</li>
 					<li>2. Tag: Workshop</li>
 				</ul>
+				<a href="../docs/2013-03-Best-Practice-Day-Zurich.pdf" target="_blank">Flyer</a>
           </div>
         </div>
 
