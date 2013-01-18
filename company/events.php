@@ -43,10 +43,6 @@ $datei = $array[0];
 				<p>
 					Ort: Technopark Zürich<br />
 				</p>
-				<ul style="margin-bottom: 8px;">
-					<li>1. Tag: 3 - 4 Praxisvorträge von bereits bestehenden Ranorex Kunden in der Schweiz/Deutschland</li>
-					<li>2. Tag: Workshop</li>
-				</ul>
 				<a href="ranorex-sign-in.php">Anmeldung</a><br />
 				<a href="../docs/2013-03-Best-Practice-Day-Zurich.pdf" target="_blank">Flyer</a>
           </div>
