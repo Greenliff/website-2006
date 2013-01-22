@@ -48,19 +48,34 @@ $datei = "index";
 
 				<div class="news">
 					<h2>News</h2>
-					<div class="bildlinks" style="padding:5px;">
-						<a href="/company/news.php"><img src="images/partners/pass-logo-small.png" alt="Pass" /></a>
+					<p style="padding-top: 5px"><strong>Register now for our upcoming events:</strong></p>
+					<div style="padding: 5px 5px 0px 5px;">
+						&nbsp;<a href="company/events.php"><img src="images/events/ranorex_logo.png" width="110" alt="Ranorex" /></a><br />
 					</div>
 					<p>
-						<strong>Greenliff and PASS Join Forces</strong>
+						<strong>Ranorex - Best Practises in Test Automation</strong>
 					</p>
 					<p style="padding-top:0">
-						Greenliff and PASS Technologies announce a strategic partnership in providing testing services. 
-						Their highly complementary service portfolio enables both companies to serve existing and future 
-						customers with broader and stronger testing services.
+						Technopark Zürich, 6th March
 					</p>
-					<p style="padding-top: 5px">
-						<a href="company/news.php">Read more...</a>
+
+					<p style="padding-top: 0px; margin-bottom: 5px">
+						<a href="company/events.php">Read more...</a>
+					</p>
+
+					<div style="padding: 5px 5px 0px 5px;">
+						&nbsp;<a href="trends_in_testing/"><img src="images/events/trends_in_testing.png" width="110" alt="Trends in Testing" /></a><br />
+					</div>
+					<p>
+						<strong>Trends in Testing</strong>
+					</p>
+					<p style="padding-top:0">
+						Testen wird einfacher! Neue Norm fürs Testen<br />
+						Holiday Inn, Zürich Oerlikon, <br />19. März
+					</p>
+
+					<p style="padding-top: 0px; margin-bottom: 5px">
+						<a href="trends_in_testing/">Read more...</a>
 					</p>
 				</div>
 
