@@ -66,10 +66,10 @@ if(isset($_POST['send']))
   else
   {
     $extra = "MIME-Version: 1.0\nContent-Type: text/plain; charset=iso-8859-1\nContent-Transfer-Encoding: 8-bit\n";
-    $betreff = "Anmeldung 06. März 2013: Ranorex - Best Practises in Test Automation";
+    $betreff = "Anfrage 06. März 2013: Ranorex - Best Practises in Test Automation";
     $text = "\n\n";
-    $text .= 'Anmeldung für den Anlass "Ranorex - Best Practises in Test Automation" vom 06. März 2013' . ":\n\n";
-    $text .= "Anmeldedatum...: " . date("d.m.Y") . "\n";
+    $text .= 'Anfrage für den Anlass "Ranorex - Best Practises in Test Automation" vom 06. März 2013' . ":\n\n";
+    $text .= "Anfragedatum...: " . date("d.m.Y") . "\n";
     $text .= "Anrede.........: " . $title . "\n";
     $text .= "Name...........: " . $firstname . " " . $lastname . "\n";
     $text .= "Firma..........: " . $company . "\n";
@@ -98,12 +98,12 @@ if(isset($_POST['send']))
 //echo nl2br($text);
     	if(@mail($e_mail,$betreff,$text,$headers))
       {
-        $meldung = "<p>Nachdem wir die Verfügbarkeit der noch freien Teilnehmerplätze überprüft haben, 	werden wir Sie innerhalb innerhalb eines Werktages darüber informieren.</p>";
+        $meldung = "<p>Danke für Ihre Anfrage. Nachdem wir die Verfügbarkeit der noch freien Teilnehmerplätze überprüft haben, werden wir Sie innerhalb innerhalb eines Werktages darüber informieren.</p>";
         $success = true;
         $readonly = ' readonly="readonly"';
       }
       else {
-        $meldung = 'Ihre Anmeldung konnte nicht abgeschickt werden. Bitte <a href="mailto:info@greenliff.com">informieren Sie uns</a> über das Problem, so dass wir es beheben und Sie für den Anlass registrieren können.';
+        $meldung = 'Ihre Anfrage konnte nicht abgeschickt werden. Bitte <a href="mailto:info@greenliff.com">informieren Sie uns</a> über das Problem, so dass wir es beheben und Sie für den Anlass registrieren können.';
         $fehler = true;
       }
     }
@@ -115,7 +115,7 @@ if(isset($_POST['send']))
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Greenliff: Trends in Testing 2012 - Anmeldung</title>
+    <title>Ranorex Workshop - Anfrage</title>
 		<meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/print.css" media="print" />
@@ -203,7 +203,7 @@ else if($fehler)
 {
 ?>
         <div class="news">
-          <h3>Registration</h3>
+          <h3>Anfrage</h3>
           <p><?php echo $meldung; ?></p>
         </div>
 <?php
