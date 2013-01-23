@@ -66,9 +66,9 @@ if(isset($_POST['send']))
   else
   {
     $extra = "MIME-Version: 1.0\nContent-Type: text/plain; charset=iso-8859-1\nContent-Transfer-Encoding: 8-bit\n";
-    $betreff = "Anfrage 06. März 2013: Ranorex - Best Practises in Test Automation";
+    $betreff = "Anfrage 7./8. März 2013: Workshop \"Testautomatisierung in Theorie und Praxis\"";
     $text = "\n\n";
-    $text .= 'Anfrage für den Anlass "Ranorex - Best Practises in Test Automation" vom 06. März 2013' . ":\n\n";
+    $text .= 'Anfrage 7./8. März 2013: Workshop \"Testautomatisierung in Theorie und Praxis\":\n\n";
     $text .= "Anfragedatum...: " . date("d.m.Y") . "\n";
     $text .= "Anrede.........: " . $title . "\n";
     $text .= "Name...........: " . $firstname . " " . $lastname . "\n";
@@ -103,7 +103,7 @@ if(isset($_POST['send']))
         $readonly = ' readonly="readonly"';
       }
       else {
-        $meldung = 'Ihre Anfrage konnte nicht abgeschickt werden. Bitte <a href="mailto:info@greenliff.com">informieren Sie uns</a> über das Problem, so dass wir es beheben und Sie für den Anlass registrieren können.';
+        $meldung = 'Ihre Anfrage konnte nicht abgeschickt werden. Bitte <a href="mailto:info@greenliff.com">informieren Sie uns</a> über das Problem, so dass wir es beheben und Sie für den Workshop registrieren können.';
         $fehler = true;
       }
     }
@@ -115,7 +115,8 @@ if(isset($_POST['send']))
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-    <title>Ranorex Workshop - Anfrage</title>
+    <title>Anfrage für den Workshop "Testautomatisierung in Theorie und Praxis" vom
+7./8. März 2013</title>
 		<meta name="description" content="Greenliff is an independent Engineering and Service company focused on software testing and quality control. Serving customers in the telecom, the industrial, the medical and the finance sectors, we specialize in test consultancy, test automation and the development of test solutions covering the entire software life cycle from specification to maintenance." />
     <link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/styles/print.css" media="print" />
