@@ -66,9 +66,9 @@ if(isset($_POST['send']))
   else
   {
     $extra = "MIME-Version: 1.0\nContent-Type: text/plain; charset=iso-8859-1\nContent-Transfer-Encoding: 8-bit\n";
-    $betreff = "Anfrage 7./8. März 2013: Workshop \"Testautomatisierung in Theorie und Praxis\"";
+    $betreff = "Anfrage 7./8. März 2013: Workshop 'Testautomatisierung in Theorie und Praxis'";
     $text = "\n\n";
-    $text .= 'Anfrage 7./8. März 2013: Workshop \"Testautomatisierung in Theorie und Praxis\":\n\n";
+    $text .= "Anfrage 7./8. März 2013: Workshop 'Testautomatisierung in Theorie und Praxis':\n\n";
     $text .= "Anfragedatum...: " . date("d.m.Y") . "\n";
     $text .= "Anrede.........: " . $title . "\n";
     $text .= "Name...........: " . $firstname . " " . $lastname . "\n";
