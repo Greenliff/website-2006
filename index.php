@@ -11,6 +11,9 @@ $datei = "index";
 		<meta name="language" content="en" />
 		<link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
 		<link rel="shortcut icon" href="/favicon.ico" />
+		<style type="text/css">
+			.home { background-image: none; }
+		</style>
 		<?php include_once("includes/google-analytics.html"); ?>
 	</head>
 
