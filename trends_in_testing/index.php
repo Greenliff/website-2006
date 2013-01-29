@@ -59,7 +59,7 @@ $datei = $array[0];
         <div class="news">
           <h3>Über Trends in Testing</h3>
           <img src="../images/events/trends_in_testing.png" width="110" alt="Trends in testing" />
-          <p>Die Veranstaltungsreihe &laquo;Trends in Testing&raquo; organisieren wir zusammen mit <a href="http://www.imbus.de/" target="_blank">imbus AG</a>, userem Partner in Deutschland. Bei Trends in Testing werden Sie über die neuesten Entwicklungen im Bereich Software Qualitäts-<br />sicherung  und -Test informiert.
+          <p>Die Veranstaltungsreihe &laquo;Trends in Testing&raquo; organisieren wir zusammen mit <a href="../partners/">imbus AG</a>, userem Partner in Deutschland. Bei Trends in Testing werden Sie über die neuesten Entwicklungen im Bereich Software Qualitäts-<br />sicherung  und -Test informiert.
           Die Mischung aus Best Practices und Forschungsergebnissen in Kombination mit Beispielen zur konkreten Toolunterstützung macht die Veranstaltung in diesem Rahmen einzigartig.</p>
         </div>
       </div>

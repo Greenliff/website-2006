@@ -41,7 +41,6 @@ if($pfad == "trends_in_testing")
               <li><a href="/trends_in_testing/experts.php"<?php if($datei == "experts") { echo ' class="doppelpfeil"'; } ?>>Meet the Experts</a></li>
               <li><a href="/trends_in_testing/sign-in.php"<?php if($datei == "sign-in") { echo ' class="doppelpfeil"'; } ?>>Registration</a></li>
               <li><a href="/trends_in_testing/schedule.php"<?php if($datei == "schedule") { echo ' class="doppelpfeil"'; } ?>>Schedule</a></li>
-              <li><a href="/trends_in_testing/partner.php"<?php if($datei == "partner") { echo ' class="doppelpfeil"'; } ?>>Partners</a></li>
             </ul>
 <?php
 }
