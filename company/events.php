@@ -44,7 +44,7 @@ $datei = $array[0];
 					Ort: Technopark Zürich<br />
 				</p>
 				<a href="ranorex-sign-in.php">Anmeldung</a><br />
-				<a href="../docs/2013-03-Best-Practice-Day-Zurich.pdf" target="_blank">Flyer</a>
+				<a href="../docs/2013-03-Best-Practice-Day-Zurich.pdf?v=2" target="_blank">Flyer</a>
           </div>
         </div>
 
