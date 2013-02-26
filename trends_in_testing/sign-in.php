@@ -205,7 +205,9 @@ if(!isset($_POST["send"]))
           <p>09:30 bis 16:45 Uhr mit anschliessendem Apéro</p>
           <p>Die Teilnahme ist kostenlos. Eine Buchungsbestätigung erfolgt in der Reihenfolge der Anmeldung. </p>
           <p>Bitte berücksichtigen Sie, dass die Anzahl der Plätze limitiert ist.</p>
-
+          <p>
+          	<a href="../docs/2014-Trends-in-Testing-Zurich.pdf" target="_blank">Download Flyer</a>
+          </p>
         </div>
 <?php
 }
