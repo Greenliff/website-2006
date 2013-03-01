@@ -35,7 +35,11 @@ $datei = $array[0];
           <div class="center" style="width: 150px;height:110px;">
             <a href="http://www.imbus.de" target="_blank" class="partnerlogo"><img src="../images/partners/Imbus-partner.gif" alt="imbus AG" width="150" /></a>
           </div>
-          <p>imbus AG is one of Germany's leading specialists for software quality assurance and test. With more than 110 personnel at four locations, imbus supports companies and IT-users in verifying and validating complex and demanding software systems, as well as in the optimization of their software development processes.</p>
+          <p>
+            imbus is one of Germany's leading specialists for software quality assurance and test. With more than 200 personnel at five locations,
+            imbus supports companies and IT-users in verifying and validating complex and demanding software systems, as well as in the optimization
+            of their software development processes.
+          </p>
         </div>
 
         <div class="spalte2">
