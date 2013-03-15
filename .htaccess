@@ -3,7 +3,7 @@ DirectoryIndex index.php
 
 Deny From 67.43.144.0/20
 # regular contact form spammers:
-Deny From 188.143.232.84/32
+Deny From 188.143.232.31/23
 Deny From 37.59.49.210/32
 
 Redirect permanent /jbed http://www.greenliff.ch
