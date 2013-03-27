@@ -31,6 +31,37 @@ $datei = $array[0];
       <div id="scrollcontent">
         <h1>Past Events</h1>
 
+        <div class="event" style="margin-top:10px;">
+          <div class="spalte1">
+            <img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" />
+          </div>
+
+          <div class="spalte2Breit">
+            <h2>Zürich, 19. März 2013</h2>
+            <h3 style="padding-top: 11px;">Trends in Testing 2013</h3>
+				<br />
+				Ort: Holiday Inn, Zürich Oerlikon<br /><br />
+				Dieses Jahr thematisierten wir die neue Norm fürs Testen: ISO/IEC 29119. 
+				Zusammen mit unserem Partner imbus haben wir den Teilnehmern gezeigt, wie es möglich ist mit Hilfe  
+				der neuen Norm 29119 ein solides Fundament für einen klaren und effektiven Testprozess zu legen. 
+          </div>
+        </div>
+
+        <div class="event">
+          <div class="spalte1">
+            <a href="http://www.ranorex.com/" target="_blank"><img src="../images/events/ranorex_logo.png" alt="Ranorex" /></a>
+          </div>
+          <div class="spalte2Breit" style="">
+            <h2>Zürich, 6. März 2013</h2>
+				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex - Best Practises in Test Automation</h3>
+				<p>
+					Ort: Technopark Zürich<br />
+				</p>
+					Die Teilnehmer haben interessante Testingprojekte aus der Praxis kennen lernen dürfen.
+					Unter anderem hat Daniel Rohr von der Greenliff AG über den Aufbau und Betrieb eines automatisierten Testroboters für Hörgeräte referiert.
+          </div>
+        </div>
+
         <div class="event">
           <div class="spalte1">
             <img src="../images/event.png" /><br ><br />

@@ -30,54 +30,6 @@ $datei = $array[0];
       </div>
       <div id="scrollcontent">
         <h1>Upcoming events</h1>
-
-
-        <div class="event">
-          <div class="spalte1">
-            <a href="http://www.ranorex.com/" target="_blank"><img src="../images/events/ranorex_logo.png" alt="Ranorex" /></a>
-          </div>
-
-          <div class="spalte2Breit" style="">
-            <h2>Zürich, 6. März 2013</h2>
-				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex - Best Practises in Test Automation</h3>
-				<p>
-					Ort: Technopark Zürich<br />
-				</p>
-				<a href="ranorex-sign-in.php">Anmeldung</a><br />
-				<a href="../docs/2013-03-Best-Practice-Day-Zurich.pdf?v=2" target="_blank">Flyer</a>
-          </div>
-        </div>
-
-        <div class="event" style="margin-top:10px;">
-          <div class="spalte1">
-            <a href="http://www.ranorex.com/" target="_blank"><img src="../images/events/ranorex_logo.png" alt="Ranorex" /></a>
-          </div>
-
-          <div class="spalte2Breit" style="">
-            <h2>Zürich, 7./8. März 2013</h2>
-				<h3 style="padding-top: 11px;padding-bottom: 5px;">Ranorex - Workshop: Testautomatisierung in Theorie und Praxis</h3>
-				<p>
-					Ort: Technopark Zürich<br />
-				</p>
-				<a href="ranorex-workshop-more-info.php">Ich habe Interesse, an diesem Workshop teilzunehmen</a><br />
-				<a href="http://www.ranorex.com/fileadmin/documents/Test-Automation-Workshop-Zurich.pdf" target="_blank">Flyer</a>
-          </div>
-        </div>
-
-        <div class="event" style="margin-top:10px;">
-          <div class="spalte1">
-            <a href="../trends_in_testing/"><img src="../images/events/trends_in_testing.png" alt="Logo Trends in Testing" width="150" height="74" /></a>
-          </div>
-
-          <div class="spalte2Breit">
-            <h2>Zürich, 19. März 2013</h2>
-            <a href="../trends_in_testing/"><h3 style="padding-top: 11px;">Trends in Testing 2013</h3></a>
-				<br />
-				Ort: Holiday Inn, Zürich Oerlikon<br /><br />
-				<strong>Neue Norm fürs Testen: Testen wird einfacher!</strong><br /><br />
-          </div>
-        </div>
-
       </div>
 <?php include_once("../includes/footer.html"); ?>
     </div>
