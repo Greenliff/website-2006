@@ -20,7 +20,7 @@ if($pfad == "company" || ($pfad == "" && $datei != "imprint"))
 */
 ?>
               <li><a href="/company/news.php"<?php if($datei == "news") { echo ' class="doppelpfeil"'; } ?>>News</a></li>
-              <li><a href="/company/events.php"<?php if($datei == "events") { echo ' class="doppelpfeil"'; } ?>>Upcoming events</a></li>
+              <!--<li><a href="/company/events.php"<?php if($datei == "events") { echo ' class="doppelpfeil"'; } ?>>Upcoming events</a></li>-->
               <li><a href="/company/past_events.php"<?php if($datei == "past_events") { echo ' class="doppelpfeil"'; } ?>>Past events</a></li>
               <li><a href="/company/jobs.php"<?php if($datei == "jobs") { echo ' class="doppelpfeil"'; } ?>>Jobs</a></li>
               <li><a href="/company/contact.php"<?php if($datei == "contact") { echo ' class="doppelpfeil"'; } ?>>Offices</a></li>
@@ -31,6 +31,7 @@ if($pfad == "company" || ($pfad == "" && $datei != "imprint"))
 }
 ?>
           </li>
+<!--
           <li><a href="/trends_in_testing"<?php if ($pfad == "trends" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "trends_in_testing") { echo ' class="einfachpfeil"'; } ?>>Trends in Testing 2013</a>
 <?php
 if($pfad == "trends_in_testing")
@@ -46,6 +47,7 @@ if($pfad == "trends_in_testing")
 }
 ?>
           </li>
+-->
           <li><a href="/portfolio/"<?php if ($pfad == "portfolio" && $datei == "index") { echo ' class="doppelpfeil"'; } else if ($pfad == "portfolio") { echo ' class="einfachpfeil"'; } ?>>Service Portfolio</a>
 <?php
 if($pfad == "portfolio")
