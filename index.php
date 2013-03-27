@@ -11,9 +11,6 @@ $datei = "index";
 		<meta name="language" content="en" />
 		<link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen" />
 		<link rel="shortcut icon" href="/favicon.ico" />
-		<style type="text/css">
-			.home { background-image: none; }
-		</style>
 		<?php include_once("includes/google-analytics.html"); ?>
 	</head>
 
@@ -51,34 +48,8 @@ $datei = "index";
 
 				<div class="news">
 					<h2>News</h2>
-					<p style="padding-top: 5px"><strong>Register now for our upcoming events:</strong></p>
-					<div style="padding: 5px 5px 0px 5px;">
-						&nbsp;<a href="company/events.php"><img src="images/events/ranorex_logo.png" width="110" alt="Ranorex" /></a><br />
-					</div>
-					<p>
-						<strong>Ranorex - Best Practises in Test Automation</strong>
-					</p>
-					<p style="padding-top:0">
-						Technopark Zürich, 6th March
-					</p>
-
-					<p style="padding-top: 0px; margin-bottom: 5px">
-						<a href="company/events.php">Read more...</a>
-					</p>
-
-					<div style="padding: 5px 5px 0px 5px;">
-						&nbsp;<a href="trends_in_testing/"><img src="images/events/trends_in_testing.png" width="110" alt="Trends in Testing" /></a><br />
-					</div>
-					<p>
-						<strong>Trends in Testing</strong>
-					</p>
-					<p style="padding-top:0">
-						Testen wird einfacher! Neue Norm fürs Testen<br />
-						Holiday Inn, Zürich Oerlikon, <br />19. März
-					</p>
-
-					<p style="padding-top: 0px; margin-bottom: 5px">
-						<a href="trends_in_testing/">Read more...</a>
+					<p style="padding-top: 10px; padding-bottom: 8px">
+						<strong style="font-size: 15px;line-height: 20px">Greenliff wishes you a very happy easter!</strong>
 					</p>
 				</div>
 
