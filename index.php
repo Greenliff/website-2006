@@ -48,8 +48,12 @@ $datei = "index";
 
 				<div class="news">
 					<h2>News</h2>
-					<p style="padding-top: 10px; padding-bottom: 8px">
-						<strong style="font-size: 15px;line-height: 20px">Greenliff wishes you a very happy easter!</strong>
+					<div class="bildlinks" style="padding:5px;">
+						<a href="/company/jobs.php"><img src="images/greenliff_hiring.gif" alt="road sign: men at work" width="167" height="53" /></a>
+					</div>
+					<p style="clear:left; padding-bottom: 8px"><strong>Greenliff is hiring</strong><br />
+						We are currently seeking a <a href="docs/20130410_EN_SoftwareTesterWepApps.pdf">Software Tester Web Applications (m/f)</a> 
+						at our Zurich Technopark office. Apply now.
 					</p>
 				</div>
 

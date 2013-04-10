@@ -41,11 +41,13 @@ require_once("../includes/funktionen.inc.php");
         </div>
 
          <div class="spalte2">
-          <!--<h1>We are hiring</h1>
-          <p>We are currently looking for motivated individuals to fill the following openings:</p>-->
+          <h1>We are hiring</h1>
 
-          <h1>Zurich</h1>
-          <p>We have no open positions currently.</p>
+          <p>We are currently looking for motivated individuals to fill the following openings:</p>
+          <h2>Zurich</h2>
+          <ul>
+            <li><a href="../docs/20130410_EN_SoftwareTesterWepApps.pdf" target="_blank">Software Tester Web Applications (m/f)</a></li>
+          </ul>
          </div>
 
          <div class="news">
