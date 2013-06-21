@@ -52,7 +52,7 @@ $datei = "index";
 						<a href="/company/jobs.php"><img src="images/greenliff_hiring.gif" alt="road sign: men at work" width="167" height="53" /></a>
 					</div>
 					<p style="clear:left; padding-bottom: 8px"><strong>Greenliff is hiring</strong><br />
-						We are currently seeking a <a href="docs/20130410_EN_SoftwareTesterWepApps.pdf">Software Tester Web Applications (m/f)</a> 
+						We are currently seeking a <a href="docs/201306_GE_Assistent_Assistentin.pdf">Assistant (m/f)</a> 
 						at our Zurich Technopark office. Apply now.
 					</p>
 				</div>

@@ -46,7 +46,7 @@ require_once("../includes/funktionen.inc.php");
           <p>We are currently looking for motivated individuals to fill the following openings:</p>
           <h2>Zurich</h2>
           <ul>
-            <li><a href="../docs/20130410_EN_SoftwareTesterWepApps.pdf" target="_blank">Software Tester Web Applications (m/f)</a></li>
+            <li><a href="../docs/201306_GE_Assistent_Assistentin.pdf" target="_blank">Assistant (m/f)</a></li>
           </ul>
          </div>
 
